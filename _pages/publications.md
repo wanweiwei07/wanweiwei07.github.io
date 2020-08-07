@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications (selected)"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,10 +8,10 @@ author_profile: true
 * <span style="color:red">[Preprint]</span>: [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. [Video](https://youtu.be/N9mZ-1_vSgs)
 * <span style="color:red">[Preprint]</span>: [Arranging Test Tubes in Racks Using Combined Task and Motion Planning](https://arxiv.org/abs/2005.03342), Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, arXiv: 2005.03342 [cs.RO], 2020. [Main Video](https://www.youtube.com/watch?v=abkVtdJqhII) [Side Video 1](https://www.youtube.com/watch?v=3aanBFHSdeE) [Side Video 2](https://www.youtube.com/watch?v=AwE7RqAZEpc).
 * <span style="color:red">[Preprint]</span>: [Planning to Build Soma Blocks Using a Dual-arm Robot](https://arxiv.org/pdf/2003.00699.pdf), Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2003.00699 [cs.RO], 2020. [Video](https://youtu.be/7ePD628eR1A) (<span style="color:red">Reported by</span> [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-nasa-curiosity-mars-rover-panorama))
-* Planning Grasps with Suction Cups and Parallel Grippers Using Superimposed Segmentation of Object Meshes, Weiwei Wan, Kensuke Harada, and Fumio Kanehiro, IEEE Transactions on Robotics (TRO), 2020. Video
-* Integrating Combined Task and Motion Planning with Compliant Control, Hao Chen, Juncheng Li, Weiwei Wan, Zhifeng Huang, and Kensuke Harada, International Journal of Intelligent Robotics and Applications (JIRA), 2020. Video 1 Video 2, BibTex
-* Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly, Mohamed Raessa, Jimmy Chi Yin Chen, Weiwei Wan, and Kensuke Harada, IEEE Transactions on Automation Science and Engineering (TASE), 2020. Video, BibTex
-* Tethered Tool Manipulation Planning with Cable Maneuvering, Daniel Sanchez, Weiwei Wan, and Kensuke Harada, IEEE Robotics and Automation Letters (RAL), with ICRA option, 2020. Video, BibTex
+* [Planning Grasps with Suction Cups and Parallel Grippers Using Superimposed Segmentation of Object Meshes](https://arxiv.org/pdf/1903.01631.pdf), Weiwei Wan, Kensuke Harada, and Fumio Kanehiro, IEEE Transactions on Robotics (TRO), 2020. [Video](https://www.youtube.com/watch?v=sJ6qrl-MUqM)
+* [Integrating Combined Task and Motion Planning with Compliant Control](https://arxiv.org/pdf/2003.11707.pdf), Hao Chen, Juncheng Li, Weiwei Wan, Zhifeng Huang, and Kensuke Harada, International Journal of Intelligent Robotics and Applications (JIRA), 2020. [Video 1](https://www.youtube.com/watch?v=somfm6s9GOA&t=1s) [Video 2](https://www.youtube.com/watch?v=gj-vFboBwxM), [Bibtex]()
+* [Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly](https://arxiv.org/pdf/1909.11280.pdf), Mohamed Raessa, Jimmy Chi Yin Chen, Weiwei Wan, and Kensuke Harada, IEEE Transactions on Automation Science and Engineering (TASE), 2020. [Video](https://www.youtube.com/watch?v=t_-89-N_RgM&t=24s), BibTex
+* [Tethered Tool Manipulation Planning with Cable Maneuvering](https://ieeexplore.ieee.org/document/9001169), Daniel Sanchez, Weiwei Wan, and Kensuke Harada, IEEE Robotics and Automation Letters (RAL), with ICRA option, 2020. [Video](https://www.youtube.com/watch?v=389fiZn16bY&t=7s), BibTex
 * Planning an Efficient and Robust Base Sequence for a Mobile Manipulator Performing Multiple Pick-and-place Tasks, Jingren Xu, Kensuke Harada, Weiwei Wan, Toshio Ueshiba, Yukiyasu Domae, IEEE International Conference on Robotics and Automation (ICRA), 2020. Video
 * Robotic General Parts Feeder: Bin-picking, Regrasping, and Kitting, Yukiyasu Domae, Akio Noda, Tatsuya Nagatani, Weiwei Wan, IEEE International Conference on Robotics and Automation (ICRA), 2020.
 * Geometric Characterization of Two-Finger Basket Grasps of 2-D Objects---Part II: Contact Space Formulation, Elon Rimon, Florian Pokorny, Weiwei Wan, IEEE International Conference on Robotics and Automation (ICRA), 2020.
