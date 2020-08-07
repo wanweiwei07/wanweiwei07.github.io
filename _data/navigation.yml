@@ -18,8 +18,8 @@ main:
   - title: "Teaching"
    url: /teaching/
    
-  - title: "原田研究室"
-   url: "http://roboticmanipulation.org"
+#   - title: "原田研究室"
+#    url: "http://roboticmanipulation.org"
     
   #- title: "Guide"
   #  url: /markdown/
