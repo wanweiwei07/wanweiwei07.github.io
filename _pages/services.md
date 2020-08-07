@@ -4,7 +4,12 @@ title: "Services"
 permalink: /services/
 author_profile: true
 ---
-
+* Call for Paper
+  * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems](), Sensors and Materials, Dec 31st, 2020.
+* Past Call for Paper
+  * [IROS2019 Workshop on Manipulation through Contacts: Bridging the Gap between Research Community and Industry](http://manipulation-workshop.com/)
+  * [RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots](https://sites.google.com/site/rss16irt/)
+  * [IROS2013 Fullday Workshop on Caging and Its Applications in Grasping/Multi-agent Cooperation](https://sites.google.com/site/iros2013workshoponcaging/)
 * Associate Editor
   * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
@@ -21,8 +26,6 @@ author_profile: true
   * Conference or Workshop Chair:
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2019, General Chair. (URL: Click here)
   * ACAIT2018 Co-Chair, AIACT2018, Local Chair.
-  * RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots. Jia Pan, Weiwei Wan, Dinesh Manocha, and Kensuke Harada. Jun 18th, 2016. (URL: Click here)
-  * IEEE/RSJ IROS2013 Fullday Workshop on Caging and Its Applications in Grasping/Multi-agent Cooperation. Weiwei Wan, Alberto Rodriguez, David Cappelleri, Jianhua Su and Satoshi Makita. Nov 7th, 2013. (URL: Click here)
 * Program Committee Member:
   * EPIA Conference on Artificial Intelligence (EPIA) 2019.
   * IEEE International Conference on Robotics and Automation Engineering (ICRAE) 2017.
