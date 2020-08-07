@@ -6,8 +6,8 @@ main:
 #   - title: "Software"
 #     url: /software/    
 
-#   - title: "People"
-#     url: /people/ 
+  - title: "People"
+    url: /people/ 
     
 #   - title: "Workshop"
 #     url: /workshop/
