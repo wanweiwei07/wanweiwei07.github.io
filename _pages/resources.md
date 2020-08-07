@@ -10,7 +10,7 @@ author_profile: true
 * Naming your slides: yearmonthdayauthor_content.ppt or pptx. E.g. 20180426moriyama_screwingbolts.pptx
 
 Technical Report Templates
-=====
+======
 * Guide
 * Latex Source
 * Naming your report: yearmonthdayauthor_content.pdf and yearmonthdayauthor_content.zip (tex package). E.g. 20180426moriyama_iros.pdf or zip
@@ -19,7 +19,7 @@ Technical Report Templates
 * Check your English with [Grammarly](https://app.grammarly.com/).
 
 A Primer on Making Slides
-=====
+======
 * Using the templates is highly recommended.
 * Take care of fonts and font sizes. 
   * All pages shall have same fonts for a certain language.
@@ -32,7 +32,7 @@ A Primer on Making Slides
   * You cannot directly do that in Powerpoint. Instead, save your slides into a pdf file, and print as 4x2slides/side using [Acrobat Reader](https://get.adobe.com/reader/).
  
 A Primer on Writing Technical Reports and Academic Paper
-=====
+======
 * In case you are a complete beginner and confused about how to get started, refer to the following instructions: [English version](https://drive.google.com/file/d/1JOWQBulV0HJpUJ2P3_axhwVoOv5wCaGP/view?usp=sharing) ([Japanese translation](https://drive.google.com/file/d/10nHb9m7H-aVLotnPPslf6yaTz7lua5nY/view?usp=sharing), [Chinese translation](https://drive.google.com/file/d/1N8mGN9FEaAecEiSkEFA2LmW7H41AWbav/view?usp=sharing))
 * A guide on good writing is [here](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm). The key point is <span style="color:red">spill the beans fast</span>.
 * My recommendations are as follows.
@@ -57,19 +57,19 @@ A Primer on Writing Technical Reports and Academic Paper
   * Please read [this article](https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing).
   
 Videos
-=====
+======
 * [EV screen recorder](http://www.ieway.cn/evcapture.html) is recommended for recording your screen. The result is directly encoded with H.264 and saved as mp4.
   * Alternative: [Vsdc video editor](http://www.videosoftdev.com/free-video-editor)
 * Use high-quality cameras (at least HD) and tripods in the lab to take real-world videos. Make sure the surrounding environment is tidied up.
 
 General Discussions
-=====
+======
 * I recommend share interesting techs, systems, developments, as well as ask questions on [Slack](https://harada-lab.slack.com/). wan-researchshare-eng is the English channel.
 * You may find interesting news shared by me and many other robotic researchers from the [SICE manipulation channel](https://www.facebook.com/groups/964076620332165/) on Facebook. The channel is organized by Prof. Harada. Another candidate is the [IEEE manipulation channel](https://www.facebook.com/groups/246281928815732/). The channel is organized by Maximo A. Roa.
 I use line/wechat for instance messaging. Drop by my office and scan my QR code if you would like to get connected in real time.
 
 名刺テンプレート （Name card)
-=====
+======
 * 大学生協まで発注するか、下記のWORDファイルをダウンロードし、エーワンマルチカードの紙を使ってプリントしてください（F10A4-1タイプ）.
 * You may pay Seikyo to make the cards for you, or you may download the following template and print it using name card printing sheet (A-one, F10A4-1 type).
   * [表側](https://drive.google.com/file/d/1UnQ_H86-diziaCJooTV7k6TXEHrbJDx9/view?usp=sharing)（front, Japanese）　[裏側](https://drive.google.com/open?id=1mwbPsA5nI1bIDYcW3TBThMNOCwPeUxvy)（back, English）
