@@ -8,12 +8,12 @@ main:
 
   - title: "People"
     url: /people/ 
-    
-#   - title: "Workshop"
-#     url: /workshop/
         
-#   - title: "Resources"
-#     url: /resources/
+  - title: "Resources"
+    url: /resources/
+    
+  - title: "Services"
+    url: /services/
     
 #   - title: "Teaching"
 #    url: /teaching/
