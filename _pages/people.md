@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "People"
+title: "Current students (Find more details on the [webpage of our lab](https://www.roboticmanipulation.org/))"
 permalink: /people/
 author_profile: true
 ---
 
-Current students (Find more details on the webpage of our lab)
-=====
  * PhD candidates:
     * Mohamed Raessa (D1 2018.4) -> Extrinsic manipulation
     * Zhengtao Hu (D1 2018.10) -> Mechanical tool design for a general robot
