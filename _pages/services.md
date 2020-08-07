@@ -11,8 +11,8 @@ author_profile: true
   * [RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots](https://sites.google.com/site/rss16irt/)
   * [IROS2013 Fullday Workshop on Caging and Its Applications in Grasping/Multi-agent Cooperation](https://sites.google.com/site/iros2013workshoponcaging/)
   
- Services
- =====
+Services
+=====
 * Associate Editor
   * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
