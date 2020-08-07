@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Software"
-    url: /software/    
+#   - title: "Software"
+#     url: /software/    
 
-  - title: "People"
-    url: /people/ 
+#   - title: "People"
+#     url: /people/ 
     
-  - title: "Workshop"
-    url: /workshop/
+#   - title: "Workshop"
+#     url: /workshop/
         
-  - title: "Resources"
-    url: /resources/
+#   - title: "Resources"
+#     url: /resources/
     
-  - title: "Teaching"
-   url: /teaching/
+#   - title: "Teaching"
+#    url: /teaching/
     
   #- title: "Guide"
   #  url: /markdown/
