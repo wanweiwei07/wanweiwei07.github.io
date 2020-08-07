@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Publications"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am an associate professor working at the [School of Engineering Science](https://www.es.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en), Japan.  I am running a lab together with [Professor Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/) and [Assistant Professor Keisuke Koyama](https://kk-hs-sa.website/). The website of our lab is https://www.roboticmanipulation.org. The name of the website shows our research topic -- robotic manipulation. Prior to Osaka University, I was on a tenure-track position at the Manipulation Research Group, [Intelligent System Research Institute](https://unit.aist.go.jp/is/index.html), [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html) during 2015-2017. I was affiliated with the [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/) from 2013 to 2015 and did my postdoc research at the [Manipulation Lab](http://mlab.ri.cmu.edu/) in the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I got my PhD in Robotics from the [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) in 2013.
+
+Publications
+======
 
 * <span style="color:red">Preprint</span>: A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies, Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. Video
 * <span style="color:red">Preprint</span>: Arranging Test Tubes in Racks Using Combined Task and Motion Planning, Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, arXiv: 2005.03342 [cs.RO], 2020. Main Video Side Video 1 Side Video 2.
@@ -73,10 +77,6 @@ An Online Initialization and Self-Calibration Method for Stereo Visual-Inertial 
 * Adaptive Replanning in Hard Changing Environments. Hong Liu and Weiwei Wan, in Proceedings of IEEE/RSJ International Conference on Robotics and Automation (ICRA), pp.5912-5918, 2010.
 * Collaboration of Spatial and Feature Attention for Visual Tracking. Hong Liu, Weiwei Wan, and Ying Shi, in Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp.2985-2992, 2009.
 * Predictive Model for Path Planning using K-near Dynamic Bridge Builder and Inner Parzen Window, Hong Liu, Ding Ding, and Weiwei Wan, in Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp.2133-2138, 2008.
-
-Short Bio
-======
-I am an associate professor working at the [School of Engineering Science](https://www.es.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en), Japan.  I am running a lab together with [Professor Kensuke Harada](http://www.hlab.sys.es.osaka-u.ac.jp/people/harada/) and [Assistant Professor Keisuke Koyama](https://kk-hs-sa.website/). The website of our lab is https://www.roboticmanipulation.org. The name of the website shows our research topic -- robotic manipulation. Prior to Osaka University, I was on a tenure-track position at the Manipulation Research Group, [Intelligent System Research Institute](https://unit.aist.go.jp/is/index.html), [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html) during 2015-2017. I was affiliated with the [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/) from 2013 to 2015 and did my postdoc research at the [Manipulation Lab](http://mlab.ri.cmu.edu/) in the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). I got my PhD in Robotics from the [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) in 2013.
 
 Research Interest and Past Studies
 ======
