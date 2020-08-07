@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiwei Wan / Weiwei Wan, Robotic Manipulation"
+title                    : "Weiwei Wan / Robotic Manipulation"
 title_separator          : "-"
 name                     : &name "Weiwei Wan"
 description              : &description "Weiwei Wan, Robotic Manipulation"
