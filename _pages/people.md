@@ -48,4 +48,4 @@ Alumni
     * Leiying He (2019.12-2020.3) (Assistant Professor, Zhejiang Sci-Tech University) 
     * [Elon Rimon](https://meeng.technion.ac.il/members/elon-rimon/) (2017.3-6)  (Associate Professor, Israel Institute of Technology) 
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
-    * [Hisashi Igawa (2016.6-8)](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (Government-employed Researcher, Hokkaido Research Organization) 
+    * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
