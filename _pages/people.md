@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current students (Find more details on the [webpage of our lab](https://www.roboticmanipulation.org/))"
+title: "Current students"
 permalink: /people/
 author_profile: true
 ---
