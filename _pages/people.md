@@ -32,7 +32,7 @@ author_profile: true
 Alumni
 =====
  * Past students
-    * [Joshua C. Triyonoputro] (http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2019.4 -> Learning peg-in-hole; Hand design for peg-in-hole tasks) The Pokemon Company
+    * [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2019.4 -> Learning peg-in-hole; Hand design for peg-in-hole tasks) The Pokemon Company
     * Hitoe Ochi (Master 2017.4-2019.3, Learning human motion using RNN) Shimazu
     * Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) Sony
     * Zepei Wu (Research Student 2015.4-2016.3)   Master student Tokyo Metropolitan University       
@@ -43,9 +43,9 @@ Alumni
     * Kantapon Akanesuvan (2018.7-2018.8) (An undergraduate student from University of California, Davis)
     * Yajue Yang (2017.7-10) (from The City University of Hong Kong)  
     * Jiayao Ma (2017.7-9) (from Peking University) Link to her soft @Github
-    * [Chao Cao] (http://caochao.me/) (2015.7-8)  (from The University of Hong Kong, now a Ph.D. candidate Carnegie Mellon University)
+    * [Chao Cao](http://caochao.me/) (2015.7-8)  (from The University of Hong Kong, now a Ph.D. candidate Carnegie Mellon University)
  * Past visiting scholar
     * Leiying He (2019.12-2020.3) (Assistant Professor, Zhejiang Sci-Tech University) 
-    * [Elon Rimon] (https://meeng.technion.ac.il/members/elon-rimon/) (2017.3-6)  (Associate Professor, Israel Institute of Technology) 
+    * [Elon Rimon](https://meeng.technion.ac.il/members/elon-rimon/) (2017.3-6)  (Associate Professor, Israel Institute of Technology) 
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
-    * [Hisashi Igawa (2016.6-8)] (http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (Government-employed Researcher, Hokkaido Research Organization) 
+    * [Hisashi Igawa (2016.6-8)](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (Government-employed Researcher, Hokkaido Research Organization) 
