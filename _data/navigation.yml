@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
+ - title: "Publications"
     url: /publications/
 
-  - title: "Software"
+ - title: "Software"
     url: /software/    
 
-  - title: "People"
+ - title: "People"
     url: /people/ 
     
-  - title: "Workshop"
+ - title: "Workshop"
     url: /workshop/
         
-  - title: "Resources"
+ - title: "Resources"
     url: /resources/
     
-  - title: "Teaching"
+ - title: "Teaching"
    url: /teaching/
     
   #- title: "Guide"
