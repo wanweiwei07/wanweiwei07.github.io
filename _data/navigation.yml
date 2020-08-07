@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-#   - title: "Software"
-#     url: /software/    
+    url: /publications/  
 
   - title: "People"
     url: /people/ 
@@ -12,7 +9,7 @@ main:
   - title: "Resources"
     url: /resources/
     
-  - title: "Call for Paper and Services"
+  - title: "Services"
     url: /services/
     
   - title: "Teaching"
@@ -21,5 +18,8 @@ main:
 #   - title: "原田研究室"
 #    url: "http://roboticmanipulation.org"
     
+#   - title: "Software"
+#     url: /software/  
+
   #- title: "Guide"
   #  url: /markdown/
