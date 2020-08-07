@@ -4,19 +4,19 @@ main:
     url: /publications/
 
   - title: "Software"
-    url: /talks/    
+    url: /software/    
 
   - title: "People"
-    url: /teaching/    
+    url: /people/ 
     
   - title: "Workshop"
-    url: /portfolio/
+    url: /workshop/
         
   - title: "Resources"
-    url: /year-archive/
+    url: /resources/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Teaching"
+   url: /teaching/
     
   #- title: "Guide"
   #  url: /markdown/
