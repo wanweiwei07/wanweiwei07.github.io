@@ -11,8 +11,8 @@ author_profile: true
 
 Technical Report Templates
 ======
-* Guide
-* Latex Source
+* [Guide](https://drive.google.com/open?id=17nl71bxC1NI_ELB7aSV6wUd5et-BLrld)
+* [Latex Source](https://drive.google.com/open?id=1F5PUgFk91vwCV2hvi_dKJw8tuVjg4yDX)
 * Naming your report: yearmonthdayauthor_content.pdf and yearmonthdayauthor_content.zip (tex package). E.g. 20180426moriyama_iros.pdf or zip
 * Use zip, instead of rar to compress your tex package.
 * Use online editors like [Overleaf](https://www.overleaf.com/) is a highly recommended.
