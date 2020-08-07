@@ -12,11 +12,14 @@ main:
   - title: "Resources"
     url: /resources/
     
-  - title: "Call for Paper"
+  - title: "Call for Paper & Services"
     url: /services/
     
   - title: "Teaching"
    url: /teaching/
+   
+  - title: "hlab@osaka-u"
+   url: "http://roboticmanipulation.org"
     
   #- title: "Guide"
   #  url: /markdown/
