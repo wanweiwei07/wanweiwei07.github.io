@@ -1,15 +1,18 @@
 ---
 layout: archive
-title: "Services"
+title: "Call for Paper"
 permalink: /services/
 author_profile: true
 ---
-* Call for Paper
+* Current Call for Paper
   * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems](https://wanweiwei07.github.io/files/CFP-Sensors%26Materials.pdf), Sensors and Materials, Deadline: Dec 31st, 2020.
 * Past Call for Paper
   * [IROS2019 Workshop on Manipulation through Contacts: Bridging the Gap between Research Community and Industry](http://manipulation-workshop.com/)
   * [RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots](https://sites.google.com/site/rss16irt/)
   * [IROS2013 Fullday Workshop on Caging and Its Applications in Grasping/Multi-agent Cooperation](https://sites.google.com/site/iros2013workshoponcaging/)
+  
+ Services
+ =====
 * Associate Editor
   * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
