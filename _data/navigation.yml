@@ -15,8 +15,8 @@ main:
   - title: "Call for Paper"
     url: /services/
     
-#   - title: "Teaching"
-#    url: /teaching/
+  - title: "Teaching"
+   url: /teaching/
     
   #- title: "Guide"
   #  url: /markdown/
