@@ -5,8 +5,8 @@ permalink: /resources/
 author_profile: true
 ---
 
-* Aspect ratio 3:4
-* Aspect ratio 16:9
+* [Aspect ratio 3:4](https://drive.google.com/open?id=1YG9ZrEuOVbUPSJA4jZPQW3X5DvlTG06T)
+* [Aspect ratio 16:9](https://drive.google.com/open?id=1ZlTBCX-82qmsS4wF2qI6TaAcHCLaxWiI)
 * Naming your slides: yearmonthdayauthor_content.ppt or pptx. E.g. 20180426moriyama_screwingbolts.pptx
 
 Technical Report Templates
