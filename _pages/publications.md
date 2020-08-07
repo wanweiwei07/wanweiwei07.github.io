@@ -5,13 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-Publications
-======
-
-* <span style="color:red">Preprint</span>: A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies, Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. Video
-* <span style="color:red">Preprint</span>: Arranging Test Tubes in Racks Using Combined Task and Motion Planning, Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, arXiv: 2005.03342 [cs.RO], 2020. Main Video Side Video 1 Side Video 2.
-* <span style="color:red">Preprint</span>: Planning to Build Soma Blocks Using a Dual-arm Robot, Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2003.00699 [cs.RO], 2020. Video (Reported by IEEE Spectrum Video Friday)
+* <span style="color:red">Preprint</span>: [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. [Video](https://youtu.be/N9mZ-1_vSgs)
+* <span style="color:red">Preprint</span>: [Arranging Test Tubes in Racks Using Combined Task and Motion Planning](https://arxiv.org/abs/2005.03342), Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, arXiv: 2005.03342 [cs.RO], 2020. [Main Video](https://www.youtube.com/watch?v=abkVtdJqhII) [Side Video 1](https://www.youtube.com/watch?v=3aanBFHSdeE) [Side Video 2](https://www.youtube.com/watch?v=AwE7RqAZEpc).
+* <span style="color:red">Preprint</span>: [Planning to Build Soma Blocks Using a Dual-arm Robot](https://arxiv.org/pdf/2003.00699.pdf), Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2003.00699 [cs.RO], 2020. [Video](https://youtu.be/7ePD628eR1A) (<span style="color:red">Reported by</span> [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-nasa-curiosity-mars-rover-panorama))
 * Planning Grasps with Suction Cups and Parallel Grippers Using Superimposed Segmentation of Object Meshes, Weiwei Wan, Kensuke Harada, and Fumio Kanehiro, IEEE Transactions on Robotics (TRO), 2020. Video
 * Integrating Combined Task and Motion Planning with Compliant Control, Hao Chen, Juncheng Li, Weiwei Wan, Zhifeng Huang, and Kensuke Harada, International Journal of Intelligent Robotics and Applications (JIRA), 2020. Video 1 Video 2, BibTex
 * Human-in-the-loop Robotic Manipulation Planning for Collaborative Assembly, Mohamed Raessa, Jimmy Chi Yin Chen, Weiwei Wan, and Kensuke Harada, IEEE Transactions on Automation Science and Engineering (TASE), 2020. Video, BibTex
