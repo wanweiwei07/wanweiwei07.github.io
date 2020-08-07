@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+The following picture shows the robots in our lab. It is rendered using a simulation/planning system developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html). This webiste is English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan).
 <img src="https://wanweiwei07.github.io/images/robotlist2.jpg">
 
 Short Bio
