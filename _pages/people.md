@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current students"
+title: "Current Students"
 permalink: /people/
 author_profile: true
 ---
