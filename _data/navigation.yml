@@ -12,14 +12,14 @@ main:
   - title: "Call for Paper and Services"
     url: /services/
     
+  - title: "Software"
+    url: /software/  
+    
   - title: "Teaching"
     url: /teaching/
    
   - title: "原田研究室"
     url: "http://roboticmanipulation.org"
-    
-#   - title: "Software"
-#     url: /software/  
 
   #- title: "Guide"
   #  url: /markdown/
