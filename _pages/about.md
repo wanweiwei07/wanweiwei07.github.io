@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan). The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/). It is rendered using a simulation/planning system developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html).
+This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan). The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/). It is rendered using a simulation/planning system developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html). A bunch of robots controlled using the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/).
 <img src="https://wanweiwei07.github.io/images/robotlist2.jpg">
 
 Short Bio
