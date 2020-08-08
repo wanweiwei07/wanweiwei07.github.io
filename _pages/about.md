@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 News
 ======
 * <span style="color:red">[Preprint]</span>: [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. [Video](https://youtu.be/N9mZ-1_vSgs)
