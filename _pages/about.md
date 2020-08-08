@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-News
+News & Preprints
 ======
 * <span style="color:red">[Preprint]</span>: [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. [Video](https://youtu.be/N9mZ-1_vSgs)
 * <span style="color:red">[Preprint]</span>: [Arranging Test Tubes in Racks Using Combined Task and Motion Planning](https://arxiv.org/abs/2005.03342), Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, arXiv: 2005.03342 [cs.RO], 2020. [Main Video](https://www.youtube.com/watch?v=abkVtdJqhII), [Side Video 1](https://www.youtube.com/watch?v=3aanBFHSdeE), [Side Video 2](https://www.youtube.com/watch?v=AwE7RqAZEpc).
