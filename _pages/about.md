@@ -32,4 +32,5 @@ Prospective Students
 ======
 If you are considering our lab, you are probably looking at the top-tier institutes working on robotic manipulation. Thank you very much for your interest. In our lab, we challenge our students to develop practical hardware and software systems. We have strong connections with industry and train our students to not only publish high-quality paper but also develop systems that solve real-world problems raised by our partners. The research topics of students working with me could be found [in this page](https://wanweiwei07.github.io/people/){:target="_blank"}.
 
+Past visitors (Continued from [my previous homepage](https://sites.google.com/site/weiweilab/){:target="_blank"})
 <div style="display:inline-block;width:270px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=1tbxe9zedcg&amp;m=0&amp;c=007eff&amp;cr1=00ff6c&amp;br=2&amp;sx=0&amp;ds=70" async="async"></script></div>
