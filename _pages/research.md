@@ -12,12 +12,37 @@ We develop a software system called "WRS" at Osaka University. Although the goal
 Research Topics
 ======
 My research focus is on Robotic Manipulation, including all topics related to robots that touch and change the physical word.
- * Combined Task and Motion Planning
- * Fixtures, Grippers, Multifinger Hands
+ * Grasp Planning
+   [https://www.youtube.com/watch?v=sJ6qrl-MUqM](https://www.youtube.com/watch?v=sJ6qrl-MUqM)
+ * Regrasp
+   [https://www.youtube.com/watch?v=harO8D1glms](https://www.youtube.com/watch?v=harO8D1glms)
+   [https://www.youtube.com/watch?v=MEhagiHSjpY](https://www.youtube.com/watch?v=MEhagiHSjpY)
+   [https://www.youtube.com/watch?v=jIiDe02Cdy0](https://www.youtube.com/watch?v=jIiDe02Cdy0)
+   [https://www.youtube.com/watch?v=orir5XHdYko](https://www.youtube.com/watch?v=orir5XHdYko)
  * Caging
+   [https://www.youtube.com/watch?v=CJuD6NKIzBk](https://www.youtube.com/watch?v=CJuD6NKIzBk)
+   [https://www.youtube.com/watch?v=1Ip42wAFtKQ](https://www.youtube.com/watch?v=1Ip42wAFtKQ)
+   [https://www.youtube.com/watch?v=ep9E8jGNOP0](https://www.youtube.com/watch?v=ep9E8jGNOP0)
  * Contact Rich Manipulation
+   [https://www.youtube.com/watch?v=Nx1ZnXJj_8A](https://www.youtube.com/watch?v=Nx1ZnXJj_8A)
+ * Motion Planning
+   [https://www.youtube.com/watch?v=389fiZn16bY](https://www.youtube.com/watch?v=389fiZn16bY)
+   [https://www.youtube.com/watch?v=9-TQoMbrRZQ](https://www.youtube.com/watch?v=9-TQoMbrRZQ)
+ * Combined Task and Motion Planning
+   [https://www.youtube.com/watch?v=abkVtdJqhII](https://www.youtube.com/watch?v=abkVtdJqhII)
+   [https://www.youtube.com/watch?v=AaxNXT5DsuE](https://www.youtube.com/watch?v=AaxNXT5DsuE)
+ * Fixtures, Grippers, Multifinger Hands
+   [https://www.youtube.com/watch?v=uZUF4Z11vUE](https://www.youtube.com/watch?v=uZUF4Z11vUE)
+   [https://www.youtube.com/watch?v=N9mZ-1_vSgs](https://www.youtube.com/watch?v=N9mZ-1_vSgs)
+   [https://www.youtube.com/watch?v=o5b47JTD6Fs](https://www.youtube.com/watch?v=o5b47JTD6Fs)
  * Robot Vision and SLAM
  * Tactile Sensors
  * Soft robots
  * Assembly
+   [https://www.youtube.com/watch?v=7ePD628eR1A](https://www.youtube.com/watch?v=7ePD628eR1A)
+ * Human Skill Transfer
+   [https://www.youtube.com/watch?v=9hI_XdLtXIk](https://www.youtube.com/watch?v=9hI_XdLtXIk)
+   [https://www.youtube.com/watch?v=B75rBqCLYRQ](https://www.youtube.com/watch?v=B75rBqCLYRQ)
+ * Human Robot Collaboration
+   [https://www.youtube.com/watch?v=t_-89-N_RgM](https://www.youtube.com/watch?v=t_-89-N_RgM)
  * Social, Industrial, Agricultural Applications
