@@ -7,14 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-News & Preprints
-======
-* <span style="color:red">[Preprint]</span>: [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2006.10366 [cs.RO], 2020. [Video](https://youtu.be/N9mZ-1_vSgs)
-* <span style="color:red">[Preprint]</span>: [Arranging Test Tubes in Racks Using Combined Task and Motion Planning](https://arxiv.org/abs/2005.03342), Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, arXiv: 2005.03342 [cs.RO], 2020. [Main Video](https://www.youtube.com/watch?v=abkVtdJqhII), [Side Video 1](https://www.youtube.com/watch?v=3aanBFHSdeE), [Side Video 2](https://www.youtube.com/watch?v=AwE7RqAZEpc).
-* <span style="color:red">[Preprint]</span>: [Planning to Build Soma Blocks Using a Dual-arm Robot](https://arxiv.org/pdf/2003.00699.pdf), Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2003.00699 [cs.RO], 2020. [Video](https://youtu.be/7ePD628eR1A) <span style="color:red">(Reported by</span> [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-nasa-curiosity-mars-rover-panorama)<span style="color:red">)</span>
-
-Foreword
-======
 This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. It is rendered using a simulation/planning system developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
 <img src="https://wanweiwei07.github.io/images/robotlist2.jpg">
 
