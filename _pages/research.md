@@ -13,9 +13,11 @@ Research Topics
 ======
 My research focus is on Robotic Manipulation, including all topics related to robots that touch and change the physical word.
  * Combined Task and Motion Planning
- * Fixtures and Grippers
+ * Fixtures, Grippers, Multifinger Hands
  * Caging
  * Contact Rich Manipulation
+ * Robot Vision and SLAM
  * Tactile Sensors
+ * Soft robots
  * Assembly
  * Social, Industrial, Agricultural Applications
