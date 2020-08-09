@@ -13,7 +13,7 @@ Research Topics
 ======
 My research focus is on Robotic Manipulation, including all topics related to robots that touch and change the physical word.
  * Grasp Planning\
-   [https://www.youtube.com/watch?v=sJ6qrl-MUqM](https://www.youtube.com/watch?v=sJ6qrl-MUqM)
+   [(http://img.youtube.com/vi/sJ6qrl-MUqM/0.jpg)][https://www.youtube.com/watch?v=sJ6qrl-MUqM](https://www.youtube.com/watch?v=sJ6qrl-MUqM)
  * Regrasp\
    [https://www.youtube.com/watch?v=harO8D1glms](https://www.youtube.com/watch?v=harO8D1glms)\
    [https://www.youtube.com/watch?v=MEhagiHSjpY](https://www.youtube.com/watch?v=MEhagiHSjpY)\
