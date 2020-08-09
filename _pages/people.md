@@ -31,7 +31,7 @@ author_profile: true
 Alumni
 =====
  * Past students\
-    &#9676; [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2019.4 -> Learning peg-in-hole; Hand design for peg-in-hole tasks) The Pokemon Company\
+    &#9676; [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2019.4 -> Learning peg-in-hole) The Pokemon Company\
     &#9676; Hitoe Ochi (Master 2017.4-2019.3, Learning human motion using RNN) Shimazu\
     &#9676; Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) Sony\
     &#9676; Zepei Wu (Research Student 2015.4-2016.3)   Master student Tokyo Metropolitan University
