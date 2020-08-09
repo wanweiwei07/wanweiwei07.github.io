@@ -18,7 +18,7 @@ My research focus is on Robotic Manipulation, including all topics related to ro
    [https://www.youtube.com/watch?v=harO8D1glms](https://www.youtube.com/watch?v=harO8D1glms)\
    [https://www.youtube.com/watch?v=MEhagiHSjpY](https://www.youtube.com/watch?v=MEhagiHSjpY)\
    [https://www.youtube.com/watch?v=jIiDe02Cdy0](https://www.youtube.com/watch?v=jIiDe02Cdy0)\
-   [https://www.youtube.com/watch?v=orir5XHdYko](https://www.youtube.com/watch?v=orir5XHdYko)\
+   [https://www.youtube.com/watch?v=orir5XHdYko](https://www.youtube.com/watch?v=orir5XHdYko)
  * Caging\
    [https://www.youtube.com/watch?v=CJuD6NKIzBk](https://www.youtube.com/watch?v=CJuD6NKIzBk)\
    [https://www.youtube.com/watch?v=1Ip42wAFtKQ](https://www.youtube.com/watch?v=1Ip42wAFtKQ)\
