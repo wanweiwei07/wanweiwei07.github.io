@@ -11,7 +11,7 @@ We develop a software system called "WRS" at Osaka University. Although the goal
 
 Research Topics
 ======
-My research focus is in Robotic Manipulation, including all topics related to robots that touch and chang the physical word.
+My research focus is on Robotic Manipulation, including all topics related to robots that touch and chang the physical word.
  * Combined Task and Motion Planning
  * Fixtures and Grippers
  * Caging
