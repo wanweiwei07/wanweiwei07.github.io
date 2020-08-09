@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Software"
-permalink: /software/
+permalink: /research/
 author_profile: true
 ---
 
