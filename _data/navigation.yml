@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/  
+    
+  - title: "Research"
+    url: /research/  
 
   - title: "People"
     url: /people/ 
@@ -11,9 +14,6 @@ main:
     
   - title: "Call for Paper and Services"
     url: /services/
-    
-  - title: "Software"
-    url: /software/  
     
   - title: "Teaching"
     url: /teaching/
