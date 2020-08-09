@@ -39,6 +39,8 @@ My research focus is on Robotic Manipulation, including all topics related to ro
  * Tactile Sensors
  * Soft robots
  * Assembly\
+   [https://www.youtube.com/watch?v=gj-vFboBwxM](https://www.youtube.com/watch?v=gj-vFboBwxM)\
+   [https://www.youtube.com/watch?v=dQx9OIBNdzk](https://www.youtube.com/watch?v=dQx9OIBNdzk)\
    [https://www.youtube.com/watch?v=7ePD628eR1A](https://www.youtube.com/watch?v=7ePD628eR1A)
  * Human Skill Transfer\
    [https://www.youtube.com/watch?v=9hI_XdLtXIk](https://www.youtube.com/watch?v=9hI_XdLtXIk)\
