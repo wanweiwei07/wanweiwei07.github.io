@@ -19,15 +19,20 @@ Services
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
   * IEEE Robotics and Automation Letters（RA-L) 2018~.
 * Conference Editorial Board
+  * International Conference on Developmental Learning (ICDL) 2020.
   * IEEE International Conference on Robot Learning (CoRL) 2020.
   * IEEE/RAS International Conference on Robotics and Automation (ICRA) 2020.
+  * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2020.
   * IEEE/RAS International Conference on Humanoid Robots (Humanoids) 2019.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2019.
   * Asian Conference on Artificial Intelligence Technology (ACAIT) 2019.
   * IEEE/RSJ Interntional Conference on Intelligent Robots and Systems (IROS) 2016.
   * WRC Symposium on Advanced Robotics and Automation (WRC SARA) 2018, 2019.
   * IEEE International Conference on Robotics and Biomimetics (ROBIO) 2015, 2016, 2017.
-  * Conference or Workshop Chair:
+* Conference or Workshop Chair:
+  * IEEE/RAS International Conference on Robotics and Automation (ICRA) 2024, Industry Relations.
+  * IEEE/RSJ Interntional Conference on Intelligent Robots and Systems (IROS) 2022, Registration.
+  * International Conference on Developmental Learning (ICDL) 2021, Program Chair.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2019, General Chair. (URL: Click here)
   * ACAIT2018 Co-Chair, AIACT2018, Local Chair.
 * Program Committee Member:
