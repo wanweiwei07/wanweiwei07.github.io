@@ -15,8 +15,11 @@ main:
   - title: "Editorials and Services"
     url: /services/
     
-  - title: "Teaching"
+  - title: "授業"
     url: /teaching/
+    subfolderitems:
+      - page: "情報処理演習"
+        url: /teaching/jse/
    
   - title: "原田研究室"
     url: "http://roboticmanipulation.org"
