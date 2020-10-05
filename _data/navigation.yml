@@ -15,8 +15,7 @@ main:
   - title: "Editorials and Services"
     url: /services/
     
-  - title: "授業"
-    url: /teaching/
+  - title: "授業(Teaching)"
     subfolderitems:
       - page: "情報処理演習"
         url: /teaching/jse/
