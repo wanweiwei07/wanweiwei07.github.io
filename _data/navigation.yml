@@ -16,9 +16,7 @@ main:
     url: /services/
     
   - title: "授業(Teaching)"
-    subfolderitems:
-      - page: "情報処理演習"
-        url: /teaching/jse/
+    url: /teaching/
    
   - title: "原田研究室"
     url: "http://roboticmanipulation.org"
