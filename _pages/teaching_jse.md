@@ -5,7 +5,7 @@ permalink: /teaching/jse/
 author_profile: true
 ---
 
-* 2020年度　[情報処理演習ホームページ](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/)（[テキスト](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/text/index.html)、[課題](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/index.html)）
+* 2020年度　[情報処理演習共通ホームページ](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/)（[テキスト](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/text/index.html)、[課題](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/index.html)）
 * 連絡先：基礎工学部F棟522号室
 
 ---
