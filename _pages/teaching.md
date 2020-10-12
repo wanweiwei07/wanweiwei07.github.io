@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "授業（Teaching）"
 permalink: /teaching/
 author_profile: true
 ---
