@@ -21,7 +21,7 @@ Services
 * Conference Editorial Board
   * International Conference on Developmental Learning (ICDL) 2020.
   * IEEE International Conference on Robot Learning (CoRL) 2020.
-  * IEEE/RAS International Conference on Robotics and Automation (ICRA) 2020.
+  * IEEE/RAS International Conference on Robotics and Automation (ICRA) 2020, 2021.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2020.
   * IEEE/RAS International Conference on Humanoid Robots (Humanoids) 2019.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2019.
