@@ -33,14 +33,14 @@ author_profile: true
 * スケジュール・講義資料
   * 第0回　10月5日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)
   * 第1回　10月12日（条件分岐）[講義２](https://wanweiwei07.github.io/files/jse2.pdf)、[課題２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai02.html)
-  * 第2回　10月19日（条件分岐）[講義３](https://wanweiwei07.github.io/files/jse3.pdf)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
-  * 第3回　10月26日（繰り返し）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
-  * <span style="color: gray;">第4回　11月2日（条件分岐と繰り返しの組合せ）講義４、宿題４</span>
-  * <span style="color: gray;">第5回　11月9日（関数その１）講義５、宿題５</span>
-  * <span style="color: gray;">第6回　11月16日（配列その１）講義６、宿題６</span>
-  * <span style="color: gray;">第7回　12月7日（関数その２）講義７、宿題７</span>
-  * <span style="color: gray;">第8回　12月14日（配列その２）講義８、宿題８</span>
-  * <span style="color: gray;">第9回　12月21日（配列その２　続き）講義９、宿題９</span>
-  * <span style="color: gray;">第10回　1月4日（ポインタ）講義１０、宿題１０</span>
-  * <span style="color: gray;">第11回　1月18日（ファイル）講義１１、宿題１１</span>
-  * <span style="color: gray;">第12回　1月25日（予備日　総まとめ　あみだくじ）講義１２、最終課題</span>
+  * 第2回　10月19日（繰り返し）[講義３](https://wanweiwei07.github.io/files/jse3.pdf)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
+  * 第3回　10月26日（条件分岐と繰り返しの組合せ）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
+  * <span style="color: gray;">第4回　11月2日（関数その１）講義４、宿題４</span>
+  * <span style="color: gray;">第5回　11月9日（配列その１）講義５、宿題５</span>
+  * <span style="color: gray;">第6回　11月16日（関数その２）講義６、宿題６</span>
+  * <span style="color: gray;">第7回　12月7日（配列その２）講義７、宿題７</span>
+  * <span style="color: gray;">第8回　12月14日（配列その２　続き）講義８、宿題８</span>
+  * <span style="color: gray;">第9回　12月21日（ポインタ）講義９、宿題９</span>
+  * <span style="color: gray;">第10回　1月4日（予備日）講義１０、宿題１０</span>
+  * <span style="color: gray;">第10回　1月18日（ファイル）講義１１、宿題１１</span>
+  * <span style="color: gray;">第11回　1月25日（総まとめ　あみだくじ）講義１２、最終課題</span>
