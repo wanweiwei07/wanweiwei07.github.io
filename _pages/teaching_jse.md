@@ -36,7 +36,7 @@ author_profile: true
   * 第2回　10月19日（繰り返し）[講義３](https://wanweiwei07.github.io/files/jse3.pdf)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
   * 第3回　10月26日（条件分岐と繰り返しの組合せ）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
   * 第4回　11月2日（関数その１）[講義５](https://wanweiwei07.github.io/files/jse5.pdf)、[課題５](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai05.html)
-  * <span style="color: gray;">第5回　11月9日（配列その１）講義５、宿題５</span>
+  * 第5回　11月9日（配列その１）[講義６](https://wanweiwei07.github.io/files/jse6.pdf)、[課題６](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai06.html)
   * <span style="color: gray;">第6回　11月16日（関数その２）講義６、宿題６</span>
   * <span style="color: gray;">第7回　12月7日（配列その２）講義７、宿題７</span>
   * <span style="color: gray;">第8回　12月14日（配列その２　続き）講義８、宿題８</span>
