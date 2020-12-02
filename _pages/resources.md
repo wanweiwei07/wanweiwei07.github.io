@@ -29,7 +29,7 @@ A Primer on Making Slides
       * Use [silhouette rendering](https://www.panda3d.org/blog/wp-content/uploads/2018/04/2018-04-19-222925_1042x747_scrot.png): White background, No shadow, No real-time graphics, No shaded rendering.
       * Use transparency and colored transparency to denote complicated design; Use solid color to denote key components (linkages, cables, etc.)
 * Prepare your handouts as double-sided A4 pages, with 8 slides on each side.
-  * You cannot directly do that in Powerpoint. Instead, save your slides into a pdf file, and print as 4x2slides/side using [Acrobat Reader](https://get.adobe.com/reader/).
+  * You cannot directly do that in Powerpoint. Instead, save your slides into a pdf file, then open and print it as 4x2slides/side using [Acrobat Reader](https://get.adobe.com/reader/).
  
 A Primer on Writing Technical Reports and Academic Paper
 ======
@@ -58,15 +58,26 @@ A Primer on Writing Technical Reports and Academic Paper
   
 Videos
 ======
-* [EV screen recorder](http://www.ieway.cn/evcapture.html) is recommended for recording your screen. The result is directly encoded with H.264 and saved as mp4.
-  * Alternative: [Vsdc video editor](http://www.videosoftdev.com/free-video-editor)
 * Use high-quality cameras (at least HD) and tripods in the lab to take real-world videos. Make sure the surrounding environment is tidied up.
+* Use multiple cameras to take videos from different view points and of different scales.
 
 General Discussions
 ======
 * I recommend share interesting techs, systems, developments, as well as ask questions on [Slack](https://harada-lab.slack.com/). wan-researchshare-eng is the English channel.
 * You may find interesting news shared by me and many other robotic researchers from the [SICE manipulation channel](https://www.facebook.com/groups/964076620332165/) on Facebook. The channel is organized by Prof. Harada. Another candidate is the [IEEE manipulation channel](https://www.facebook.com/groups/246281928815732/). The channel is organized by Maximo A. Roa.
 I use line/wechat for instance messaging. Drop by my office and scan my QR code if you would like to get connected in real time.
+
+Third-Party Tools
+======
+A list of third-party tools that might be helpful to you.
+* [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/): Compiling Packages on Windows 
+* [Msys2](https://www.msys2.org/): Linux Environment and Building Tools on Windows
+* [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10): Microsoft VM 
+* [Overleaf](https://www.overleaf.com/): Online Text Editing
+* [Grammarly](https://app.grammarly.com/): Online Grammar Check
+* [DeepL](https://www.deepl.com/en/translator): Online Translation
+* [EV Screen Recorder](http://www.ieway.cn/evcapture.html): Screen Video Recording
+* [Screen to GIF](https://www.screentogif.com/): Make GIF Videos 
 
 名刺テンプレート （Name card)
 ======
