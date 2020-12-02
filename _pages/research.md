@@ -48,3 +48,13 @@ My research focus is on Robotic Manipulation, including all topics related to ro
  * Human Robot Collaboration\
    [https://www.youtube.com/watch?v=t_-89-N_RgM](https://www.youtube.com/watch?v=t_-89-N_RgM)
  * Social, Industrial, Agricultural Applications
+
+Third-Party Tools
+======
+A list of third-party tools that might be helpful to you.
+ * [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/): Compiling Packages on Windows 
+ * [Msys2](https://www.msys2.org/): Linux Environment and Building Tools on Windows
+ * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10): Microsoft VM 
+ * [Overleaf](https://www.overleaf.com/): Online Text Editing
+ * [Grammarly](https://app.grammarly.com/): Online Grammar Check
+ * [DeepL](https://www.deepl.com/en/translator): Online Translation
