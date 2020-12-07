@@ -78,6 +78,7 @@ A list of third-party tools that might be helpful to you.
 * [DeepL](https://www.deepl.com/en/translator): Online Translation
 * [EV Screen Recorder](http://www.ieway.cn/evcapture.html): Screen Video Recording
 * [Screen to GIF](https://www.screentogif.com/): Make GIF Videos 
+* [Rapid Environment Editor](https://www.rapidee.com/): A Friendly Editor for Configuring Windows Environment Variables
 
 名刺テンプレート （Name card)
 ======
