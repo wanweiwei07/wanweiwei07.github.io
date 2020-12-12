@@ -8,16 +8,19 @@ main:
 
   - title: "People"
     url: /people/ 
-        
-  - title: "Resources"
-    url: /resources/
     
+  - title: "WRS Software"
+    url: /wrs/
+        
   - title: "Editorials and Services"
     url: /services/
     
   - title: "授業(Teaching)"
     url: /teaching/
    
+  - title: "Resources"
+    url: /resources/
+    
   - title: "原田研究室"
     url: "http://roboticmanipulation.org"
 
