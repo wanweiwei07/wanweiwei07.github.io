@@ -5,8 +5,9 @@ permalink: /resources/
 author_profile: true
 ---
 
-* [Aspect ratio 3:4](https://drive.google.com/open?id=1YG9ZrEuOVbUPSJA4jZPQW3X5DvlTG06T)
-* [Aspect ratio 16:9](https://drive.google.com/open?id=1ZlTBCX-82qmsS4wF2qI6TaAcHCLaxWiI)
+* [Aspect ratio 3:4 2018](https://drive.google.com/open?id=1YG9ZrEuOVbUPSJA4jZPQW3X5DvlTG06T)
+* [Aspect ratio 16:9 2018](https://drive.google.com/open?id=1ZlTBCX-82qmsS4wF2qI6TaAcHCLaxWiI)
+* [Aspect ratio 16:9 2020](https://drive.google.com/file/d/190JF4keHgCFMXakqgyRHzBDb-dmMbNSr/view?usp=sharing)
 * Naming your slides: yearmonthdayauthor_content.ppt or pptx. E.g. 20180426moriyama_screwingbolts.pptx
 
 Technical Report Templates
