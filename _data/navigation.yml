@@ -12,10 +12,10 @@ main:
   - title: "WRS"
     url: /wrs/
         
-  - title: "Editorials and Services"
+  - title: "Editorials"
     url: /services/
     
-  - title: "授業(Teaching)"
+  - title: "授業"
     url: /teaching/
    
   - title: "Resources"
