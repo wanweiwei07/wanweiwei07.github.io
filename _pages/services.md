@@ -19,8 +19,8 @@ Services
   * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
   * IEEE Robotics and Automation Letters（RA-L) 2018~.
-* Conference Editorial Board
-  * International Conference on Developmental Learning (ICDL) 2020.
+* Conference Committee Member, Conference Editorial Board
+  * International Conference on Developmental Learning (ICDL) 2021.
   * IEEE International Conference on Robot Learning (CoRL) 2020.
   * IEEE/RAS International Conference on Robotics and Automation (ICRA) 2020, 2021.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2020.
