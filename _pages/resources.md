@@ -32,7 +32,7 @@ A Primer on Making Slides
 * Prepare your handouts as double-sided A4 pages, with 8 slides on each side.
   * You cannot directly do that in Powerpoint. Instead, save your slides into a pdf file, then open and print it as 4x2slides/side using [Acrobat Reader](https://get.adobe.com/reader/).
  
-A Primer on Writing Technical Reports and Academic Paper
+A Primer on Writing Technical Reports, Academic Paper, and Reviews
 ======
 * In case you are a complete beginner and confused about how to get started, refer to the following instructions: [English version](https://drive.google.com/file/d/1JOWQBulV0HJpUJ2P3_axhwVoOv5wCaGP/view?usp=sharing) ([Japanese translation](https://drive.google.com/file/d/10nHb9m7H-aVLotnPPslf6yaTz7lua5nY/view?usp=sharing), [Chinese translation](https://drive.google.com/file/d/1N8mGN9FEaAecEiSkEFA2LmW7H41AWbav/view?usp=sharing))
 * A guide on good writing is [here](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm). The key point is <span style="color:red">spill the beans fast</span>.
@@ -56,7 +56,17 @@ A Primer on Writing Technical Reports and Academic Paper
   * Figures are recommended to have white background.
 * Tenses
   * Please read [this article](https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing).
-  
+* Reviews
+  * Some time I ask a senior Ph.D. student who has really solid knowledge to help review a paper. A good review might be summarized by answering the following questions:
+    1. What did this paper do?
+    2. What are the advantages claimed by the authors?
+    3. What experiments did the authors do? Did the experiments validated the advantages in 3?
+    4. What is pros and cons in your opinion? Are the ideas and theories interesting, novel, and enough?
+    5. Your suggestions on how to improve the paper.
+    6. Is the English good enough to understand? 
+    7. Is the organization clear?
+    8. Typos and grammatical problems
+
 Videos
 ======
 * Use high-quality cameras (at least HD) and tripods in the lab to take real-world videos. Make sure the surrounding environment is tidied up.
