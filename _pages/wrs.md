@@ -10,4 +10,4 @@ author_profile: true
 
 Drivers and Embedded Systems
 ======
-* [RealSense on a Raspberry Pi 4B](https://www.notion.so/RealSense-on-Raspberry-Pi-4B-8efaaaadfac24c2694433b0a220ef216)
+* [RealSense Server on Raspbian Buster](https://github.com/wanweiwei07/realsense_server)
