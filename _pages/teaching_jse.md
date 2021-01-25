@@ -43,4 +43,6 @@ author_profile: true
   * 第9回　12月14日（ポインタ）[講義１０](https://wanweiwei07.github.io/files/jse10.pdf)、[課題１０](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai10.html)
   * 第10回　12月21日（ファイル）[講義１１](https://wanweiwei07.github.io/files/jse11.pdf)、[課題１１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai11.html)
   * 第11回　1月18日（総まとめ　あみだくじ）[講義１２](https://wanweiwei07.github.io/files/jse12.pdf)
-  * <span style="color: gray;">第12回　1月25日（最終課題）講義１３、最終課題</span>
+  * 第12回　1月25日（最終課題）[最終課題](https://www.cle.osaka-u.ac.jp/) CLEで確認してください
+
+  *最終課題の期限について：最終課題のアイコン，フォルダ等は1月25日13:30より2月1日13:30までしかしか表示されないので期限内に提出いただきますようお願いします．それ以降の提出は受けません．
