@@ -22,7 +22,8 @@ author_profile: true
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (B4 2020.4) -> From human demonstration to robot motion
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (B4 2020.4) -> Gravitational manipulation
  * Research students:
-    * N/A
+    * [Junbo Zhang]
+    * [Bowen Yu]
  * Current visiting students
     * N/A
  * Current visiting scholar
