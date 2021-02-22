@@ -7,7 +7,7 @@ author_profile: true
 
 * [Aspect ratio 3:4 2018](https://drive.google.com/open?id=1YG9ZrEuOVbUPSJA4jZPQW3X5DvlTG06T)
 * [Aspect ratio 16:9 2018](https://drive.google.com/open?id=1ZlTBCX-82qmsS4wF2qI6TaAcHCLaxWiI)
-* [Aspect ratio 16:9 2020](https://drive.google.com/file/d/190JF4keHgCFMXakqgyRHzBDb-dmMbNSr/view?usp=sharing)
+* [Aspect ratio 16:9 2021](https://wanweiwei07.github.io/files/Wan_Template_16to9_2021.pptx)
 * Naming your slides: yearmonthdayauthor_content.ppt or pptx. E.g. 20180426moriyama_screwingbolts.pptx
 * Tips for making slides: [日本語](https://www.notion.so/f010dc200fbc42e883c2120d209fdfcd) [English](https://www.notion.so/Tips-for-Making-Slides-f1f5d327d68749359985b3fbf6ab52a8)
 
