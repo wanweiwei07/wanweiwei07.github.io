@@ -15,7 +15,7 @@ author_profile: true
 
 Publications (selected)
 ======
-* [Planning to Flip Heavy Objects Considering Soft-Finger Contacts](https://www.fujipress.jp/ijat/au/ijate001500020158/), Mohamed Raessa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **International Journal on Autonmation Technology**, 2021.
+* [Planning to Flip Heavy Objects Considering Soft-Finger Contacts](https://www.fujipress.jp/ijat/au/ijate001500020158/), Mohamed Raessa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **International Journal on Autonmation Technology (IJAT)**, 2021.
 * [Contact Space Computation of Two-Finger Gravity Based Caging Grasps Security Measure](https://ieeexplore.ieee.org/document/9309353), Alon Shirizly, Elon D. Rimon, Weiwei Wan, **IEEE Robotics and Automation Letters (RAL)**, 2021.
 * [Planning Grasps with Suction Cups and Parallel Grippers Using Superimposed Segmentation of Object Meshes](https://ieeexplore.ieee.org/document/9170578), Weiwei Wan, Kensuke Harada, and Fumio Kanehiro, **IEEE Transactions on Robotics (TRO)**, 2021. [Video](https://www.youtube.com/watch?v=sJ6qrl-MUqM), [BibTex](https://wanweiwei07.github.io/bibtex/#wan2021tro)
 * [Integrating Combined Task and Motion Planning with Compliant Control](https://arxiv.org/pdf/2003.11707.pdf), Hao Chen, Juncheng Li, Weiwei Wan, Zhifeng Huang, and Kensuke Harada, **International Journal of Intelligent Robotics and Applications (JIRA)**, 2020. [Video 1](https://www.youtube.com/watch?v=somfm6s9GOA&t=1s), [Video 2](https://www.youtube.com/watch?v=gj-vFboBwxM), [Bibtex](https://wanweiwei07.github.io/bibtex/#chen2020jira){:target="_blank"}
