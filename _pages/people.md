@@ -6,7 +6,7 @@ author_profile: true
 ---
  * PhD candidates:
     * [Zhengtao Hu](http://huzhengtao.work/) (from 2018.10) -> Mechanical tool design for a general robot
-    * Ruishuang Liu (from 2019.10) -> 3D Robotic painting planning
+    * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10) -> 3D Robotic painting planning
  * Master candidates:
     * [Hao Chen](http://chenhao.info/#resume) (from 2019.4) -> AND/OR Assembly planning
     * [Yuan Gao](hhttps://wanweiwei07.github.io/people/) (from 2019.4) -> Interleaved modeling and manipulation
