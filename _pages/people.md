@@ -38,6 +38,11 @@ Alumni
     * Hitoe Ochi (Master 2017.4-2019.3, Learning human motion using RNN) Shimazu
     * Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) Sony
     * Zepei Wu (Research Student 2015.4-2016.3)   Master student Tokyo Metropolitan University
+ * Past visiting professors
+    * Leiying He (2019.12-2020.3) (Assistant Professor, Zhejiang Sci-Tech University)
+    * [Elon Rimon](https://meeng.technion.ac.il/members/elon-rimon/) (2017.3-6)  (Associate Professor, Israel Institute of Technology)
+    * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
+    * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
     * Zhicheng Tao (2019.10-2019.12) (from Zhejiang University of Technology)
     * Juncheng Li (2019.7-2019.9) (from Guangdong University of Technology)
@@ -46,8 +51,3 @@ Alumni
     * Yajue Yang (2017.7-10) (from The City University of Hong Kong)
     * Jiayao Ma (2017.7-9) (from Peking University) Link to her soft @Github
     * [Chao Cao](http://caochao.me/) (2015.7-8)  (from The University of Hong Kong, now a Ph.D. candidate Carnegie Mellon University)
- * Past visiting scholar
-    * Leiying He (2019.12-2020.3) (Assistant Professor, Zhejiang Sci-Tech University)
-    * [Elon Rimon](https://meeng.technion.ac.il/members/elon-rimon/) (2017.3-6)  (Associate Professor, Israel Institute of Technology)
-    * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
-    * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
