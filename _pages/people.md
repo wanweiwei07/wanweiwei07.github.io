@@ -9,14 +9,14 @@ author_profile: true
     * Ruishuang Liu (from 2019.10) -> 3D Robotic painting planning
  * Master candidates:
     * [Hao Chen](http://chenhao.info/#resume) (from 2019.4) -> AND/OR Assembly planning
-    * Yuan Gao (from 2019.4) -> Interleaved modeling and manipulation
+    * [Yuan Gao](hhttps://wanweiwei07.github.io/people/) (from 2019.4) -> Interleaved modeling and manipulation
     * [Shogo Hayakawa](http://www.hlab.sys.es.osaka-u.ac.jp/people/hayakawa/) (from 2020.4) -> Manipulating heavy objects using humanoid robots
     * [Sho Kobayashi](http://www.hlab.sys.es.osaka-u.ac.jp/people/kobayashi/) (from 2020.4) -> Reconstruction from motion
     * [Shogo Matsuoka](http://www.hlab.sys.es.osaka-u.ac.jp/people/matsuoka/) (from 2020.4) -> In-hand pose estimation
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (from 2021.4) -> From human demonstration to robot motion
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (from 2021.4) -> Gravitational manipulation
-    * [Junbo Zhang] (from 2021.4) -> Dynamic catching
-    * [Bowen Yu] (from 2021.4) -> Soft hand
+    * [Junbo Zhang](https://wanweiwei07.github.io/people/) (from 2021.4) -> Dynamic catching
+    * [Bowen Yu](https://wanweiwei07.github.io/people/) (from 2021.4) -> Soft hand
  * Undergraduate students:
     * N/A
  * Research students:
