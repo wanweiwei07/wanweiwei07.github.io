@@ -5,25 +5,22 @@ permalink: /people/
 author_profile: true
 ---
  * PhD candidates:
-    * Mohamed Raessa (D, from 2018.4) -> Extrinsic manipulation
-    * [Zhengtao Hu](http://huzhengtao.work/) (D, from 2018.10) -> Mechanical tool design for a general robot
-    * Ruishuang Liu (D, from 2019.10) -> 3D Robotic painting planning
+    * [Zhengtao Hu](http://huzhengtao.work/) (from 2018.10) -> Mechanical tool design for a general robot
+    * Ruishuang Liu (from 2019.10) -> 3D Robotic painting planning
  * Master candidates:
-    * [Ryosuke Hiraki](http://www.hlab.sys.es.osaka-u.ac.jp/people/hiraki/) (from 2019.4) -> Deep learning to pushing
-    * [Takehiro Fujimori](http://www.hlab.sys.es.osaka-u.ac.jp/people/fujimori/) (from 2019.4) -> Caging under gravity
-    * [Ryuta Moriyama](http://www.hlab.sys.es.osaka-u.ac.jp/people/moriyama/) (from 2019.4) -> Dual-arm assembly planning
-    * Sanchez Aranguren Daniel Enrique (from 2019.4) -> Manipulation planning under stability constraints
     * [Hao Chen](http://chenhao.info/#resume) (from 2019.4) -> AND/OR Assembly planning
     * Yuan Gao (from 2019.4) -> Interleaved modeling and manipulation
     * [Shogo Hayakawa](http://www.hlab.sys.es.osaka-u.ac.jp/people/hayakawa/) (from 2020.4) -> Manipulating heavy objects using humanoid robots
     * [Sho Kobayashi](http://www.hlab.sys.es.osaka-u.ac.jp/people/kobayashi/) (from 2020.4) -> Reconstruction from motion
     * [Shogo Matsuoka](http://www.hlab.sys.es.osaka-u.ac.jp/people/matsuoka/) (from 2020.4) -> In-hand pose estimation
+    * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (from 2021.4) -> From human demonstration to robot motion
+    * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (from 2021.4) -> Gravitational manipulation
+    * [Junbo Zhang] (from 2021.4) -> Dynamic catching
+    * [Bowen Yu] (from 2021.4) -> Soft hand
  * Undergraduate students:
-    * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (from 2020.4) -> From human demonstration to robot motion
-    * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (from 2020.4) -> Gravitational manipulation
+    * N/A
  * Research students:
-    * [Junbo Zhang]
-    * [Bowen Yu]
+    * N/A
  * Current visiting students
     * N/A
  * Current visiting scholar
@@ -32,7 +29,12 @@ author_profile: true
 Alumni
 =====
  * Past students
-    * [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2019.4 -> Learning peg-in-hole) The Pokemon Company
+    * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Wing-Robotics
+    * Sanchez Aranguren Daniel Enrique (Master 2019.4-2021.3 -> Manipulation planning under stability constraints) Autonomous Control Systems Laboratory
+    * Ryosuke Hiraki (Master 2019.4-2021.3 -> Deep learning to pushing) NTT WEST
+    * Takehiro Fujimori (Master 2019.4-2021.3 -> Caging under gravity) Panasonic
+    * Ryuta Moriyama (Master 2019.4-2021.3 -> Dual-arm assembly planning) NTT WEST
+    * [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2017.4-2019.3 -> Learning peg-in-hole) The Pokemon Company
     * Hitoe Ochi (Master 2017.4-2019.3, Learning human motion using RNN) Shimazu
     * Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) Sony
     * Zepei Wu (Research Student 2015.4-2016.3)   Master student Tokyo Metropolitan University
