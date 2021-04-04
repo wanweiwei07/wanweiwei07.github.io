@@ -7,9 +7,9 @@ author_profile: true
  * PhD candidates:
     * [Zhengtao Hu](http://huzhengtao.work/) (from 2018.10) -> Mechanical tool design for a general robot
     * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10) -> 3D Robotic painting planning
+    * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> AND/OR Assembly planning
+    * [Yuan Gao](hhttps://wanweiwei07.github.io/people/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> Interleaved modeling and manipulation
  * Master candidates:
-    * [Hao Chen](http://chenhao.info/#resume) (from 2019.4) -> AND/OR Assembly planning
-    * [Yuan Gao](hhttps://wanweiwei07.github.io/people/) (from 2019.4) -> Interleaved modeling and manipulation
     * [Shogo Hayakawa](http://www.hlab.sys.es.osaka-u.ac.jp/people/hayakawa/) (from 2020.4) -> Manipulating heavy objects using humanoid robots
     * [Sho Kobayashi](http://www.hlab.sys.es.osaka-u.ac.jp/people/kobayashi/) (from 2020.4) -> Reconstruction from motion
     * [Shogo Matsuoka](http://www.hlab.sys.es.osaka-u.ac.jp/people/matsuoka/) (from 2020.4) -> In-hand pose estimation

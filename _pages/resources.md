@@ -22,7 +22,7 @@ Technical Report Templates
 
 A Primer on Making Slides
 ======
-* Using the templates is highly recommended.
+* Using the above templates is highly recommended.
 * Take care of fonts and font sizes. 
   * All pages shall have same fonts for a certain language.
   * Title pages always have larger fonts than normal pages.
@@ -30,24 +30,29 @@ A Primer on Making Slides
   * If you design CAD models:
       * Use [silhouette rendering](https://www.panda3d.org/blog/wp-content/uploads/2018/04/2018-04-19-222925_1042x747_scrot.png): White background, No shadow, No real-time graphics, No shaded rendering.
       * Use transparency and colored transparency to denote complicated design; Use solid color to denote key components (linkages, cables, etc.)
-* Prepare your handouts as double-sided A4 pages, with 8 slides on each side.
-  * You cannot directly do that in Powerpoint. Instead, save your slides into a pdf file, then open and print it as 4x2slides/side using [Acrobat Reader](https://get.adobe.com/reader/).
+* Prepare your handouts as double-sided A4 pages, with 8 slides on each page
+  * You cannot directly do that in Powerpoint. Instead, save your slides into a pdf file, then open and print it as 4x2 slides per page using [Acrobat Reader](https://get.adobe.com/reader/).
  
 A Primer on Writing Technical Reports, Academic Paper, and Reviews
 ======
 * In case you are a complete beginner and confused about how to get started, refer to the following instructions: [English version](https://drive.google.com/file/d/1JOWQBulV0HJpUJ2P3_axhwVoOv5wCaGP/view?usp=sharing) ([Japanese translation](https://drive.google.com/file/d/10nHb9m7H-aVLotnPPslf6yaTz7lua5nY/view?usp=sharing), [Chinese translation](https://drive.google.com/file/d/1N8mGN9FEaAecEiSkEFA2LmW7H41AWbav/view?usp=sharing))
 * A guide on good writing is [here](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm). The key point is <span style="color:red">spill the beans fast</span>.
-* My recommendations are as follows.
-  * Make a draft of paper organization (section names, arrangement of sections, etc.), and discuss with me a lot.
-  * Determine the key sentences of each paragraph.
-  * Determine the glue between paragraphs.
-  * Fill up the sentences.
-  * Make clear and unified figures.
+* My recommended work routine is as follows.
+  1. Make a draft of paper organization (section names, arrangement of sections, etc.), and discuss with me a lot.
+  2. Determine the key sentences of each paragraph.
+  3. Determine the glue between paragraphs.
+  4. Fill up the sentences.
+  5. Make clear and unified figures.
 * Software
-  * I use Microsoft Powerpoint to edit graphs, as well as unify fonts and legends. If you used the same software, share your *.pptx file with me.
-  * I suggest working on google doc first, and move it to latex later. The good point of google doc is collaborative editing. We may also focus on contents rather than latex symbols.
-  * When moving the contents to latex, I recommend using [Overleaf](https://www.overleaf.com/) to edit collaboratively.
-  * I use [google scholar](https://scholar.google.co.jp/) -- my library -- to manage references. You may copy the bibtex format of a paper directly from it. 
+  * I use Microsoft Powerpoint to preapre figures, as well as unify fonts and legends. If you used the same software, share your *.pptx file with me. Some notes on using powerpoint are as follows.
+    * Use the default 16:9 slide with white color as background.
+    * Zoom in or out your pictures to take half of the slide width for a single column figure or a full slide width for a double-column figure.
+    * Use 16pt, New Times Roman to format texts in your figure.
+    * Use 1.5pt line width to draw segments, arrows, and frameboxes.
+    * Use Open Arrow, Size 9 to format arrow type and arrow sizes.
+    * Use Oval Arrow, Size 5 to prepare a callout line for a component in the figure.
+  * I suggest using [Overleaf](https://www.overleaf.com/) to prepare your manuscript. The good point of overleaf is collaborative editing. We may work together to improve the formats, organizations, and specific expressions.
+  * I use [google scholar](https://scholar.google.co.jp/) -- my library -- to manage references. You may copy the bibtex format of references directly from it. 
 * Some details
   * Use Surname et al. [ID] to cite papers.
   * Use bold black font to emphasize key words.
