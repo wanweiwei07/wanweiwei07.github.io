@@ -21,9 +21,9 @@ author_profile: true
     * N/A
  * Research students:
     * N/A
- * Current visiting students
+ * Visiting students
     * N/A
- * Current visiting scholar
+ * Visiting scholar
     * N/A
     
 Alumni
