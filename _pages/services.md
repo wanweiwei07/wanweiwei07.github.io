@@ -15,7 +15,8 @@ author_profile: true
   
 Services
 =====
-* Associate Editor
+* Associate Editor / Editorial Board
+  * Chinese Journal of Mechanical Engineering (CJME) 2021~.
   * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
   * IEEE Robotics and Automation Letters（RA-L) 2018~.
