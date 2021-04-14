@@ -13,4 +13,4 @@ author_profile: true
 
 * 大学院コース
   * 2020 データベースシステム論
-  * システム科学ゼミナー
+  * [システム科学ゼミナーガイダンス](https://wanweiwei07.github.io/files/r3_sys_seminar_8pp.pdf)
