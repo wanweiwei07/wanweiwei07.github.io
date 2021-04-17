@@ -38,6 +38,7 @@ My research focus is on Robotic Manipulation, including all topics related to ro
  * Robot Vision and SLAM
  * Tactile Sensors
  * Soft Robots
+ * Dynamics and Model Predictive Control
  * Assembly\
    [https://www.youtube.com/watch?v=gj-vFboBwxM](https://www.youtube.com/watch?v=gj-vFboBwxM)\
    [https://www.youtube.com/watch?v=dQx9OIBNdzk](https://www.youtube.com/watch?v=dQx9OIBNdzk)\
