@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: / 
+
   - title: "Publications"
     url: /publications/  
     
@@ -8,12 +11,12 @@ main:
 
   - title: "People"
     url: /people/ 
-    
-  - title: "WRS"
-    url: /wrs/
         
   - title: "Editorials"
     url: /services/
+    
+  - title: "WRS"
+    url: /wrs/
     
   - title: "授業"
     url: /teaching/
