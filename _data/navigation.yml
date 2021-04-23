@@ -7,13 +7,13 @@ main:
     url: /research/  
 
   - title: "People"
-    url: /people/ 
-        
-  - title: "Editorials"
-    url: /services/
+    url: /people/
     
   - title: "WRS"
     url: /wrs/
+        
+  - title: "Editorials"
+    url: /services/
     
   - title: "授業"
     url: /teaching/
