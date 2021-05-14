@@ -5,9 +5,10 @@ permalink: /services/
 author_profile: true
 ---
 * Current Call for Paper
-  * [Special Issue on Physical Human-Robot Interaction and Co-Manipulation: Mechatronics Approaches](https://www.journals.elsevier.com/mechatronics/call-for-papers/call-for-papers-special-issue-on-physical-human-robot-intera), Mechatronics, Deadline: Jun 1st, 2021.
-  * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems, Sensors and Materials](https://wanweiwei07.github.io/files/CFP-Sensors%26Materials_updated.pdf), Sensors and Materials, Deadline: Dec 31st, 2020.
+  * [Special Issue on Intelligent Perception, Interaction and Learning for Dexterous Robotic Manipulation: Industrial Robots](https://www.emeraldgrouppublishing.com/journal/ir/intelligent-perception-interaction-and-learning-dexterous-robotic-manipulation), Industrial Robots, Deadline: Sep 1st, 2021.
+  * [Special Issue on Physical Human-Robot Interaction and Co-Manipulation: Mechatronics Approaches](https://www.journals.elsevier.com/mechatronics/call-for-papers/call-for-papers-special-issue-on-physical-human-robot-intera), Mechatronics, Deadline: ~~Jun 1st~~Oct 1st, 2021.
 * Past Call for Paper
+  * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems, Sensors and Materials](https://wanweiwei07.github.io/files/CFP-Sensors%26Materials_updated.pdf)
   * [Special Issue on Neuro-Robotics: From Brain Machine Interfaces to Rehabilitation Robotics, Advanced Robotics](https://www.rsj.or.jp/databox/advanced/CFP/CFP_34_19.pdf)
   * [IROS2019 Workshop on Manipulation through Contacts: Bridging the Gap between Research Community and Industry](http://manipulation-workshop.com/)
   * [RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots](https://sites.google.com/site/rss16irt/)
