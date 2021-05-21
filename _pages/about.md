@@ -23,8 +23,7 @@ Research Interest and Past Studies
 My major interest is smart manufacturing using dual-arm robots: Developing and deploying grasping planning, motion planning, and other low level and high level task planning algorithms for next-generation factories. I am also studying visual perception, force control, and learning approaches to make up the inherent shortages of planning algorithms. Back to my postdoc at Carnegie Mellon University, I was working with [Professor Matt Mason](http://www.cs.cmu.edu/~mason/){:target="_blank"} and focused on regrasp. During my Ph.D. at the University of Tokyo, I was working with [Professor Rui Fukui](https://www.k.u-tokyo.ac.jp/pros-e/person/rui_fukui/rui_fukui.htm){:target="_blank"}, [Professor Tomomasa Sato](https://researchmap.jp/read0007519){:target="_blank"}, and [Professor Yasuo Kuniyoshi](http://www.isi.imi.i.u-tokyo.ac.jp/member/){:target="_blank"} and focused on grasping, caging, and the related mechanical design problems. Before my PhD study, I worked on motion planning under the supervision of Professor Hong Liu at Peking University.
 
 Please find more information about my research at my YouTube Channel and my Github repositorie:
-[<img src="https://wanweiwei07.github.io/images/github_logo.png">](https://github.com/wanweiwei07)
-[<img src="https://wanweiwei07.github.io/images/youtube_logo.png">](https://www.youtube.com/channel/UCqevHIf9MgWwCXDDIsj4kAQ)
+[<img src="https://wanweiwei07.github.io/images/github_logo.png">](https://github.com/wanweiwei07)[<img src="https://wanweiwei07.github.io/images/youtube_logo.png">](https://www.youtube.com/channel/UCqevHIf9MgWwCXDDIsj4kAQ)
 
 
 Prospective Students
