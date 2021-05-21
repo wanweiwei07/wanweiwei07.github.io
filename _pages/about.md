@@ -24,7 +24,7 @@ My major interest is smart manufacturing using dual-arm robots: Developing and d
 
 Please find more information about my research at my YouTube Channel and my Github repositorie:
 
-[<img src="https://wanweiwei07.github.io/images/github_logo.png" width="70%">](https://github.com/wanweiwei07)[<img src="https://wanweiwei07.github.io/images/youtube_logo.png" width="70%">](https://www.youtube.com/channel/UCqevHIf9MgWwCXDDIsj4kAQ)
+[<img src="https://wanweiwei07.github.io/images/github_logo.png" width="30%">](https://github.com/wanweiwei07)[<img src="https://wanweiwei07.github.io/images/youtube_logo.png" width="30%">](https://www.youtube.com/channel/UCqevHIf9MgWwCXDDIsj4kAQ)
 
 
 Prospective Students
