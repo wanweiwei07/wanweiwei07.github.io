@@ -16,7 +16,7 @@ I am an associate professor working at the [School of Engineering Science](https
 
 I am an IEEE senior member, having affiliations with the IEEE Robotis and Automation Society, and the IEEE System, Man, and Cybernetics Society. I am also a member of RSJ (the Robotics Society of Japan). Please find more information about my research at my YouTube Channel and my Github repositorie:
 
-[<img src="https://wanweiwei07.github.io/images/github_logo.png" width="21%">](https://github.com/wanweiwei07)[<img src="https://wanweiwei07.github.io/images/youtube_logo.png" width="21%">](https://www.youtube.com/channel/UCqevHIf9MgWwCXDDIsj4kAQ)
+[<img align="right" src="https://wanweiwei07.github.io/images/github_logo.png" width="21%">](https://github.com/wanweiwei07)[<img align="right" src="https://wanweiwei07.github.io/images/youtube_logo.png" width="21%">](https://www.youtube.com/channel/UCqevHIf9MgWwCXDDIsj4kAQ)
 
 
 Research Interest and Past Studies
