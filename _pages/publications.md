@@ -13,7 +13,7 @@ author_profile: true
 
 Publications (selected)
 ======
-* [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Robotics (TRO)** (arXiv version, TRO version will be available on IEEE soon), 2021. [Video1](https://youtu.be/N9mZ-1_vSgs) [Video2]()
+* [A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design, Optimization, and Manipulation Policies](https://arxiv.org/pdf/2006.10366.pdf), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Robotics (TRO)**, 2021. [Video1](https://youtu.be/N9mZ-1_vSgs) [Video2]() (arXiv version, TRO version will be available on IEEE soon)
 *  [Optimization-based Online Initialization and Calibration of Monocular Visual-Inertial Odometry Considering Spatial-Temporal Constraints](https://www.mdpi.com/1424-8220/21/8/2673), Weibo Huang, Weiwei Wan, and Hong Liu, **Sensors**, 2021.
 *  [Planning to Repose Long and Heavy Objects Considering a Combination of Regrasp and Constrained Drooping](https://arxiv.org/pdf/2101.10163.pdf), Mohamed Raessa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **Assembly Automation (AA)**, 2021. [Video](https://www.youtube.com/watch?v=Ywc5zGqX_CY)
 * [Planning to Flip Heavy Objects Considering Soft-Finger Contacts](https://www.fujipress.jp/ijat/au/ijate001500020158/), Mohamed Raessa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **International Journal on Autonmation Technology (IJAT)**, 2021.
