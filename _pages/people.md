@@ -29,7 +29,7 @@ author_profile: true
 Alumni
 =====
  * Past students
-    * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Wing-Robotics
+    * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
     * Sanchez Aranguren Daniel Enrique (Master 2019.4-2021.3 -> Manipulation planning under stability constraints) Autonomous Control Systems Laboratory
     * Ryosuke Hiraki (Master 2019.4-2021.3 -> Deep learning to pushing) NTT WEST
     * Takehiro Fujimori (Master 2019.4-2021.3 -> Caging under gravity) Panasonic
