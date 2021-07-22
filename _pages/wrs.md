@@ -11,3 +11,4 @@ author_profile: true
 Drivers and Embedded Systems
 ======
 * [RealSense Server on Raspbian Buster](https://github.com/wanweiwei07/realsense_server)
+* [Two Wifi on Raspbian6](https://juicy-grenadilla-3fb.notion.site/Two-Wifi-on-Raspbian6-79f8a4b8be9046318455ad17e6bba138)
