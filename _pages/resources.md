@@ -63,7 +63,7 @@ A Primer on Writing Technical Reports, Academic Paper, and Reviews
   * Figures are recommended to have white background.
 * Tenses
   * Please read [this article](https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing).
-* Connecting Words
+* Connecting words
   * Please read [this article](http://writing2.richmond.edu/writing/wweb/trans1.html)
 * Reviews
   * Some time I ask a senior Ph.D. student who has really solid knowledge to help review a paper. A good review might be summarized by answering the following questions:
