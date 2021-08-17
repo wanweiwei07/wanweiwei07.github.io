@@ -5,6 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 * Current Call for Paper
+  * [Special Issue on Emerging Topics on Development and Learning](https://wanweiwei07.github.io/files/ICDL2021_Special_Issue_Proposal_IEEE_Format.pdf), IEEE Transactions on Cognitive and Developmental Systems, Deadline: Dev 15th, 2021.
   * [Special Issue on Intelligent Perception, Interaction and Learning for Dexterous Robotic Manipulation: Industrial Robots](https://www.emeraldgrouppublishing.com/journal/ir/intelligent-perception-interaction-and-learning-dexterous-robotic-manipulation), Industrial Robots, Deadline: Sep 1st, 2021.
   * [Special Issue on Physical Human-Robot Interaction and Co-Manipulation: Mechatronics Approaches](https://www.journals.elsevier.com/mechatronics/call-for-papers/call-for-papers-special-issue-on-physical-human-robot-intera), Mechatronics, Deadline: ~~Jun 1st~~Oct 1st, 2021.
 * Past Call for Paper
