@@ -18,7 +18,8 @@ author_profile: true
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (from 2021.4) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (from 2021.4) -> Soft hand
  * Undergraduate students:
-    * N/A
+    * [Taiki Moriyama](https://tkmrym.github.io/) (from 2021.4) -> Lab automation
+    * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2021.4) -> Teleoperation
  * Research students:
     * N/A
  * Visiting students
