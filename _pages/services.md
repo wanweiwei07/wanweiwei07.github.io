@@ -18,6 +18,7 @@ author_profile: true
 Services
 =====
 * Associate Editor / Editorial Board
+  * Cyborg and Bionic Systems 2021~.
   * Chinese Journal of Mechanical Engineering (CJME) 2021~.
   * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
@@ -30,8 +31,8 @@ Services
   * IEEE/RAS International Conference on Humanoid Robots (Humanoids) 2019.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2019.
   * Asian Conference on Artificial Intelligence Technology (ACAIT) 2019.
-  * IEEE/RSJ Interntional Conference on Intelligent Robots and Systems (IROS) 2016.
-  * WRC Symposium on Advanced Robotics and Automation (WRC SARA) 2018, 2019， 2020， 2021.
+  * IEEE/RSJ Interntional Conference on Intelligent Robots and Systems (IROS) 2016，.
+  * WRC Symposium on Advanced Robotics and Automation (WRC SARA) 2018, 2019，2020， 2021.
   * IEEE International Conference on Robotics and Biomimetics (ROBIO) 2015, 2016, 2017.
 * Conference or Workshop Chair:
   * IEEE/RAS International Conference on Robotics and Automation (ICRA) 2024, Industry Relations.
