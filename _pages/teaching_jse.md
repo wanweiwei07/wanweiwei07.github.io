@@ -31,7 +31,8 @@ author_profile: true
 ---
 
 * スケジュール・講義資料
-  <!-- * 第0回　10月4日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html) -->
+  <!-- 
+  * 第0回　10月4日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html) -->
   <!-- * 第1回　10月12日（条件分岐）[講義２](https://wanweiwei07.github.io/files/jse2.pdf)、[課題２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai02.html)
   * 第2回　10月19日（繰り返し）[講義３](https://wanweiwei07.github.io/files/jse3.pdf)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
   * 第3回　10月26日（条件分岐と繰り返しの組合せ）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
@@ -44,5 +45,6 @@ author_profile: true
   * 第10回　12月21日（ファイル）[講義１１](https://wanweiwei07.github.io/files/jse11.pdf)、[課題１１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai11.html)
   * 第11回　1月18日（総まとめ　あみだくじ）[講義１２](https://wanweiwei07.github.io/files/jse12.pdf)
   * 第12回　1月25日（最終課題）[最終課題](https://www.cle.osaka-u.ac.jp/) CLEで確認してください
-     * 注意事項を厳守してください． -->
+     * 注意事項を厳守してください．
      * 期限について：最終課題のアイコン，フォルダ等は1月25日13:30より2月1日13:30までしかしか表示されないので期限内に提出いただきますようお願いします．それ以降の提出は受けません．
+  -->
