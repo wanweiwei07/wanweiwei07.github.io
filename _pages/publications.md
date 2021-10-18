@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+* <span style="color:red">[Preprint]</span>: [Reducing Uncertainty Using Placement and Regrasp Planning on a Triangular Corner Fixture](https://www.techrxiv.org/articles/preprint/Reducing_Uncertainty_Using_Placement_and_Regrasp_Planning_on_a_Triangular_Corner_Fixture/16685332), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, TechRxiv: https://doi.org/10.36227/techrxiv.16685332.v1, 2021. [Video](https://youtu.be/KIlFgAAuF8c)
 * <span style="color:red">[Preprint]</span>: [Planning to Build Soma Blocks Using a Dual-arm Robot](https://arxiv.org/pdf/2003.00699.pdf), Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2003.00699 [cs.RO], 2020. [Video](https://youtu.be/7ePD628eR1A) <span style="color:red">(Reported by</span> [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-nasa-curiosity-mars-rover-panorama)<span style="color:red">)</span>
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
