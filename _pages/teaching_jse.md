@@ -33,7 +33,7 @@ author_profile: true
 * スケジュール・講義資料
   * 第0回　10月4日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)
   * 第1回　10月11日（条件分岐）[講義２](https://wanweiwei07.github.io/files/jse2.pdf)、[課題２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai02.html)
-  * 第2回　10月18日（繰り返し）[講義３]()、[課題３]()
+  * 第2回　10月18日（繰り返し）[講義３](https://wanweiwei07.github.io/files/jse3.pdf)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
   * 第3回　10月25日（条件分岐と繰り返しの組合せ）[講義４]()、[課題４]()
   * 第4回　11月1日（関数その１）[講義５]()、[課題５]()
   * 第5回　11月15日（配列その１）[講義６]()、[課題６]()
