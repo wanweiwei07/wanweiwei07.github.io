@@ -9,7 +9,22 @@ author_profile: true
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
-* [Planning to Build Block Structures with Unstable Intermediate States Using two Manipulators](https://ieeexplore.ieee.org/document/9663037), Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2021 (Online soon). [Video](https://youtu.be/7ePD628eR1A) (Reported by [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-nasa-curiosity-mars-rover-panorama))
+* [Planning to Build Block Structures with Unstable Intermediate States Using two Manipulators](https://ieeexplore.ieee.org/document/9663037), Hao Chen, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2021 (Online soon). [Video](https://youtu.be/7ePD628eR1A) (Reported by [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-nasa-curiosity-mars-rover-panorama)) 
+<details><summary>Bibtex</summary>
+    <div>
+    ```
+    @article{chen2021tase,
+        author = {Hao Chen and Weiwei Wan and Keisuke Koyama and Kensuke Harada},
+        title = {Planning to Build Block Structures with Unstable Intermediate States Using two Manipulators},
+        journal = {IEEE Transactions on Automation Science and Engineering},
+        volume = {PP},
+        no = {},
+        year = {2021},
+        pages = {}
+    }
+    ```
+    </div>
+</details>
 * [A Dual-arm Robot that Autonomously Lifts Up and Tumbles Heavy Plates Using Crane Pulley Blocks](https://ieeexplore.ieee.org/document/9590084), Shogo Hayakawa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2021. [Video](https://www.youtube.com/watch?v=a-qzpcfUm6Y)
 * [Arranging Test Tubes in Racks Using Combined Task and Motion Planning](https://authors.elsevier.com/sd/article/S0921-8890(21)00203-7), Weiwei Wan, Takeyuki Kotaka, Kensuke Harada, **Robotics and Autonomous Systems**, 2021. [Main Video](https://www.youtube.com/watch?v=abkVtdJqhII), [Side Video 1](https://www.youtube.com/watch?v=3aanBFHSdeE), [Side Video 2](https://www.youtube.com/watch?v=AwE7RqAZEpc).
 * [Robust Robotic 3D Drawing using Closed-loop Planning and Online Picked Pens](https://ieeexplore.ieee.org/document/9570721), Ruishuang Liu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Robotics (TRO)**, 2021. [Video](https://www.youtube.com/watch?v=KBSWHh4RtW0) <span style="color:red">(Reported by</span> [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-mesmer-humanoid-robot)<span style="color:red">)</span>
