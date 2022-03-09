@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+* <span style="color:red">[Preprint]</span>: [Metal Wire Manipulation Planning for 3D Curving -- How a Low Payload Robot Can Use a Bending Machine to Bend Stiff Metal Wire](https://arxiv.org/pdf/2203.04024), Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada, Arxiv: https://arxiv.org/pdf/2203.04024, 2022. [Video](https://youtu.be/sp4KDs7oiEw)
 * <span style="color:red">[Preprint]</span>: [Reducing Uncertainty Using Placement and Regrasp Planning on a Triangular Corner Fixture](https://www.techrxiv.org/articles/preprint/Reducing_Uncertainty_Using_Placement_and_Regrasp_Planning_on_a_Triangular_Corner_Fixture/16685332), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, TechRxiv: https://doi.org/10.36227/techrxiv.16685332.v1, 2021. [Video](https://youtu.be/KIlFgAAuF8c)
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
