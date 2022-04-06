@@ -5,21 +5,18 @@ permalink: /people/
 author_profile: true
 ---
  * PhD candidates:
-    * [Zhengtao Hu](http://huzhengtao.work/) (from 2018.10) -> Mechanical tool design for a general robot
     * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10) -> 3D Robotic painting planning
     * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> AND/OR Assembly planning
     * [Yuan Gao](hhttps://wanweiwei07.github.io/people/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> Interleaved modeling and manipulation
  * Master candidates:
-    * [Shogo Hayakawa](http://www.hlab.sys.es.osaka-u.ac.jp/people/hayakawa/) (from 2020.4) -> Manipulating heavy objects using humanoid robots
-    * [Sho Kobayashi](http://www.hlab.sys.es.osaka-u.ac.jp/people/kobayashi/) (from 2020.4) -> Reconstruction from motion
-    * [Shogo Matsuoka](http://www.hlab.sys.es.osaka-u.ac.jp/people/matsuoka/) (from 2020.4) -> In-hand pose estimation
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (from 2021.4) -> From human demonstration to robot motion
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (from 2021.4) -> Gravitational manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (from 2021.4) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (from 2021.4) -> Soft hand
+    * [Taiki Moriyama](https://tkmrym.github.io/) (from 2022.4) -> Lab automation
+    * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2022.4) -> Teleoperation
  * Undergraduate students:
-    * [Taiki Moriyama](https://tkmrym.github.io/) (from 2021.4) -> Lab automation
-    * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2021.4) -> Teleoperation
+    * N/A
  * Research students:
     * N/A
  * Visiting students
@@ -30,6 +27,10 @@ author_profile: true
 Alumni
 =====
  * Past students
+    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University
+    * Shogo Hayakawa (Master 2020.4-2022.3 -> Manipulating heavy objects using humanoid robots) Pansasonic Corporation
+    * Sho Kobayashi (Master 2020.4-2022.3 -> Reconstruction from motion) FANUC Corporation
+    * Shogo Matsuoka (Master 2020.4-2022.3 -> In-hand pose estimation) NTT WEST
     * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
     * Sanchez Aranguren Daniel Enrique (Master 2019.4-2021.3 -> Manipulation planning under stability constraints) Autonomous Control Systems Laboratory
     * Ryosuke Hiraki (Master 2019.4-2021.3 -> Deep learning to pushing) NTT WEST
