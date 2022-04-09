@@ -30,7 +30,7 @@ Alumni
     * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University
     * Shogo Hayakawa (Master 2020.4-2022.3 -> Manipulating heavy objects using humanoid robots) Pansasonic Corporation
     * Sho Kobayashi (Master 2020.4-2022.3 -> Reconstruction from motion) FANUC Corporation
-    * Shogo Matsuoka (Master 2020.4-2022.3 -> In-hand pose estimation) NTT WEST
+    * Shogo Matsuoka (Master 2020.4-2022.3 -> In-hand pose estimation) TOYOTA
     * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
     * Sanchez Aranguren Daniel Enrique (Master 2019.4-2021.3 -> Manipulation planning under stability constraints) Autonomous Control Systems Laboratory
     * Ryosuke Hiraki (Master 2019.4-2021.3 -> Deep learning to pushing) NTT WEST
