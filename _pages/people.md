@@ -15,8 +15,9 @@ author_profile: true
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (from 2021.4) -> Soft hand
     * [Taiki Moriyama](https://tkmrym.github.io/) (from 2022.4) -> Lab automation
     * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2022.4) -> Teleoperation
+    * [Abdullah Ahmed]() (from 2022.4, together with Hu-sensei) -> Exoskeleton
  * Undergraduate students:
-    * N/A
+    * []() (from 2022.4) ->
  * Research students:
     * N/A
  * Visiting students
