@@ -17,7 +17,9 @@ author_profile: true
     * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2022.4) -> Teleoperation
     * [Abdullah Ahmed]() (from 2022.4, together with Hu-sensei) -> Exoskeleton
  * Undergraduate students:
-    * []() (from 2022.4) ->
+    * [Syoma Kanamoto](https://shoma17.github.io/homepage/) (from 2022.4, together with Hu-sensei) -> Placement planning
+    * [Masaki Nakaue]() (from 2022.4) -> Lab automation
+    * [Kodai Masunaga]() (from 2022.4) -> Intuitive teaching
  * Research students:
     * N/A
  * Visiting students
