@@ -25,9 +25,9 @@ A Primer on Making Slides
 ======
 * Using the above templates is highly recommended.
 * Take care of fonts and font sizes. 
-  * All pages shall have same fonts for a certain language.
-  * Title pages always have larger fonts than normal pages.
-* Arrange your pictures to have good visual effect. Make the background of your pictures white to fit our templates.
+  * All pages shall have same fonts for a certain language: Aarial for English, MS Gothic for Japanese
+  * Title pages always have larger fonts than normal pages: Consider using 44 pt, 36 pt, 24 pt, 20 pt, 18 pt; Avoid small fonts.
+* Arrange your pictures to have good visual effect. Make the background of your pictures white or transparent to fit our templates.
   * If you design CAD models:
       * Use [silhouette rendering](https://www.panda3d.org/blog/wp-content/uploads/2018/04/2018-04-19-222925_1042x747_scrot.png): White background, No shadow, No real-time graphics, No shaded rendering.
       * Use transparency and colored transparency to denote complicated design; Use solid color to denote key components (linkages, cables, etc.)
