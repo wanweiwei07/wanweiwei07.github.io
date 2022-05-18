@@ -23,7 +23,7 @@ author_profile: true
  * Research students:
     * N/A
  * Visiting students
-    * N/A
+    * Chuan Li (2022.5-, ) (from National University of Singapore)
  * Visiting scholar
     * N/A
     
