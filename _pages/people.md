@@ -7,7 +7,7 @@ author_profile: true
  * PhD candidates:
     * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10) -> 3D Robotic painting planning
     * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> AND/OR Assembly planning
-    * [Yuan Gao](hhttps://wanweiwei07.github.io/people/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> Interleaved modeling and manipulation
+    * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> Interleaved modeling and manipulation
  * Master candidates:
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (from 2021.4) -> From human demonstration to robot motion
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (from 2021.4) -> Gravitational manipulation
