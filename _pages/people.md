@@ -13,7 +13,7 @@ author_profile: true
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (from 2021.4) -> Gravitational manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (from 2021.4) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (from 2021.4) -> Soft hand
-    * [Chi Yin (Jimmy) Chen]((https://wanweiwei07.github.io/people/)(from 2021.10) -> HRI
+    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(from 2021.10) -> HRI
     * [Taiki Moriyama](https://tkmrym.github.io/) (from 2022.4) -> Lab automation
     * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2022.4) -> Teleoperation
     * [Abdullah Ahmed]() (from 2022.4, together with Hu-sensei) -> Exoskeleton
