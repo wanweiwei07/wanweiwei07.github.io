@@ -22,7 +22,7 @@ author_profile: true
     * [Masaki Nakaue]() (from 2022.4) -> Lab automation
     * [Kodai Masunaga]() (from 2022.4) -> Intuitive teaching
  * Research students:
-    * N/A
+    * Zhengyang Yuan (2022.10-, )
  * Visiting students
     * Chuan Li (2022.5-, ) (from National University of Singapore)
  * Visiting scholar
