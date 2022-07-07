@@ -59,7 +59,7 @@ A Primer on Writing Technical Reports, Academic Paper, and Reviews
   * Use Surname et al. [ID] to cite papers.
   * Use bold black font to emphasize key words.
   * Use Fig.No, Alg.No, Tbl.BigRomanNo to cite figures, algorithms, and tables.
-  * Use \label{} and \ref{} to refer to contents in your paper. Do not cite numbers directly.
+  * Use \label{} and \\ref{} to refer to contents in your paper. Do not cite numbers directly.
   * Name your labels using meaningful words. For example, use "figteaser" instead of "fig1".
   * Figures are recommended to have white background.
 * Tenses
