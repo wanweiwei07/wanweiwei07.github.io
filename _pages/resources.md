@@ -106,3 +106,4 @@ A list of third-party tools that might be helpful to you.
 * 大学生協まで発注するか、下記のWORDファイルをダウンロードし、エーワンマルチカードの紙を使ってプリントしてください（F10A4-1タイプ）.
 * You may pay Seikyo to make the cards for you, or you may download the following template and print it using name card printing sheet (A-one, F10A4-1 type).
   * [表側](https://drive.google.com/file/d/1UnQ_H86-diziaCJooTV7k6TXEHrbJDx9/view?usp=sharing)（front, Japanese）　[裏側](https://drive.google.com/open?id=1mwbPsA5nI1bIDYcW3TBThMNOCwPeUxvy)（back, English）
+  * [2022最新版・表裏]（https://docs.google.com/presentation/d/1eBKNEnA8wUAQphu7IXwiDjSI5YjM_ppJ/edit?usp=sharing&ouid=108257579074904163670&rtpof=true&sd=true）
