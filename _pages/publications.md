@@ -10,7 +10,7 @@ author_profile: true
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
-* [A Dual-Arm Robot that Manipulates Heavy Plates Cooperatively with a Vacuum Lifter](https://arxiv.org/pdf/2203.10585.pdf), Shogo Hayakawa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2022 (IEEE version will be available Soon). [Video](https://youtu.be/w0Ls-PlXs3I)
+* [A Dual-Arm Robot that Manipulates Heavy Plates Cooperatively with a Vacuum Lifter](https://ieeexplore.ieee.org/document/9864147), Shogo Hayakawa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2022 (IEEE version will be available Soon). [Video](https://youtu.be/w0Ls-PlXs3I)
 * [Obtaining an Object's 3D Model Using Dual-Arm Robotic Manipulation and Stationary Depth Sensing](https://ieeexplore.ieee.org/document/9849487), Sho Kobayashi, Weiwei wan, Takuya Kiyokawa, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2022.
 *  [Metal Wire Manipulation Planning for 3D Curving -- How a Low Payload Robot Can Use a Bending Machine to Bend Stiff Metal Wire](https://arxiv.org/pdf/2203.04024), Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada, **IEEE/RSJ International Conference on Intelligent Robots and Systems**, 2022. [Video](https://youtu.be/sp4KDs7oiEw)
 * [Robotic Replacement for Disc Cutters in Tunnel Boring Machines](https://www.sciencedirect.com/science/article/pii/S0926580522002424), Liang Du, Jianjun Yuan, Sheng Bao, Renming Guan, and Weiwei Wan, **Automation in Construction**, 2022.
