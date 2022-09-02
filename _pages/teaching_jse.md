@@ -31,19 +31,19 @@ author_profile: true
 ---
 
 * スケジュール・講義資料
-  * 第0回　10月4日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)
-  * 第1回　10月11日（条件分岐）[講義２](https://wanweiwei07.github.io/files/jse2.pdf)、[課題２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai02.html)
-  * 第2回　10月18日（繰り返し）[講義３](h f)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
-  * 第3回　10月25日（条件分岐と繰り返しの組合せ）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
-  * 第4回　11月1日（関数その１）[講義５](https://wanweiwei07.github.io/files/jse5.pdf)、[課題５](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai05.html)
-  * 第5回　11月15日（配列その１）[講義６](https://wanweiwei07.github.io/files/jse6.pdf)、[課題６](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai06.html)
-  * 第6回　11月22日（関数その２）[講義７](https://wanweiwei07.github.io/files/jse7.pdf)、[課題７](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai07.html)
-  * 第7回　11月29日（配列その２）[講義８](https://wanweiwei07.github.io/files/jse8.pdf)、[課題８](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai08.html)
-  * 第8回　12月6日（配列その２　続き）[講義９](https://wanweiwei07.github.io/files/jse9.pdf)、[課題９](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai09.html)
-  * 第9回　12月13日（ポインタ）[講義１０](https://wanweiwei07.github.io/files/jse10.pdf)、[課題１０](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai10.html)
-  * 第10回　12月20日（ファイル）[講義１１](https://wanweiwei07.github.io/files/jse11.pdf)、[課題１１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai11.html)
-  * 第11回　12月27日（ファイル残留課題・あみだくじ）[講義１２](https://wanweiwei07.github.io/files/jse12.pdf)[課題（課題１１と同じ）](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai12.html)
-  * 第12回　1月17日（総まとめ）[講義１３](https://wanweiwei07.github.io/files/jse13.pdf)[課題（課題なし）]()
-  * 第12回　1月24日（最終課題）[最終課題](https://www.cle.osaka-u.ac.jp/) CLEで確認してください
+  * 第0回　10月3日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)
+  * 第1回　10月17日（条件分岐）[講義２](https://wanweiwei07.github.io/files/jse2.pdf)、[課題２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai02.html)
+  * 第2回　10月24日（繰り返し，清川先生）[講義３](h f)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
+  * 第3回　10月31日（条件分岐と繰り返しの組合せ）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
+  * 第4回　11月14日（関数その１）[講義５](https://wanweiwei07.github.io/files/jse5.pdf)、[課題５](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai05.html)
+  * 第5回　11月21日（配列その１）[講義６](https://wanweiwei07.github.io/files/jse6.pdf)、[課題６](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai06.html)
+  * 第6回　11月28日（関数その２）[講義７](https://wanweiwei07.github.io/files/jse7.pdf)、[課題７](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai07.html)
+  * 第7回　12月5日（配列その２）[講義８](https://wanweiwei07.github.io/files/jse8.pdf)、[課題８](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai08.html)
+  * 第8回　12月12日（配列その２　続き）[講義９](https://wanweiwei07.github.io/files/jse9.pdf)、[課題９](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai09.html)
+  * 第9回　12月19日（ポインタ，清川先生）[講義１０](https://wanweiwei07.github.io/files/jse10.pdf)、[課題１０](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai10.html)
+  * 第10回　12月26日（ファイル，清川先生）[講義１１](https://wanweiwei07.github.io/files/jse11.pdf)、[課題１１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai11.html)
+  * 第11回　1月16日（ファイル残留課題・あみだくじ，清川先生）[講義１２](https://wanweiwei07.github.io/files/jse12.pdf)[課題（課題１１と同じ）](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai12.html)
+  * 第12回　1月23日（総まとめ）[講義１３](https://wanweiwei07.github.io/files/jse13.pdf)[課題（課題なし）]()
+  * 第13回　1月30日（最終課題）[最終課題](https://www.cle.osaka-u.ac.jp/) CLEで確認してください
      * 注意事項を厳守してください．
      * 期限について：最終課題のアイコン，フォルダ等は1月24日13:30より1月31日13:30までしかしか表示されないので期限内に提出いただきますようお願いします．それ以降の提出は受けません．
