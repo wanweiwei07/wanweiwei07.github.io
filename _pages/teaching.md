@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * 学部コース
-  * [2021 情報処理演習](http://wanweiwei07.github.io/teaching/jse/)
+  * [2022 情報処理演習](http://wanweiwei07.github.io/teaching/jse/)
   * 2021 コンピュータ基礎
   * 2021 Problem Based Learning (PBL)
   * 2021 実験Ｃ
