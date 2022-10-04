@@ -29,6 +29,14 @@ author_profile: true
   * 裁判員制度
   * クラブ活動はダ
 
+* TAさんの連絡方法
+  * 王TA ou@hlab.sys.es.osaka-u.ac.jp
+  * 巌TA iwao@hlab.sys.es.osaka-u.ac.jp 
+  * 中津留TA nakatsuru@hlab.sys.es.osaka-u.ac.jp 
+  * 長門TA nagato@hlab.sys.es.osaka-u.ac.jp 
+  * 高須TA takasu@hlab.sys.es.osaka-u.ac.jp 
+  * 山下TA yamashita@hlab.sys.es.osaka-u.ac.jp 
+
 ---
 
 * スケジュール・講義資料
