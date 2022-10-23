@@ -16,4 +16,4 @@ author_profile: true
   * 2022 システム科学ゼミナーガイダンス
     * [2022年10月12日　グーグルフォーム](https://forms.gle/C5HZAuP6NJEhrHys5)
     * [2022年10月19日　グーグルフォーム](https://forms.gle/ttGDd6buP7Qc99738)
-
+    * [2022年10月26日　グーグルフォーム](https://forms.gle/ZhuVqrxT5Wa3VBs58)
