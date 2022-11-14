@@ -53,6 +53,7 @@ A Primer on Writing Technical Reports, Academic Paper, and Reviews
     * Use 1.5pt line width to draw segments, arrows, and frameboxes.
     * Use Open Arrow, Size 9 to format arrow type and arrow sizes.
     * Use Oval Arrow, Size 5 to prepare a callout line for a component in the figure.
+    * When saving screen images, enlarge them to 4K size and make a screen shot. You will be able to freely determine what to be included in a later stage compared with a screen cut.
   * I suggest using [Overleaf](https://www.overleaf.com/) to prepare your manuscript. The good point of overleaf is collaborative editing. We may work together to improve the formats, organizations, and specific expressions.
   * I use [google scholar](https://scholar.google.co.jp/) -- my library -- to manage references. You may copy the bibtex format of references directly from it. 
 * Some details
