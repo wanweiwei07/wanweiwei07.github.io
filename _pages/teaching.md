@@ -20,3 +20,4 @@ author_profile: true
     * [2022年11月02日　グーグルフォーム](https://forms.gle/Vptc3VASn53Th8ieA)
     * [2022年11月09日　グーグルフォーム](https://forms.gle/z48oSohzUhySoucr7)
     * [2022年11月16日　グーグルフォーム](https://forms.gle/M7diRmYori2Jv4VT6)
+    * [2022年11月30日　グーグルフォーム](https://forms.gle/YjpxhS5tm3GuF63k9)
