@@ -21,9 +21,9 @@ Services
 * Associate Editor / Editorial Board
   * Cyborg and Bionic Systems 2021~.
   * Chinese Journal of Mechanical Engineering (CJME) 2021~.
-  * IEEE Transactions on Cybernetics (TCYB) 2019~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
   * IEEE Robotics and Automation Letters（RA-L) 2018~.
+  * IEEE Transactions on Cybernetics (TCYB) 2019~2022.
 * Conference Committee Member, Conference Editorial Board
   * International Conference on Developmental Learning (ICDL) 2021.
   * IEEE International Conference on Robot Learning (CoRL) 2020.
