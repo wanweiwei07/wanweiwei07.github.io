@@ -49,3 +49,4 @@ author_profile: true
   * 第6回　11月28日（関数・その2）[講義７](https://wanweiwei07.github.io/files/jse7.pdf)、[課題７](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai07.html)
   * 第7回　12月05日（配列・その2・文字列）[講義８](https://wanweiwei07.github.io/files/jse8.pdf)、[課題８](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai08.html)
   * 第8回　12月12日（配列・その2・文字列続き）[講義９](https://wanweiwei07.github.io/files/jse9.pdf)、[課題９](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai09.html)
+  * 第9回　12月19日（ポインタ）[講義１０](https://wanweiwei07.github.io/files/jse10.pdf)、[課題１０](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai10.html)
