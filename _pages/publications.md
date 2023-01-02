@@ -4,12 +4,11 @@ title: "Priprents"
 permalink: /publications/
 author_profile: true
 ---
-
 * <span style="color:red">[Preprint]</span>: [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](https://arxiv.org/pdf/2207.01214.pdf), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, Arxiv: http://arxiv.org/abs/2207.01214, 2022. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
-* <span style="color:red">[Preprint]</span>: [Reducing Uncertainty Using Placement and Regrasp Planning on a Triangular Corner Fixture](https://www.techrxiv.org/articles/preprint/Reducing_Uncertainty_Using_Placement_and_Regrasp_Planning_on_a_Triangular_Corner_Fixture/16685332), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, TechRxiv: https://doi.org/10.36227/techrxiv.16685332.v1, 2021. [Video](https://youtu.be/KIlFgAAuF8c)
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
+* [Reducing Uncertainty Using Placement and Regrasp Planning on a Triangular Corner Fixture](https://www.techrxiv.org/articles/preprint/Reducing_Uncertainty_Using_Placement_and_Regrasp_Planning_on_a_Triangular_Corner_Fixture/16685332), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023 (IEEE version will be available Soon). [Video](https://youtu.be/KIlFgAAuF8c)
 * [A Dual-Arm Robot that Manipulates Heavy Plates Cooperatively with a Vacuum Lifter](https://ieeexplore.ieee.org/document/9864147), Shogo Hayakawa, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2022 (IEEE version will be available Soon). [Video](https://youtu.be/w0Ls-PlXs3I)
 * [Obtaining an Object's 3D Model Using Dual-Arm Robotic Manipulation and Stationary Depth Sensing](https://ieeexplore.ieee.org/document/9849487), Sho Kobayashi, Weiwei wan, Takuya Kiyokawa, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2022.
 *  [Metal Wire Manipulation Planning for 3D Curving -- How a Low Payload Robot Can Use a Bending Machine to Bend Stiff Metal Wire](https://arxiv.org/pdf/2203.04024), Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada, **IEEE/RSJ International Conference on Intelligent Robots and Systems**, 2022. [Video](https://youtu.be/sp4KDs7oiEw)
