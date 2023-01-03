@@ -17,16 +17,15 @@ author_profile: true
     * [Taiki Moriyama](https://tkmrym.github.io/) (from 2022.4) -> Lab automation
     * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2022.4) -> Teleoperation
     * [Abdullah Ahmed]() (from 2022.4, together with Hu-sensei) -> Exoskeleton
+    * [Zhengyang Yuan]() (from 2022.10, )
  * Undergraduate students:
     * [Syoma Kanamoto](https://shoma17.github.io/homepage/) (from 2022.4, together with Hu-sensei) -> Placement planning
     * [Masaki Nakaue]() (from 2022.4) -> Lab automation
     * [Kodai Masunaga]() (from 2022.4) -> Intuitive teaching
  * Research students:
-    * Zhengyang Yuan (2022.10-, )
- * Visiting students
-    * Chuan Li (2022.5-, ) (from National University of Singapore)
+    * [Yu Tang]() (from 2022.10,) 
  * Visiting scholar
-    * N/A
+    * [Yanli Geng]() (2022.12.30-, )(from Hebei Institute of Technology) 
     
 Alumni
 =====
@@ -50,6 +49,7 @@ Alumni
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * Chuan Li (2022.5-2022.8) (from National University of Singapore)
     * Zhicheng Tao (2019.10-2019.12) (from Zhejiang University of Technology)
     * Juncheng Li (2019.7-2019.9) (from Guangdong University of Technology)
     * Jimmy Chen (2019.6-2019.8) (from University of California, Santa Cruz)
