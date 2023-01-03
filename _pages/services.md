@@ -5,9 +5,10 @@ permalink: /services/
 author_profile: true
 ---
 * Current Call for Paper
+  * NA
+* Past Call for Paper
   * [Special Issue on Biomimetic Perception, Cognition, and Control: From Nature to Robots](https://www.ieee-ras.org/publications/ram/special-issues/biomimetic-perception-cognition-and-control-from-nature-to-robots), IEEE Robotics and Automation Magzine, Deadline: Feb 1st, 2022.
   * [Special Issue on Emerging Topics on Development and Learning](https://wanweiwei07.github.io/files/ICDL2021_Special_Issue_Proposal_IEEE_Format.pdf), IEEE Transactions on Cognitive and Developmental Systems, Deadline: Dec 15th, 2021.
-* Past Call for Paper
   * [Special Issue on Intelligent Perception, Interaction and Learning for Dexterous Robotic Manipulation: Industrial Robots](https://www.emeraldgrouppublishing.com/journal/ir/intelligent-perception-interaction-and-learning-dexterous-robotic-manipulation), Industrial Robots, Deadline: Sep 1st, 2021.
   * [Special Issue on Physical Human-Robot Interaction and Co-Manipulation: Mechatronics Approaches](https://www.journals.elsevier.com/mechatronics/call-for-papers/call-for-papers-special-issue-on-physical-human-robot-intera), Mechatronics, Deadline: Oct 1st, 2021.
   * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems, Sensors and Materials](https://wanweiwei07.github.io/files/CFP-Sensors%26Materials_updated.pdf)
