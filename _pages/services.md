@@ -21,8 +21,8 @@ Services
 * Associate Editor / Editorial Board
   * IEEE Transactions on Robotics (TRO) 2023~.
   * International Journal on Robotics Research (IJRR) 2023~.
-  * IEEE Robotics and Automation Letters（RA-L) 2018~.
   * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
+  * IEEE Robotics and Automation Letters（RA-L) 2018~2022.
   * Chinese Journal of Mechanical Engineering (CJME) 2021~2022.
   * Cyborg and Bionic Systems 2021~2022.
   * IEEE Transactions on Cybernetics (TCYB) 2019~2022.
