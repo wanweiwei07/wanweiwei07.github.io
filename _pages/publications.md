@@ -4,7 +4,7 @@ title: "Priprents"
 permalink: /publications/
 author_profile: true
 ---
-* <span style="color:red">[Preprint]</span>: [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](http://arxiv.org/abs/2301.01441), Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, and Kensuke Harada, Arxiv: [http://arxiv.org/abs/2207.01214](http://arxiv.org/abs/2301.01441), 2022. [Video](https://www.youtube.com/watch?v=zIRgfZjHBDg
+* <span style="color:red">[Preprint]</span>: [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](http://arxiv.org/abs/2301.01441), Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, and Kensuke Harada, Arxiv: [http://arxiv.org/abs/2207.01214](http://arxiv.org/abs/2301.01441), 2022. [Video](https://www.youtube.com/watch?v=zIRgfZjHBDg)
 * <span style="color:red">[Preprint]</span>: [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](https://arxiv.org/pdf/2207.01214.pdf), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, Arxiv: http://arxiv.org/abs/2207.01214, 2022. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
