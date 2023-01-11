@@ -77,6 +77,7 @@ A Primer on Writing Technical Reports, Academic Paper, and Reviews
     6. Is the English good enough to understand? 
     7. Is the organization clear?
     8. Typos and grammatical problems
+* When you receive comments from reviewers, please follow [this instruction](https://juicy-grenadilla-3fb.notion.site/What-to-do-after-receiving-comments-from-reviewers-738d91261bdd4ff4b040083fa91c5665) to write response letters and revise your manuscript. Please keep the suggested timeline to avoid missing deadlines.
 
 Videos
 ======
