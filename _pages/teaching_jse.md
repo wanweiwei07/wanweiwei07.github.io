@@ -52,3 +52,5 @@ author_profile: true
   * 第9回　12月19日（ポインタ）[講義１０](https://wanweiwei07.github.io/files/jse10.pdf)、[課題１０](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai10.html)
   * 12月26日（休み）
   * 第10回　1月16日（テキストファイルの入出力）[講義１１](https://wanweiwei07.github.io/files/jse11.pdf)、[課題１１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai11.html)
+  * 第11回　1月23日（総まとめ）[講義１２](https://wanweiwei07.github.io/files/jse12.pdf)、[課題１２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai12.html)
+  * 第12回　1月30日（最終課題）CLEで確認ください
