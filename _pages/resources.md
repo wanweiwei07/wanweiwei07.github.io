@@ -67,6 +67,14 @@ A Primer on Writing Technical Reports, Academic Paper, and Reviews
   * Please read [this article](https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing).
 * Connecting words
   * Please read [this article](http://writing2.richmond.edu/writing/wweb/trans1.html)
+* Equations and symbols
+  * Single letter variables should be in italic. Multiple letter variables, functions and labels should not be in italic.
+  * If you write ab in italics, it means a x b. Use this visualization to correct all your math.
+  * Two italic variables next to each other means multiplication. Only use an explicit multiplication sign if absolutely needed.
+  * Use the proper multiplication sign and not an asterisk. If you want to use a dot, use a centered dot and not a period (full-stop).
+  * Physical units must not be in italic.
+  * There should always be a space between a number and the units (with the exception of the degree symbol and %).
+  * Use bold font for vectors.
 * Reviews
   * Some time I ask a senior Ph.D. student who has really solid knowledge to help review a paper. A good review might be summarized by answering the following questions:
     1. What did this paper do?
