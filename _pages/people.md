@@ -49,6 +49,7 @@ Alumni
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * Zhuoyu Zhang (2022.8-2022.9) (from University of California, Los Angles)
     * Chuan Li (2022.5-2022.8) (from National University of Singapore)
     * Zhicheng Tao (2019.10-2019.12) (from Zhejiang University of Technology)
     * Juncheng Li (2019.7-2019.9) (from Guangdong University of Technology)
