@@ -56,7 +56,7 @@ Alumni
     * Zhicheng Tao (2019.10-2019.12) (from Zhejiang University of Technology)
     * Juncheng Li (2019.7-2019.9) (from Guangdong University of Technology)
     * Jimmy Chen (2019.6-2019.8) (from University of California, Santa Cruz)
-    * Kantapon Akanesuvan (2018.7-2018.8) (An undergraduate student from University of California, Davis)
+    * Kantapon Akanesuvan (2018.7-2018.8) (from University of California, Davis)
     * Yajue Yang (2017.7-10) (from The City University of Hong Kong)
     * Jiayao Ma (2017.7-9) (from Peking University) Link to her soft @Github
     * [Chao Cao](http://caochao.me/) (2015.7-8)  (from The University of Hong Kong, now a Ph.D. candidate Carnegie Mellon University)
