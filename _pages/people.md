@@ -24,8 +24,10 @@ author_profile: true
     * [Kodai Masunaga]() (from 2022.4) -> Intuitive teaching
  * Research students:
     * [Yu Tang]() (from 2022.10,) 
- * Visiting scholar
-    * [Yanli Geng]() (2022.12.30-, )(from Hebei Institute of Technology) 
+ * Visiting professors:
+    * [Yanli Geng]() (2022.12.30-, )(from Hebei Institute of Technology)
+ * Visiting students:
+    * NA
     
 Alumni
 =====
