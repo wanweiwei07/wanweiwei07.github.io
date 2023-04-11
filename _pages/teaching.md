@@ -12,7 +12,7 @@ author_profile: true
 
 * 大学院コース
   * 2023 データベースシステム論
-  * 2023 システム科学ゼミナーガイダンス
+  * 2023 システム科学ゼミナー
 <!--     * [2022年10月12日　グーグルフォーム](https://forms.gle/C5HZAuP6NJEhrHys5)
     * [2022年10月19日　グーグルフォーム](https://forms.gle/ttGDd6buP7Qc99738)
     * [2022年10月26日　グーグルフォーム](https://forms.gle/ZhuVqrxT5Wa3VBs58)
