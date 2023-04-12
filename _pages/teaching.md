@@ -12,7 +12,7 @@ author_profile: true
 
 * 大学院コース
   * 2023 データベースシステム論
-  * 2023 システム科学ゼミナー
+  * 2023 システム科学ゼミナー [Guidance](https://wanweiwei07.github.io/files/2023insemi_guidance.pdf)
     * [2023年4月19日　グーグルフォーム](https://forms.gle/jnmAXpvfJV9ZNKGh6)
     * [2023年4月26日　グーグルフォーム](https://forms.gle/gRdxaHPjedQrJcGm7)
     * [2023年5月10日　グーグルフォーム](https://forms.gle/z3h2JQQmYecSUzRV7)
