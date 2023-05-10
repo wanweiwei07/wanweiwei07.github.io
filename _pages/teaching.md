@@ -26,3 +26,5 @@ author_profile: true
     * [2023年7月05日　グーグルフォーム](https://forms.gle/MG1MkNkAUb8JnJ5C7)
     * [2023年7月12日　グーグルフォーム](https://forms.gle/K8My7KsoZps3bEFv8)
     * [2023年7月19日　グーグルフォーム](https://forms.gle/yWTicKDohbsnk6Ro7)
+    * [2023年7月26日　グーグルフォーム](https://forms.gle/TnK2Ydy7pF71SJnd7)
+    * [2023年8月02日　グーグルフォーム](https://forms.gle/Wsfoqu1hAfSeHPim6)
