@@ -4,12 +4,13 @@ title: "Priprents"
 permalink: /publications/
 author_profile: true
 ---
-* <span style="color:red">[Preprint]</span>: [Implicit Contact-Rich Manipulation Planning for a Manipulator with Insufficient Payload](https://arxiv.org/pdf/2302.13212.pdf), Kento Nakatsuru, Weiwei Wan, and Kensuke Harada, Arxiv: [http://arxiv.org/abs/2302.13212](https://arxiv.org/abs/2302.13212), 2023. [Video](https://www.youtube.com/watch?v=F00ySWoMV_Q)
 * <span style="color:red">[Preprint]</span>: [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](http://arxiv.org/abs/2301.01441), Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, and Kensuke Harada, Arxiv: [http://arxiv.org/abs/2207.01214](http://arxiv.org/abs/2301.01441), 2022. [Video](https://www.youtube.com/watch?v=zIRgfZjHBDg)
 * <span style="color:red">[Preprint]</span>: [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](https://arxiv.org/pdf/2207.01214.pdf), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, Arxiv: http://arxiv.org/abs/2207.01214, 2022. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
+* [TAMP for 3D Curving – A Low-Payload Robot Arm Works Aside a Bending Machine to Curve High-Stiffness Metal Wires](), Ruishuang Liu, Weiwei Wan, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering**, 2023. [Video](https://www.youtube.com/watch?v=u3PL-W4Xhjo).
+* [Implicit Contact-Rich Manipulation Planning for a Manipulator with Insufficient Payload](https://arxiv.org/pdf/2302.13212.pdf), Kento Nakatsuru, Weiwei Wan, and Kensuke Harada, **Robotic Intelligence and Automation**, 2023. [Video](https://www.youtube.com/watch?v=F00ySWoMV_Q)
 * [In-Hand Pose Estimation Using Hand-Mounted RGB Cameras and Visuotactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043666), Yuan Gao, Shogo Matsuoka, Weiwei Wan, Takuya Kiyokawa, Keisuke Koyama, and Kensuke Harada, **IEEE Access**, 2023. [Video](https://www.youtube.com/watch?v=2DNVzRrOgaw)
 * [Body Extension Using Two Mobile Manipulators](https://spj.science.org/doi/10.34133/cbsystems.0014?fbclid=IwAR0LApXzqI3EPGYS4x6tjnOL0r2cJL0jYnnfkBca3mQnoa_Ekj89gtvwbr0), Yusuke Hirao, Weiwei Wan, Dimitrios Kanoulas, and Kensuke Harada, **Cyborg and Bionic Systems**, 2023. [Video](https://www.youtube.com/watch?v=1fuNwEYStaM)
 * [Reducing Uncertainty Using Placement and Regrasp Planning on a Triangular Corner Fixture](https://www.techrxiv.org/articles/preprint/Reducing_Uncertainty_Using_Placement_and_Regrasp_Planning_on_a_Triangular_Corner_Fixture/16685332), Zhengtao Hu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023 (IEEE version will be available Soon). [Video](https://youtu.be/KIlFgAAuF8c)
