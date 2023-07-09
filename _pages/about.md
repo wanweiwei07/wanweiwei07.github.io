@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<strong>I am a program chair for [ROBIO 2023](http://robio2023.org/).</strong>
+<strong>I am a co-sponsor chair for [ICRA 2024](http://ieee-icra.org/), and I am particularly in charge of Chinese sponsor applications.</strong>
+
 This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. It is rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
 <img src="https://wanweiwei07.github.io/images/wrs_robots2.jpg">
 
