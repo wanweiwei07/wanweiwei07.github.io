@@ -5,6 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 * Current Call for Paper
+  * [Special Issue on Recent Advances in Robotics and Biomimetics](https://www.mdpi.com/journal/biomimetics/special_issues/4S8OIN67K5), Biomimetics, Deadline: Jun 30th, 2024. (Note: Selected papers from IEEE ROBIO2023 will be recommended for this special issue.)
   * [Special Issue on Intelligent Human-Robot Interaction](https://www.mdpi.com/journal/biomimetics/special_issues/9I9AQDZ46B), Biomimetics, Deadline: Aug 20th, 2023.
 * Past Call for Paper
   * [Special Issue on Biomimetic Perception, Cognition, and Control: From Nature to Robots](https://www.ieee-ras.org/publications/ram/special-issues/biomimetic-perception-cognition-and-control-from-nature-to-robots), IEEE Robotics and Automation Magzine, Deadline: Feb 1st, 2022.
