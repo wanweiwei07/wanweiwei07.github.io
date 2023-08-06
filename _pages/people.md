@@ -24,9 +24,9 @@ author_profile: true
  * Research students:
     * NA
  * Visiting professors:
-    * [Yanli Geng]() (2022.12.30-, )(from Hebei Institute of Technology)
+    * [Yanli Geng]() (2022.12.30-, ) (from Hebei Institute of Technology)
  * Visiting students:
-    * NA
+    * Kai Alcayde (2023.7-) (from University of California, Los Angeles)
     
 Alumni
 =====
@@ -52,6 +52,7 @@ Alumni
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * Peng Xu (2023.5-7) (from The University of Hong Kong)
     * Zhuoyu Zhang (2022.8-2022.9) (from University of California, Los Angles)
     * Chuan Li (2022.5-2022.8) (from National University of Singapore)
     * Zhicheng Tao (2019.10-2019.12) (from Zhejiang University of Technology)
