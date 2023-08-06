@@ -4,11 +4,11 @@ title: "Priprents"
 permalink: /publications/
 author_profile: true
 ---
-* <span style="color:red">[Preprint]</span>: [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](http://arxiv.org/abs/2301.01441), Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, and Kensuke Harada, Arxiv: [http://arxiv.org/abs/2207.01214](http://arxiv.org/abs/2301.01441), 2022. [Video](https://www.youtube.com/watch?v=zIRgfZjHBDg)
 * <span style="color:red">[Preprint]</span>: [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](https://arxiv.org/pdf/2207.01214.pdf), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, Arxiv: http://arxiv.org/abs/2207.01214, 2022. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
+* [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](), Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=zIRgfZjHBDg)
 * [TAMP for 3D Curving – A Low-Payload Robot Arm Works Aside a Bending Machine to Curve High-Stiffness Metal Wires](), Ruishuang Liu, Weiwei Wan, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=u3PL-W4Xhjo).
 * [Implicit Contact-Rich Manipulation Planning for a Manipulator with Insufficient Payload](https://arxiv.org/pdf/2302.13212.pdf), Kento Nakatsuru, Weiwei Wan, and Kensuke Harada, **Robotic Intelligence and Automation**, 2023. [Video](https://www.youtube.com/watch?v=F00ySWoMV_Q)
 * [In-Hand Pose Estimation Using Hand-Mounted RGB Cameras and Visuotactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043666), Yuan Gao, Shogo Matsuoka, Weiwei Wan, Takuya Kiyokawa, Keisuke Koyama, and Kensuke Harada, **IEEE Access**, 2023. [Video](https://www.youtube.com/watch?v=2DNVzRrOgaw)
