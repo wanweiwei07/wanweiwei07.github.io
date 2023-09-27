@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * 学部コース
-  * [2023 情報処理演習](https://wanweiwei07.github.io/teaching_jse)
+  * [2023 情報処理演習](https://wanweiwei07.github.io/teaching/jse/)
   * 2023 コンピュータ基礎
   * 2023 Problem Based Learning (PBL)
 
