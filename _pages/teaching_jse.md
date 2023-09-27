@@ -5,7 +5,7 @@ permalink: /teaching/jse/
 author_profile: true
 ---
 
-* 2022年度　[情報処理演習共通ホームページ](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/)（[テキスト](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/text/index.html)、[課題](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/index.html)）
+* 2023年度　[情報処理演習共通ホームページ](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/)（[テキスト](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/text/index.html)、[課題](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/index.html)）
 * 連絡先：基礎工学部F棟522号室
 * オンライン実施：ZOOM情報についてCLEで確認してください
 
@@ -17,7 +17,7 @@ author_profile: true
   * レポート・最終課題ともに，追加提出を行わない
 
 * レポートの提出：毎回の授業開始まで
-* 最終課題：2/6最終締め切り
+* 最終課題：
 
 * 成績の割合
   * 出席、レポート、最終課題をパーセント分けで計算すること．
