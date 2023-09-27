@@ -30,27 +30,26 @@ author_profile: true
   * クラブ活動はダ
 
 * TAさんの連絡方法
-  * 王TA ou@hlab.sys.es.osaka-u.ac.jp
-  * 巌TA iwao@hlab.sys.es.osaka-u.ac.jp 
-  * 中津留TA nakatsuru@hlab.sys.es.osaka-u.ac.jp 
-  * 長門TA nagato@hlab.sys.es.osaka-u.ac.jp 
-  * 高須TA takasu@hlab.sys.es.osaka-u.ac.jp 
-  * 山下TA yamashita@hlab.sys.es.osaka-u.ac.jp 
+  * 田中TA h.tanaka@hlab.sys.es.osaka-u.ac.jp
+  * 端井TA hanai@hlab.sys.es.osaka-u.ac.jp 
+  * 平尾TA marumaruyhno.2@gmail.com
+  * 増永TA masunaga@hlab.sys.es.osaka-u.ac.jp
+  * 牟田TA muta@hlab.sys.es.osaka-u.ac.jp
 
 ---
 
 * スケジュール・講義資料
-  * 第0回　10月3日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)、[Cygwin64とgccの環境構築](https://www.notion.so/Cygwin-gcc-f29fc29ac4c9479bb8e25ae1dfa34a62)
-  * 第1回　10月17日（条件分岐）[講義２](https://wanweiwei07.github.io/files/jse2.pdf)、[課題２](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai02.html)
-  * 第2回　10月24日（繰り返し）[講義３](https://wanweiwei07.github.io/files/jse3.pdf)、[課題３](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai03.html)
-  * 第3回　10月31日（条件分岐と繰り返しの組合せ）[講義４](https://wanweiwei07.github.io/files/jse4.pdf)、[課題４](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai04.html)
-  * 第4回　11月14日（関数・その1）[講義５](https://wanweiwei07.github.io/files/jse5.pdf)、[課題５](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai05.html)
-  * 第5回　11月21日（配列・その1）[講義６](https://wanweiwei07.github.io/files/jse6.pdf)、[課題６](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai06.html)
-  * 第6回　11月28日（関数・その2）[講義７](https://wanweiwei07.github.io/files/jse7.pdf)、[課題７](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai07.html)
-  * 第7回　12月05日（配列・その2・文字列）[講義８](https://wanweiwei07.github.io/files/jse8.pdf)、[課題８](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai08.html)
-  * 第8回　12月12日（配列・その2・文字列続き）[講義９](https://wanweiwei07.github.io/files/jse9.pdf)、[課題９](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai09.html)
-  * 第9回　12月19日（ポインタ）[講義１０](https://wanweiwei07.github.io/files/jse10.pdf)、[課題１０](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai10.html)
-  * 12月26日（休み）
-  * 第10回　1月16日（テキストファイルの入出力）[講義１１](https://wanweiwei07.github.io/files/jse11.pdf)、[課題１１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai11.html)
-  * 第11回　1月23日（総まとめ）[講義１２](https://wanweiwei07.github.io/files/jse12.pdf)、課題なし
-  * 第12回　1月30日（最終課題）CLEで確認ください
+  * 第0回　10月2日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)、[Cygwin64とgccの環境構築](https://www.notion.so/Cygwin-gcc-f29fc29ac4c9479bb8e25ae1dfa34a62)
+  * 第1回　10月16日（条件分岐）[講義２]()、[課題２]()
+  * 第2回　10月23日（繰り返し）[講義３]()、[課題３]()
+  * 第3回　10月30日（条件分岐と繰り返しの組合せ）[講義４]()、[課題４]()
+  * 第4回　11月06日（関数・その1）[講義５]()、[課題５]()
+  * 第5回　11月13日（配列・その1）[講義６]()、[課題６]()
+  * 第6回　11月20日（関数・その2）[講義７]()、[課題７]()
+  * 第7回　11月27日（配列・その2・文字列）[講義８]()、[課題８]()
+  * 12月4日（休み）
+  * 第8回　12月11日（配列・その2・文字列続き）[講義９]()、[課題９]()
+  * 第9回　12月18日（ポインタ）[講義１０]()、[課題１０]()
+  * 第10回　12月25日（テキストファイルの入出力）[講義１１]()、[課題１１]()
+  * 第11回　1月15日（総まとめ）[講義１２]()、課題なし
+  * 第12回　1月??日（最終課題）CLEで確認ください
