@@ -39,7 +39,7 @@ author_profile: true
 ---
 
 * スケジュール・講義資料
-  * 第0回　10月2日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)、[Cygwin64とgccの環境構築](https://www.notion.so/Cygwin-gcc-f29fc29ac4c9479bb8e25ae1dfa34a62)
+  * 第0回　10月2日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１]なし、[Cygwin64とgccの環境構築](https://www.notion.so/Cygwin-gcc-f29fc29ac4c9479bb8e25ae1dfa34a62)
   * 第1回　10月16日（課程説明・班分け・TAの紹介・ガイダンス・Ｃ言語入門）[ガイダンス資料](https://wanweiwei07.github.io/files/guidance.pdf)、[講義１](https://wanweiwei07.github.io/files/jse1.pdf)、[課題１](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/jse/kadai/kadai01.html)、[Cygwin64とgccの環境構築](https://www.notion.so/Cygwin-gcc-f29fc29ac4c9479bb8e25ae1dfa34a62)
   * 第2回　10月23日（条件分岐）[講義２]()、[課題２]()
   * 第3回　10月30日（繰り返し）[講義３]()、[課題３]()
