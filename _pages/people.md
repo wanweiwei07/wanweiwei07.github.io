@@ -31,7 +31,7 @@ author_profile: true
 Alumni
 =====
  * Past students
-    * [Ruishuang Liu](https://rsliu-xx.github.io/) (Ph.D. 2019.10-2023.04) -> 3D Robotic painting planning -> Honda
+    * [Ruishuang Liu](https://rsliu-xx.github.io/) (Ph.D. 2019.10-2023.4) -> 3D Robotic painting planning -> Honda
     * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
     * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University -> Shanghai University
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (Master 2021.4-2023.3) -> From human demonstration to robot motion -> Daikin
