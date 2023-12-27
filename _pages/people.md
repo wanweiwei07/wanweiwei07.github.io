@@ -5,7 +5,6 @@ permalink: /people/
 author_profile: true
 ---
  * PhD candidates:
-    * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10) -> 3D Robotic painting planning
     * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> AND/OR Assembly planning
     * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> Interleaved modeling and manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. candidate from 2023.4) -> Dynamic catching
@@ -25,16 +24,17 @@ author_profile: true
  * Research students:
     * NA
  * Visiting professors:
-    * [Yanli Geng]() (2022.12.30-, ) (from Hebei Institute of Technology)
+    * NA
  * Visiting students:
-    * Kai Alcayde (2023.7-) (from University of California, Los Angeles)
-    
+   * Mengxin Xu (2023.11-) -> Human-Robot Collaboration
+         
 Alumni
 =====
  * Past students
-    * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (Master 2021.4-2023.3) -> From human demonstration to robot motion
+    * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10-2023.04) -> 3D Robotic painting planning -> Honda
+    * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (Master 2021.4-2023.3) -> From human demonstration to robot motion -> Daikin
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (Master 2021.4-2023.3) -> Gravitational manipulation
-    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University
+    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University -> Shanghai Uiversity
     * Shogo Hayakawa (Master 2020.4-2022.3 -> Manipulating heavy objects using humanoid robots) Pansasonic Corporation
     * Sho Kobayashi (Master 2020.4-2022.3 -> Reconstruction from motion) FANUC Corporation
     * Shogo Matsuoka (Master 2020.4-2022.3 -> In-hand pose estimation) TOYOTA
@@ -48,11 +48,13 @@ Alumni
     * Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) Sony
     * Zepei Wu (Research Student 2015.4-2016.3)   Master student Tokyo Metropolitan University
  * Past visiting professors
+    * [Yanli Geng]() (2022.12.30-2023.12.27) (from Hebei Institute of Technology)
     * [Leiying He](https://www.researchgate.net/profile/Leiying-He-2) (2019.12-2020.3) (Assistant Professor, Zhejiang Sci-Tech University)
     * [Elon Rimon](https://meeng.technion.ac.il/members/elon-rimon/) (2017.3-6)  (Associate Professor, Israel Institute of Technology)
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * Kai Alcayde (2023.7-9) (from University of California, Los Angeles)
     * Peng Xu (2023.5-7) (from The University of Hong Kong)
     * Zhuoyu Zhang (2022.8-2022.9) (from University of California, Los Angles)
     * Chuan Li (2022.5-2022.8) (from National University of Singapore)
