@@ -5,24 +5,24 @@ permalink: /people/
 author_profile: true
 ---
  * PhD candidates:
-    * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> AND/OR Assembly planning
-    * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. candidate from 2021.4) -> Interleaved modeling and manipulation
-    * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. candidate from 2023.4) -> Dynamic catching
-    * [Bowen Yu](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. candidate 2023.4) -> Soft hand
+    * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> AND/OR Assembly planning
+    * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> Interleaved modeling and manipulation
+    * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Dynamic catching
+    * [Bowen Yu](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Soft hand
  * Master candidates:
-    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(from 2021.10) -> HRI
-    * [Taiki Moriyama](https://tkmrym.github.io/) (from 2022.4) -> Lab automation
-    * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (from 2022.4) -> Teleoperation
-    * [Abdullah Ahmed]() (from 2022.4, together with Hu-sensei) -> Exoskeleton
-    * [Zhengyang Yuan]() (from 2022.10, )
-    * [Yu Tang]() (from 2023.4,)
-    * [Masaki Nakaue]() (from 2023.4) -> Lab automation
-    * [Kodai Masunaga]() (from 2023.4) -> Intuitive teaching
+    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(2021.10-) -> HRI
+    * [Taiki Moriyama](https://tkmrym.github.io/) (2022.4-) -> Lab automation
+    * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (2022.4-) -> Teleoperation
+    * [Abdullah Ahmed]() (2022.4-, together with Hu-sensei) -> Exoskeleton
+    * [Zhengyang Yuan]() (2022.10-)
+    * [Yu Tang]() (2023.4-)
+    * [Masaki Nakaue]() (2023.4-) -> Lab automation
+    * [Kodai Masunaga]() (2023.4-) -> Intuitive teaching
  * Undergraduate students:
     * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (from 2023.4) -> Mobile manipulation
     * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (from 2023.4)
  * Research students:
-    * NA
+    * [Cenfeng Fu] (2023.10-) -> Dual-Arm Assembly
  * Visiting professors:
     * NA
  * Visiting students:
@@ -31,14 +31,14 @@ author_profile: true
 Alumni
 =====
  * Past students
-    * [Ruishuang Liu](https://rsliu-xx.github.io/) (from 2019.10-2023.04) -> 3D Robotic painting planning -> Honda
+    * [Ruishuang Liu](https://rsliu-xx.github.io/) (Ph.D. 2019.10-2023.04) -> 3D Robotic painting planning -> Honda
+    * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
+    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University -> Shanghai University
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (Master 2021.4-2023.3) -> From human demonstration to robot motion -> Daikin
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (Master 2021.4-2023.3) -> Gravitational manipulation
-    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University -> Shanghai Uiversity
     * Shogo Hayakawa (Master 2020.4-2022.3 -> Manipulating heavy objects using humanoid robots) Pansasonic Corporation
     * Sho Kobayashi (Master 2020.4-2022.3 -> Reconstruction from motion) FANUC Corporation
     * Shogo Matsuoka (Master 2020.4-2022.3 -> In-hand pose estimation) TOYOTA
-    * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
     * Sanchez Aranguren Daniel Enrique (Master 2019.4-2021.3 -> Manipulation planning under stability constraints) Autonomous Control Systems Laboratory
     * Ryosuke Hiraki (Master 2019.4-2021.3 -> Deep learning to pushing) NTT WEST
     * Takehiro Fujimori (Master 2019.4-2021.3 -> Caging under gravity) Panasonic
