@@ -9,8 +9,8 @@ author_profile: true
     * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> Interleaved modeling and manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Soft hand
+    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(Master 2021.10-2023.09, Ph.D. Candidate 2023.10-) -> HRI
  * Master candidates:
-    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(2021.10-) -> HRI
     * [Taiki Moriyama](https://tkmrym.github.io/) (2022.4-) -> Lab automation
     * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (2022.4-) -> Teleoperation
     * [Abdullah Ahmed]() (2022.4-, together with Hu-sensei) -> Exoskeleton
@@ -22,7 +22,7 @@ author_profile: true
     * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (from 2023.4) -> Mobile manipulation
     * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (from 2023.4)
  * Research students:
-    * [Cenfeng Fu] (2023.10-) -> Dual-Arm Assembly
+    * [Cenfeng Fu]() (2023.10-) -> Dual-Arm Assembly
  * Visiting professors:
     * NA
  * Visiting students:
