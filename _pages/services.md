@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 * Current Call for Paper
-  * [Special Issue on Artificial Intelligence Generated Content (AIGC) for Industrial Manufacturing], IEEE Transactions on Automation Science and Engineering (TASE), Deadline: Oct 1st, 2024.
+  * [Special Issue on Artificial Intelligence Generated Content (AIGC) for Industrial Manufacturing](), IEEE Transactions on Automation Science and Engineering (TASE), Deadline: Oct 1st, 2024.
   * [Special Issue on Recent Advances in Robotics and Biomimetics](https://www.mdpi.com/journal/biomimetics/special_issues/4S8OIN67K5), Biomimetics, Deadline: Jun 30th, 2024. (Note: Selected papers from IEEE ROBIO2023 will be recommended for this special issue.)
 * Past Call for Paper
   * [Special Issue on Intelligent Human-Robot Interaction](https://www.mdpi.com/journal/biomimetics/special_issues/9I9AQDZ46B), Biomimetics, Deadline: Aug 20th, 2023.
