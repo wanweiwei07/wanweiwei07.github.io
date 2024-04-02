@@ -5,9 +5,10 @@ permalink: /services/
 author_profile: true
 ---
 * Current Call for Paper
+  * [Special Issue on Artificial Intelligence Generated Content (AIGC) for Industrial Manufacturing], IEEE Transactions on Automation Science and Engineering (TASE), Deadline: Oct 1st, 2024.
   * [Special Issue on Recent Advances in Robotics and Biomimetics](https://www.mdpi.com/journal/biomimetics/special_issues/4S8OIN67K5), Biomimetics, Deadline: Jun 30th, 2024. (Note: Selected papers from IEEE ROBIO2023 will be recommended for this special issue.)
-  * [Special Issue on Intelligent Human-Robot Interaction](https://www.mdpi.com/journal/biomimetics/special_issues/9I9AQDZ46B), Biomimetics, Deadline: Aug 20th, 2023.
 * Past Call for Paper
+  * [Special Issue on Intelligent Human-Robot Interaction](https://www.mdpi.com/journal/biomimetics/special_issues/9I9AQDZ46B), Biomimetics, Deadline: Aug 20th, 2023.
   * [Special Issue on Biomimetic Perception, Cognition, and Control: From Nature to Robots](https://www.ieee-ras.org/publications/ram/special-issues/biomimetic-perception-cognition-and-control-from-nature-to-robots), IEEE Robotics and Automation Magzine, Deadline: Feb 1st, 2022.
   * [Special Issue on Emerging Topics on Development and Learning](https://wanweiwei07.github.io/files/ICDL2021_Special_Issue_Proposal_IEEE_Format.pdf), IEEE Transactions on Cognitive and Developmental Systems, Deadline: Dec 15th, 2021.
   * [Special Issue on Intelligent Perception, Interaction and Learning for Dexterous Robotic Manipulation: Industrial Robots](https://www.emeraldgrouppublishing.com/journal/ir/intelligent-perception-interaction-and-learning-dexterous-robotic-manipulation), Industrial Robots, Deadline: Sep 1st, 2021.
