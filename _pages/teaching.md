@@ -11,7 +11,7 @@ author_profile: true
   * 2024 Problem Based Learning (PBL)
 * 大学院コース
   * 2024 データベースシステム論
-  * 2024 システム科学ゼミナー [Guidance](https://wanweiwei07.github.io/files/2023insemi_guidance.pdf)
+  * 2024 システム科学ゼミナー
     * [2024年4月24日　グーグルフォーム](https://forms.gle/FTYVXTxJPk5JbcRW7)
     * [2024年5月08日　グーグルフォーム](https://forms.gle/KTarqaYw1eQktnNy7)
     * [2024年5月15日　グーグルフォーム](https://forms.gle/hJcEgXTUikvko6Sg9)
