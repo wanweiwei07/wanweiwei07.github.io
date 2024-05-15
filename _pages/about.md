@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<strong>I am a general chair for [ICCRE 2024](http://iccre.org/).</strong>\
+<strong>I am a publicity chair for [IROS 2025](https://irmv.sjtu.edu.cn/iros2025/).</strong>\
 <strong>I am a co-sponsor chair for [ICRA 2024](http://ieee-icra.org/), focusing on sponsor applications in Asia (Japan Excluded).</strong>
 
 This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. It is rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
