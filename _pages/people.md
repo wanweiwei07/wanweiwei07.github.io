@@ -5,12 +5,11 @@ permalink: /people/
 author_profile: true
 ---
  * PhD candidates:
-    * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> AND/OR Assembly planning
     * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> Interleaved modeling and manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Soft hand
     * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(Master 2021.10-2023.09, Ph.D. Candidate 2023.10-) -> HRI
-    * [Cenfeng Fu]() (2024.4-) -> Dual-Arm Assembly
+    * [Liang Qin]()(Ph.D. Candidate 2024.4-) -> Lab automation
  * Master candidates:
     * [Yu Tang]() (2023.4-)
     * [Kodai Masunaga]() (2023.4-) -> Intuitive teaching
@@ -19,7 +18,9 @@ author_profile: true
     * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (from 2024.4) -> Lab automation
     * [Naoyuki Matsuyama]() (from2024.4) -> Soft robot
  * Undergraduate students:
-    * NA 
+    * [Haruto Nagai](https://n-haru0524.github.io/web/)(from 2024.4)
+    * [Takahiro Yonemaru]()
+    * [Ryuuta Nagahama]()
  * Research students:
     * NA
  * Visiting professors:
@@ -31,6 +32,7 @@ author_profile: true
 Alumni
 =====
  * Past students
+    * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D.2021.4-2024.3) -> Reinforcement Learning for TAMP -> Fujian Agricultural and Forest University
     * [Ruishuang Liu](https://rsliu-xx.github.io/) (Ph.D. 2019.10-2023.4) -> 3D Robotic painting planning -> Honda
     * Mohamed Raessa (Ph.D. 2018.4-2021.3 -> Drooping manipulation planning) Avatar-in Inc.
     * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3 -> Mechanical tool design for a general robot) Reseach assistant professor, Osaka University -> Shanghai University
