@@ -8,6 +8,13 @@ author_profile: true
 * [Github Source](https://github.com/wanweiwei07)
 * [Gitlab Source](https://gitlab.com/wanweiwei07/wrs) No longer maintained since Nov.2020.
 
+Tutorials
+======
+
+* [WRS_BC1_PYTHON](https://wanweiwei07.github.io/files/bc1_python_v20240625.pdf)
+* [WRS_BC2_PYTHON](https://wanweiwei07.github.io/files/bc2_pycharm_v20240625.pdf)
+* [WRS_BC3_PYTHON](https://wanweiwei07.github.io/files/bc3_rotation_v20240625.pdf)
+
 Drivers and Embedded Systems
 ======
 * [Compile and set up Preempt RT kernel](https://juicy-grenadilla-3fb.notion.site/Preempt_RT-chrt-f-99-with-Python-defc93780916436d92c435778b23a687)
