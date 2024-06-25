@@ -8,7 +8,7 @@ author_profile: true
 * [Github Source](https://github.com/wanweiwei07)
 * [Gitlab Source](https://gitlab.com/wanweiwei07/wrs) No longer maintained since Nov.2020.
 
-Tutorials
+Tutorials of WRS (Fundamental Robotics)
 ======
 
 * [WRS_BC1_PYTHON](https://wanweiwei07.github.io/files/bc1_python_v20240625.pdf)
