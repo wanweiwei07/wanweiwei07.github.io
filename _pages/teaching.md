@@ -25,3 +25,4 @@ author_profile: true
     * [2024年7月10日　グーグルフォーム](https://forms.gle/HNjqtc6V6rRpJHGu6)
     * [2024年7月17日　グーグルフォーム](https://forms.gle/C7MdjQwv36F9jvMk6)
     * [2024年7月24日　グーグルフォーム](https://forms.gle/ELExaQRH3CZSLJiD8)
+    * [2024年7月30日　グーグルフォーム](https://forms.gle/sBjis9dkM9wMMimd7)
