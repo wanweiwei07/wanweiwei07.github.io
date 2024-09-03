@@ -7,6 +7,7 @@ author_profile: true
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
+* [Development of a Miniature Photometric Vision-Based Tactile Sensor](), Yuan Gao, Shixin Zhang, Weiwei Wan, Bin Fang, Fuchun Sun, **IEEE Sensors Journal**, 2024.
 * [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
 * [Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis](), Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=zIRgfZjHBDg)
 * [TAMP for 3D Curving – A Low-Payload Robot Arm Works Aside a Bending Machine to Curve High-Stiffness Metal Wires](), Ruishuang Liu, Weiwei Wan, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=u3PL-W4Xhjo).
