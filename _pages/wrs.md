@@ -11,9 +11,10 @@ author_profile: true
 Tutorials of WRS (Fundamental Robotics)
 ======
 
-* [WRS_BC1_PYTHON](https://wanweiwei07.github.io/files/bc1_python_v20240625.pdf)
-* [WRS_BC2_PYCHARM](https://wanweiwei07.github.io/files/bc2_pycharm_v20240625.pdf)
-* [WRS_BC3_ROTATION](https://wanweiwei07.github.io/files/bc3_rotation_v20240625.pdf)
+* [WRS_BC1_PYTHON](https://wanweiwei07.github.io/files/bc1_python_v20240917.pdf)
+* [WRS_BC2_PYCHARM](https://wanweiwei07.github.io/files/bc2_pycharm_v20240917.pdf)
+* [WRS_BC3_ROTATION](https://wanweiwei07.github.io/files/bc3_rotation_v20240917.pdf)
+* [WRS_BC4_JLCHAIN](https://wanweiwei07.github.io/files/bc4_jlchain_v20240917.pdf)
 
 Drivers and Embedded Systems
 ======
