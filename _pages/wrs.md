@@ -15,6 +15,7 @@ Tutorials of WRS (Fundamental Robotics)
 * [WRS_BC2_PYCHARM](https://wanweiwei07.github.io/files/bc2_pycharm_v20240917.pdf)
 * [WRS_BC3_ROTATION](https://wanweiwei07.github.io/files/bc3_rotation_v20240917.pdf)
 * [WRS_BC4_JLCHAIN](https://wanweiwei07.github.io/files/bc4_jlchain_v20240917.pdf)
+* [WRS_BC5_ROBOSIM](https://wanweiwei07.github.io/files/bc5_robosim_v20240920.pdf)
 
 Drivers and Embedded Systems
 ======
