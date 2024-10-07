@@ -30,3 +30,7 @@ author_profile: true
   * クラブ活動はダ
 
 * TAさんの連絡方法
+  * 増永 航大 u316426i@ecs.osaka-u.ac.jp
+  * 山田 響生 u595484i@ecs.osaka-u.ac.jp
+  * 竹林 龍之介 u147909k@ecs.osaka-u.ac.jp
+  * 中川 諒祐 u057640j@ecs.osaka-u.ac.jp
