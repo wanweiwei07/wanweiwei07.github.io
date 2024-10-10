@@ -12,6 +12,7 @@ author_profile: true
 * 大学院コース
   * 2024 データベースシステム論
   * 2024 システム科学ゼミナー
+    * [2024年10月09日　グーグルフォーム](https://forms.gle/gPkVLuRNGs2Hnyxi7)
     * [2024年10月16日　グーグルフォーム](https://forms.gle/WPsv6MNSqp5wKbkK7)
     * [2024年10月23日　グーグルフォーム](https://forms.gle/JChyXzBrgtCuEhv1A)
     * [2024年10月30日　グーグルフォーム](https://forms.gle/JPUzV4urArzvpQka8)
