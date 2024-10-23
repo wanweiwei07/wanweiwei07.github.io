@@ -7,8 +7,8 @@ author_profile: true
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
-<span style="color:red">[Preprint] Mengxin Xu, Weiwei Wan, Hesheng Wang, Kensuke Harada, [Direction-Constrained Control for Efficient Physical Human-Robot Interaction under Hierarchical Tasks](https://arxiv.org/pdf/2410.16922), **arXiv:2410.16922**, 2024.</span>
-<span style="color:red">[Preprint] Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, Kensuke Harada, [Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2401.09772), **arXiv:2401.09772**, 2024.</span>
+<span style="color:red;">[Preprint] Mengxin Xu, Weiwei Wan, Hesheng Wang, Kensuke Harada, [Direction-Constrained Control for Efficient Physical Human-Robot Interaction under Hierarchical Tasks](https://arxiv.org/pdf/2410.16922), **arXiv:2410.16922**, 2024.</span><be>
+<span style="color:red;">[Preprint] Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, Kensuke Harada, [Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2401.09772), **arXiv:2401.09772**, 2024.</span>
 
 * [Development of a Miniature Photometric Vision-Based Tactile Sensor](https://ieeexplore.ieee.org/document/10670000), Yuan Gao, Shixin Zhang, Weiwei Wan, Bin Fang, Fuchun Sun, and Kensuke Harada, **IEEE Sensors Journal**, 2024.
 * [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](https://ieeexplore.ieee.org/abstract/document/10328844), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
