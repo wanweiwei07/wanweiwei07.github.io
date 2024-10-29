@@ -8,26 +8,26 @@ author_profile: true
     * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> Interleaved modeling and manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Soft hand
-    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/)(Master 2021.10-2023.09, Ph.D. Candidate 2023.10-) -> HRI
-    * [Liang Qin]()(Ph.D. Candidate 2024.4-) -> Lab automation
+    * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/) (Master 2021.10-2023.09, Ph.D. Candidate 2023.10-) -> HRI
+    * [Liang Qin]() (Ph.D. Candidate 2024.4-) -> Lab automation (Organoid)
+    * [Jiarui Chang]() (Ph.D. Candidate 2024.10-) -> Lab automation (Agriculture)
  * Master candidates:
-    * [Yu Tang]() (2023.4-)
+    * [Yu Tang]() (2023.4-) -> Visual recognition
     * [Kodai Masunaga]() (2023.4-) -> Intuitive teaching
-    * [Takumi Kobayashi]() (from 2023.4) -> Cutting manipulation using RL
-    * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (2024.4) -> Mobile manipulation
-    * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (from 2024.4) -> Lab automation
-    * [Naoyuki Matsuyama]() (from2024.4) -> Soft robot
+    * [Takumi Kobayashi]() (2023.4-) -> Cutting manipulation using RL
+    * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (2024.4-) -> Mobile manipulation
+    * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (2024.4-) -> Lab automation
+    * [Naoyuki Matsuyama]() (2024.4-) -> Soft robot
  * Undergraduate students:
-    * [Haruto Nagai](https://n-haru0524.github.io/web/)(from 2024.4)
-    * [Takahiro Yonemaru]()
-    * [Ryuuta Nagahama]()
+    * [Haruto Nagai](https://n-haru0524.github.io/web/) (2024.4-) -> Dual-arm assembly
+    * [Takahiro Yonemaru] (2024.4-) -> Imitation learning
+    * [Ryuuta Nagahama] (2024.4-) -> Regrasp
  * Research students:
     * NA
  * Visiting professors:
-    * NA
+    * [Zeqing Zhang](https://benjizhang.github.io/) (2024.8-) -> Soft manipualtion
  * Visiting students:
-   * Mengxin Xu (2023.11-) -> Human-Robot Collaboration
-   * Xiaofeng Huang (2024.4-) ->
+    * Mengxin Xu (2023.11-) -> Human-Robot Collaboration
          
 Alumni
 =====
@@ -58,6 +58,7 @@ Alumni
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * [Xiaofeng Huang] (2024.4-8) (Beijing Institute of Technology)
     * Kai Alcayde (2023.7-9) (from University of California, Los Angeles)
     * Peng Xu (2023.5-7) (from The University of Hong Kong)
     * Zhuoyu Zhang (2022.8-2022.9) (from University of California, Los Angles)
