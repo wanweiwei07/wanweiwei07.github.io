@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <strong>I am a publicity chair for [IROS 2025](https://irmv.sjtu.edu.cn/iros2025/).</strong>
+<strong>I am a general co-chair for [RCAR2025](https://smartconf.jp/content/rcar2025/)</strong>
 
 This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. It is rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
 <img src="https://wanweiwei07.github.io/images/wrs_robots2.jpg">
