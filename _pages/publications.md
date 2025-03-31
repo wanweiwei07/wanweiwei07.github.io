@@ -7,6 +7,8 @@ author_profile: true
 
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
+* <span style="color: red;">[Preprint]</span> Xinyi Yuan, Weiwei Wan, Kensuke Harada, [IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations](https://arxiv.org/pdf/2503.22234), **arXiv:2503.22240**, 2025.
+* <span style="color: red;">[Preprint]</span> Ryuta Nagahama, Weiwei Wan, Zhengtao Hu, Kensuke Harada, [Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty](https://arxiv.org/pdf/2503.22240), **arXiv:2503.22240**, 2025.
 * <span style="color: red;">[Preprint]</span> Takahiro Yonemaru, Weiwei Wan, Tatsuki Nishimura, Kensuke Harada, [Learning to Group and Grasp Multiple Objects](https://arxiv.org/pdf/2502.08452v1), **arXiv:2502.08452**, 2025.
 * <span style="color: red;">[Preprint]</span> Mengxin Xu, Weiwei Wan, Hesheng Wang, Kensuke Harada, [Direction-Constrained Control for Efficient Physical Human-Robot Interaction under Hierarchical Tasks](https://arxiv.org/pdf/2410.16922), **arXiv:2410.16922**, 2024.
 * <span style="color: red;">[Preprint]</span> Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, Kensuke Harada, [Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2401.09772), **arXiv:2401.09772**, 2024.
