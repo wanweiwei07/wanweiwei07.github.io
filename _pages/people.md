@@ -12,7 +12,7 @@ author_profile: true
     * [Liang Qin]() (Ph.D. Candidate 2024.4-) -> Lab automation (Organoid)
     * [Jiarui Chang]() (Ph.D. Candidate 2024.10-) -> Lab automation (Agriculture)
     * [Yu Tang] (Master 2023.4-2025.3, Ph.D. Candidate 2025.4-) -> Visual-motor learning
-    * [Xinyi Yuan]() (Ph.D. Candidate 2025.04-) -> Learning for precise manipulation
+    * [Xinyi Yuan](https://yuan-xinyi.github.io/) (Ph.D. Candidate 2025.04-) -> Learning for precise manipulation
  * Master candidates:
     * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (2024.4-) -> Mobile manipulation
     * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (2024.4-) -> Lab automation
