@@ -8,11 +8,11 @@ author_profile: true
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
 * <span style="color: red;">[Preprint]</span> Xinyi Yuan, Weiwei Wan, Kensuke Harada, [IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations](https://arxiv.org/pdf/2503.22234), **arXiv:2503.22240**, 2025.
-* <span style="color: red;">[Preprint]</span> Ryuta Nagahama, Weiwei Wan, Zhengtao Hu, Kensuke Harada, [Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty](https://arxiv.org/pdf/2503.22240), **arXiv:2503.22240**, 2025.
 * <span style="color: red;">[Preprint]</span> Takahiro Yonemaru, Weiwei Wan, Tatsuki Nishimura, Kensuke Harada, [Learning to Group and Grasp Multiple Objects](https://arxiv.org/pdf/2502.08452v1), **arXiv:2502.08452**, 2025.
 * <span style="color: red;">[Preprint]</span> Mengxin Xu, Weiwei Wan, Hesheng Wang, Kensuke Harada, [Direction-Constrained Control for Efficient Physical Human-Robot Interaction under Hierarchical Tasks](https://arxiv.org/pdf/2410.16922), **arXiv:2410.16922**, 2024.
 * <span style="color: red;">[Preprint]</span> Hao Chen, Weiwei Wan, Masaki Matsushita, Takeyuki Kotaka, Kensuke Harada, [Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2401.09772), **arXiv:2401.09772**, 2024.
 
+* [Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty](https://ieeexplore.ieee.org/document/11037521), Ryuta Nagahama, Weiwei Wan, Zhengtao Hu, Kensuke Harada, **IEEE Robotics and Automation Letters**, 2025.
 * [Development of a Miniature Photometric Vision-Based Tactile Sensor](https://ieeexplore.ieee.org/document/10670000), Yuan Gao, Shixin Zhang, Weiwei Wan, Bin Fang, Fuchun Sun, and Kensuke Harada, **IEEE Sensors Journal**, 2024.
 * [NBV/NBC Planning Considering Confidence Obtained from Shape Completion Learning](https://xplorestaging.ieee.org/document/10414169), Ruishuang Liu, Chuan Li, Weiwei Wan, Jia Pan, and Kensuke Harada, **IEEE Robotics and Automation Letters**, 2024.
 * [Integrating a Manual Pipette into a Collaborative Robot Manipulator for Flexible Liquid Dispensing](https://ieeexplore.ieee.org/abstract/document/10328844), Junbo Zhang, Weiwei Wan, Nobuyuki Tanaka, Miki Fujita, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (TASE)**, 2023. [Video](https://www.youtube.com/watch?v=QU8uzNsG83I)
