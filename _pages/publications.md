@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <span style="color: red;">[Preprint]</span> Liang Qin, Weiwei Wan, Jun Takahashi, Ryo Negishi, Masaki Matsushita, Kensuke Harada, [Learning from Planned Data to Improve Robotic Pick-and-Place Planning Efficiency](ttps://arxiv.org/pdf/2506.15920), **arXiv:2506.15920**, 2025. [Video](https://youtu.be/TVdi3LClUP8)
+* <span style="color: red;">[Preprint]</span> Liang Qin, Weiwei Wan, Jun Takahashi, Ryo Negishi, Masaki Matsushita, Kensuke Harada, [Learning from Planned Data to Improve Robotic Pick-and-Place Planning Efficiency](https://arxiv.org/pdf/2506.15920), **arXiv:2506.15920**, 2025. [Video](https://youtu.be/TVdi3LClUP8)
 * <span style="color: red;">[Preprint]</span> Xinyi Yuan, Weiwei Wan, Kensuke Harada, [IKSel: Selecting Good Seed Joint Values for Fast Numerical Inverse Kinematics Iterations](https://arxiv.org/pdf/2503.22234), **arXiv:2503.22240**, 2025.
 * <span style="color: red;">[Preprint]</span> Takahiro Yonemaru, Weiwei Wan, Tatsuki Nishimura, Kensuke Harada, [Learning to Group and Grasp Multiple Objects](https://arxiv.org/pdf/2502.08452v1), **arXiv:2502.08452**, 2025. [Video](https://youtu.be/t5rLCGbdZR0)
 * <span style="color: red;">[Preprint]</span> Mengxin Xu, Weiwei Wan, Hesheng Wang, Kensuke Harada, [Direction-Constrained Control for Efficient Physical Human-Robot Interaction under Hierarchical Tasks](https://arxiv.org/pdf/2410.16922), **arXiv:2410.16922**, 2024.
