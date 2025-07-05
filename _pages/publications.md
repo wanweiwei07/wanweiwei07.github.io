@@ -14,7 +14,7 @@ author_profile: true
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
 
-* [Zero-Shot Recognition of Test Tube Types by Automatically Collecting and Labeling RGB Data](), Yu Tang, Weiwei Wan, Hao Chen, Masaki Matsushita, Jun Takahashi, Takeyuki Kotaka, Kensuke Harada, **IEEE Robotics and Automation Letters**, 2025. [Video]()
+* [Zero-Shot Recognition of Test Tube Types by Automatically Collecting and Labeling RGB Data](https://ieeexplore.ieee.org/document/11067950), Yu Tang, Weiwei Wan, Hao Chen, Masaki Matsushita, Jun Takahashi, Takeyuki Kotaka, Kensuke Harada, **IEEE Robotics and Automation Letters**, 2025. [Video](https://youtu.be/d1bhhW-p6P4)
 * [Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty](https://ieeexplore.ieee.org/document/11037521), Ryuta Nagahama, Weiwei Wan, Zhengtao Hu, Kensuke Harada, **IEEE Robotics and Automation Letters**, 2025. [Video](https://youtu.be/edUbqBvzLCU)
 * [Development of a Miniature Photometric Vision-Based Tactile Sensor](https://ieeexplore.ieee.org/document/10670000), Yuan Gao, Shixin Zhang, Weiwei Wan, Bin Fang, Fuchun Sun, and Kensuke Harada, **IEEE Sensors Journal**, 2024. 
 * [NBV/NBC Planning Considering Confidence Obtained from Shape Completion Learning](https://xplorestaging.ieee.org/document/10414169), Ruishuang Liu, Chuan Li, Weiwei Wan, Jia Pan, and Kensuke Harada, **IEEE Robotics and Automation Letters**, 2024. [Video](https://youtu.be/QK22YEZGX-M)
