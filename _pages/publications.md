@@ -14,7 +14,7 @@ author_profile: true
 Publications (selected, go to [my ResearchMap](https://researchmap.jp/weiweiwan) for a full list)
 ======
 
-* [Assembly Sequence Planning Considering Robotic Motion Costs and Multi-Operation Constraints](), Haruto Nagai, Weiwei Wan, Hiroki Suemoto, Kouichi Masaoka, Kensuke Harada
+* [Assembly Sequence Planning Considering Robotic Motion Costs and Multi-Operation Constraints](), Haruto Nagai, Weiwei Wan, Hiroki Suemoto, Kouichi Masaoka, Kensuke Harada, **IEEE/RSJ International Conference on Intelligent Robots and Systems**, 2025.
 * [Development of a Compact Tactile Sensor Using a Pinhole RGB Camera](), Yuan Gao, Shixin Zhang, Weiwei Wan, Bin Fang, Fuchun Sun, Kensuke Harada, **IEEE Sensors Journal**, 2025. 
 * [Zero-Shot Recognition of Test Tube Types by Automatically Collecting and Labeling RGB Data](https://ieeexplore.ieee.org/document/11067950), Yu Tang, Weiwei Wan, Hao Chen, Masaki Matsushita, Jun Takahashi, Takeyuki Kotaka, Kensuke Harada, **IEEE Robotics and Automation Letters**, 2025. [Video](https://youtu.be/d1bhhW-p6P4)
 * [Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty](https://ieeexplore.ieee.org/document/11037521), Ryuta Nagahama, Weiwei Wan, Zhengtao Hu, Kensuke Harada, **IEEE Robotics and Automation Letters**, 2025. [Video](https://youtu.be/edUbqBvzLCU)
