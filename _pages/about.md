@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <strong>I am a publicity chair for [IROS 2025](https://irmv.sjtu.edu.cn/iros2025/).</strong>
-<strong>I am serving for ICRA2026, ICCRE2026, ICCA2026, ROBIO2025, ICBSR2025 — though to be honest, I was just a bystander in some of them.</strong>
+<strong>I am serving for [ICRA2026](https://2026.ieee-icra.org/), [ICCRE2026](https://www.iccre.org/), [ICRCA2026](https://www.icrca.org/index.html), [ICCA2026](http://ieee-icca.org/), [ROBIO2025](https://www.robio2025.org/), [ICBSR2025](https://www.icbsr.org/) — though to be honest, I was just a bystander in some of them.</strong>
 
 This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. It is rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
 <img src="https://wanweiwei07.github.io/images/wrs_robots2.jpg">
