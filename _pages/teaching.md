@@ -9,5 +9,6 @@ author_profile: true
   * 2025 情報処理演習
   * 2025 コンピュータ基礎
   * 2025 Problem Based Learning (PBL)
+  * 2025 環境科学の基礎
 * 大学院コース
   * 2025 データベースシステム論
