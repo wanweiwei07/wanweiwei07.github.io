@@ -37,7 +37,7 @@ A Primer on Making Slides
  
 A Primer on Writing Technical Reports, Academic Paper, and Reviews
 ======
-* In case you are a complete beginner and confused about how to get started, refer to the following instructions: [English version](https://drive.google.com/file/d/1JOWQBulV0HJpUJ2P3_axhwVoOv5wCaGP/view?usp=sharing) ([Japanese translation](https://drive.google.com/file/d/10nHb9m7H-aVLotnPPslf6yaTz7lua5nY/view?usp=sharing), [Chinese translation](https://drive.google.com/file/d/1N8mGN9FEaAecEiSkEFA2LmW7H41AWbav/view?usp=sharing))
+* In case you are a complete beginner and confused about how to get started, refer to the following instructions: [English version](https://drive.google.com/file/d/1S2rE0Q9RIJCof821D-0LlYbveGy8jvlG/view?usp=sharing).
 * A guide on good writing is [here](https://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm). The key point is <span style="color:red">spill the beans fast</span>.
 * My recommended work routine is as follows.
   1. Make a draft of paper organization (section names, arrangement of sections, etc.), and discuss with me a lot.
