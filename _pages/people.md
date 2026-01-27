@@ -25,7 +25,7 @@ author_profile: true
  * Research students:
     * NA
  * Visiting professors:
-    * NA
+    * [Yidi Li](https://liyidi.github.io/) (Taiyuan University of Technology)
  * Visiting students:
     * NA
          
@@ -61,6 +61,7 @@ Alumni
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * Nasse Sinan (2025.12-2026.1) (The University of Manchester)
     * Mengxin Xu (2023.11-2024.11) (Shanghai Jiaotong University)
     * [Xiaofeng Huang] (2024.4-8) (Beijing Institute of Technology)
     * Kai Alcayde (2023.7-9) (University of California, Los Angeles)
