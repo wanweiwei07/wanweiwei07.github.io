@@ -21,7 +21,9 @@ author_profile: true
     * [Takahiro Yonemaru] (2025.4-) -> Imitation learning
     * [Ryuuta Nagahama] (2025.4-) -> Regrasp
  * Undergraduate students:
-    * NA
+    * [Kosei Yamashita]() (2025.4-) -> Picking from clutter
+    * [Doma Waki]() (2025.4-) -> Lab automation
+    * [Hinata Matsuuchi]() (2025.4-) -> Mining automation
  * Research students:
     * NA
  * Visiting professors:
