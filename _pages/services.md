@@ -4,31 +4,14 @@ title: "Call for Paper"
 permalink: /services/
 author_profile: true
 ---
-* Current Call for Paper
-  * [Special Issue on Artificial Intelligence Generated Content (AIGC) for Industrial Manufacturing](), IEEE Transactions on Automation Science and Engineering (TASE), Deadline: Oct 1st, 2024.
-  * [Special Issue on Recent Advances in Robotics and Biomimetics](https://www.mdpi.com/journal/biomimetics/special_issues/4S8OIN67K5), Biomimetics, Deadline: Jun 30th, 2024. (Note: Selected papers from IEEE ROBIO2023 will be recommended for this special issue.)
-* Past Call for Paper
-  * [Special Issue on Intelligent Human-Robot Interaction](https://www.mdpi.com/journal/biomimetics/special_issues/9I9AQDZ46B), Biomimetics, Deadline: Aug 20th, 2023.
-  * [Special Issue on Biomimetic Perception, Cognition, and Control: From Nature to Robots](https://www.ieee-ras.org/publications/ram/special-issues/biomimetic-perception-cognition-and-control-from-nature-to-robots), IEEE Robotics and Automation Magzine, Deadline: Feb 1st, 2022.
-  * [Special Issue on Emerging Topics on Development and Learning](https://wanweiwei07.github.io/files/ICDL2021_Special_Issue_Proposal_IEEE_Format.pdf), IEEE Transactions on Cognitive and Developmental Systems, Deadline: Dec 15th, 2021.
-  * [Special Issue on Intelligent Perception, Interaction and Learning for Dexterous Robotic Manipulation: Industrial Robots](https://www.emeraldgrouppublishing.com/journal/ir/intelligent-perception-interaction-and-learning-dexterous-robotic-manipulation), Industrial Robots, Deadline: Sep 1st, 2021.
-  * [Special Issue on Physical Human-Robot Interaction and Co-Manipulation: Mechatronics Approaches](https://www.journals.elsevier.com/mechatronics/call-for-papers/call-for-papers-special-issue-on-physical-human-robot-intera), Mechatronics, Deadline: Oct 1st, 2021.
-  * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems, Sensors and Materials](https://wanweiwei07.github.io/files/CFP-Sensors%26Materials_updated.pdf)
-  * [Special Issue on Neuro-Robotics: From Brain Machine Interfaces to Rehabilitation Robotics, Advanced Robotics](https://www.rsj.or.jp/databox/advanced/CFP/CFP_34_19.pdf)
-  * [IROS2019 Workshop on Manipulation through Contacts: Bridging the Gap between Research Community and Industry](http://manipulation-workshop.com/)
-  * [RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots](https://sites.google.com/site/rss16irt/)
-  * [IROS2013 Fullday Workshop on Caging and Its Applications in Grasping/Multi-agent Cooperation](https://sites.google.com/site/iros2013workshoponcaging/)
-
-Conference Websites
-=====
-* [ROBIO2023](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/robio2023/)
   
 Services
 =====
-* Associate Editor / Editorial Board
-  * IEEE Transactions on Robotics (TRO) 2023~.
+* Editor / Associate Editor / Editorial Board
+  * IROS Conference Paper Review Board (CPRB), Editor 2025~.
   * International Journal on Robotics Research (IJRR) 2023~.
-  * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~.
+  * IEEE Transactions on Robotics (TRO) 2023~2025.
+  * CAAI/IET Transactions on Intelligent Technology (TIT) 2019~2024.
   * IEEE Robotics and Automation Letters（RA-L) 2018~2022.
   * Chinese Journal of Mechanical Engineering (CJME) 2021~2022.
   * Cyborg and Bionic Systems 2021~2022.
@@ -88,3 +71,21 @@ Services
   * IEEE International Conference on Ubiquitous Robots (UR)
   * Conference on  Robot Learning (CoRL)
   * etc.
+
+* Past Call for Paper
+  * [Special Issue on Artificial Intelligence Generated Content (AIGC) for Industrial Manufacturing](), IEEE Transactions on Automation Science and Engineering (TASE), Deadline: Oct 1st, 2024.
+  * [Special Issue on Recent Advances in Robotics and Biomimetics](https://www.mdpi.com/journal/biomimetics/special_issues/4S8OIN67K5), Biomimetics, Deadline: Jun 30th, 2024. (Note: Selected papers from IEEE ROBIO2023 will be recommended for this special issue.)
+  * [Special Issue on Intelligent Human-Robot Interaction](https://www.mdpi.com/journal/biomimetics/special_issues/9I9AQDZ46B), Biomimetics, Deadline: Aug 20th, 2023.
+  * [Special Issue on Biomimetic Perception, Cognition, and Control: From Nature to Robots](https://www.ieee-ras.org/publications/ram/special-issues/biomimetic-perception-cognition-and-control-from-nature-to-robots), IEEE Robotics and Automation Magzine, Deadline: Feb 1st, 2022.
+  * [Special Issue on Emerging Topics on Development and Learning](https://wanweiwei07.github.io/files/ICDL2021_Special_Issue_Proposal_IEEE_Format.pdf), IEEE Transactions on Cognitive and Developmental Systems, Deadline: Dec 15th, 2021.
+  * [Special Issue on Intelligent Perception, Interaction and Learning for Dexterous Robotic Manipulation: Industrial Robots](https://www.emeraldgrouppublishing.com/journal/ir/intelligent-perception-interaction-and-learning-dexterous-robotic-manipulation), Industrial Robots, Deadline: Sep 1st, 2021.
+  * [Special Issue on Physical Human-Robot Interaction and Co-Manipulation: Mechatronics Approaches](https://www.journals.elsevier.com/mechatronics/call-for-papers/call-for-papers-special-issue-on-physical-human-robot-intera), Mechatronics, Deadline: Oct 1st, 2021.
+  * [Special Issue on Human-in-the-loop Sensing in Cognitive Robotic Systems, Sensors and Materials](https://wanweiwei07.github.io/files/CFP-Sensors%26Materials_updated.pdf)
+  * [Special Issue on Neuro-Robotics: From Brain Machine Interfaces to Rehabilitation Robotics, Advanced Robotics](https://www.rsj.or.jp/databox/advanced/CFP/CFP_34_19.pdf)
+  * [IROS2019 Workshop on Manipulation through Contacts: Bridging the Gap between Research Community and Industry](http://manipulation-workshop.com/)
+  * [RSS2016 Workshop on Recent Advances in Planning and Manipulation for Industrial Robots](https://sites.google.com/site/rss16irt/)
+  * [IROS2013 Fullday Workshop on Caging and Its Applications in Grasping/Multi-agent Cooperation](https://sites.google.com/site/iros2013workshoponcaging/)
+
+Conference Websites
+=====
+* [ROBIO2023](http://www.hlab.sys.es.osaka-u.ac.jp/people/wan/robio2023/)
