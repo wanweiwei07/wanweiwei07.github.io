@@ -118,13 +118,13 @@ This webiste is in English. For Japanese information, goto my [Researchmap](http
 <div class="image-carousel js-image-carousel" data-carousel-interval="5000" aria-label="Lab robots image carousel">
   <div class="image-carousel__track">
     <figure class="image-carousel__slide is-active">
-      <img src="{{ base_path }}/images/wrs_robots2.jpg" alt="Simulation of dual-arm robots in the lab">
+      <img src="{{ base_path }}/images/wrs_robots2.jpg?v=20260323" alt="Simulation of dual-arm robots in the lab">
     </figure>
     <figure class="image-carousel__slide">
-      <img src="{{ base_path }}/images/wrs_robots3.jpg" alt="Robot workcell simulation scene">
+      <img src="{{ base_path }}/images/wrs_robots3.jpg?v=20260323" alt="Robot workcell simulation scene">
     </figure>
     <figure class="image-carousel__slide">
-      <img src="{{ base_path }}/images/wrs_robots.jpg" alt="Robots and manipulation systems developed in the lab">
+      <img src="{{ base_path }}/images/wrs_robots.jpg?v=20260323" alt="Robots and manipulation systems developed in the lab">
     </figure>
   </div>
   <button class="image-carousel__control image-carousel__control--prev" type="button" aria-label="Previous image">&lsaquo;</button>
