@@ -121,10 +121,10 @@ This webiste is in English. For Japanese information, goto my [Researchmap](http
       <img src="{{ base_path }}/images/wrs_robots2.jpg" alt="Simulation of dual-arm robots in the lab">
     </figure>
     <figure class="image-carousel__slide">
-      <img src="{{ base_path }}/images/wrs_robots.jpg" alt="Robot workcell simulation scene">
+      <img src="{{ base_path }}/images/wrs_robots3.jpg" alt="Robot workcell simulation scene">
     </figure>
     <figure class="image-carousel__slide">
-      <img src="{{ base_path }}/images/robotlist2.jpg" alt="Robots and manipulation systems developed in the lab">
+      <img src="{{ base_path }}/images/wrs_robots.jpg" alt="Robots and manipulation systems developed in the lab">
     </figure>
   </div>
   <button class="image-carousel__control image-carousel__control--prev" type="button" aria-label="Previous image">&lsaquo;</button>
