@@ -8,8 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following picture shows the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. It is rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
-<img src="https://wanweiwei07.github.io/images/wrs_robots2.jpg">
+This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following pictures show the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. They are rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
+
+<div class="image-carousel js-image-carousel" data-carousel-interval="5000" aria-label="Lab robots image carousel">
+  <div class="image-carousel__track">
+    <figure class="image-carousel__slide is-active">
+      <img src="/images/wrs_robots2.jpg" alt="Simulation of dual-arm robots in the lab">
+    </figure>
+    <figure class="image-carousel__slide">
+      <img src="/images/wrs_robots2.jpg" alt="Robot workcell simulation scene">
+    </figure>
+    <figure class="image-carousel__slide">
+      <img src="/images/robotlist2.jpg" alt="Robots and manipulation systems developed in the lab">
+    </figure>
+  </div>
+  <button class="image-carousel__control image-carousel__control--prev" type="button" aria-label="Previous image">&lsaquo;</button>
+  <button class="image-carousel__control image-carousel__control--next" type="button" aria-label="Next image">&rsaquo;</button>
+  <div class="image-carousel__nav" aria-label="Carousel navigation">
+    <button class="image-carousel__dot is-active" type="button" aria-label="Show image 1"></button>
+    <button class="image-carousel__dot" type="button" aria-label="Show image 2"></button>
+    <button class="image-carousel__dot" type="button" aria-label="Show image 3"></button>
+  </div>
+</div>
 
 Short Bio
 ======

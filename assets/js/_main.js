@@ -57,6 +57,65 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
+  $(".js-image-carousel").each(function() {
+    var $carousel = $(this);
+    var $slides = $carousel.find(".image-carousel__slide");
+    var $dots = $carousel.find(".image-carousel__dot");
+    var interval = parseInt($carousel.attr("data-carousel-interval"), 10) || 5000;
+    var currentIndex = 0;
+    var timerId;
+
+    if ($slides.length < 2) {
+      return;
+    }
+
+    var showSlide = function(index) {
+      currentIndex = (index + $slides.length) % $slides.length;
+      $slides.removeClass("is-active").eq(currentIndex).addClass("is-active");
+      $dots.removeClass("is-active").eq(currentIndex).addClass("is-active");
+    };
+
+    var startAutoPlay = function() {
+      timerId = setInterval(function() {
+        showSlide(currentIndex + 1);
+      }, interval);
+    };
+
+    var stopAutoPlay = function() {
+      clearInterval(timerId);
+    };
+
+    $carousel.find(".image-carousel__control--prev").on("click", function() {
+      stopAutoPlay();
+      showSlide(currentIndex - 1);
+      startAutoPlay();
+    });
+
+    $carousel.find(".image-carousel__control--next").on("click", function() {
+      stopAutoPlay();
+      showSlide(currentIndex + 1);
+      startAutoPlay();
+    });
+
+    $dots.on("click", function() {
+      stopAutoPlay();
+      showSlide($(this).index());
+      startAutoPlay();
+    });
+
+    $carousel.on("mouseenter focusin", function() {
+      stopAutoPlay();
+    });
+
+    $carousel.on("mouseleave focusout", function() {
+      stopAutoPlay();
+      startAutoPlay();
+    });
+
+    showSlide(0);
+    startAutoPlay();
+  });
+
   // init smooth scroll
   $("a").smoothScroll({offset: -20});
 
