@@ -10,16 +10,121 @@ redirect_from:
 
 This webiste is in English. For Japanese information, goto my [Researchmap](https://researchmap.jp/weiweiwan){:target="_blank"}. The following pictures show the robots in [our lab](https://www.roboticmanipulation.org/){:target="_blank"}. They are rendered using a simulation/planning system I developed under the support of [NEDO](https://www.nedo.go.jp/english/index.html){:target="_blank"}. A bunch of videos about the system can be found in [my Youtube channel](https://www.youtube.com/WeiweiWan/){:target="_blank"}.
 
+<style>
+  .image-carousel {
+    position: relative;
+    margin: 1.5em 0 2em;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #f8f9f9;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+  }
+
+  .image-carousel__track {
+    position: relative;
+  }
+
+  .image-carousel__slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    opacity: 0;
+    transition: opacity 0.6s ease-in-out;
+    pointer-events: none;
+  }
+
+  .image-carousel__slide.is-active {
+    position: relative;
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 1;
+  }
+
+  .image-carousel__slide img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .image-carousel__control {
+    position: absolute;
+    top: 50%;
+    z-index: 2;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-top: -1.25rem;
+    border: 0;
+    border-radius: 999px;
+    background: rgba(17, 17, 17, 0.6);
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .image-carousel__control--prev {
+    left: 0.75rem;
+  }
+
+  .image-carousel__control--next {
+    right: 0.75rem;
+  }
+
+  .image-carousel__nav {
+    position: absolute;
+    left: 50%;
+    bottom: 0.85rem;
+    z-index: 2;
+    display: flex;
+    gap: 0.5rem;
+    transform: translateX(-50%);
+  }
+
+  .image-carousel__dot {
+    width: 0.7rem;
+    height: 0.7rem;
+    padding: 0;
+    border: 0;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.55);
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.18);
+    cursor: pointer;
+  }
+
+  .image-carousel__dot.is-active {
+    background: #fff;
+  }
+
+  @media (max-width: 600px) {
+    .image-carousel__control {
+      width: 2.15rem;
+      height: 2.15rem;
+      margin-top: -1.075rem;
+      font-size: 1.25rem;
+    }
+
+    .image-carousel__control--prev {
+      left: 0.5rem;
+    }
+
+    .image-carousel__control--next {
+      right: 0.5rem;
+    }
+  }
+</style>
+
 <div class="image-carousel js-image-carousel" data-carousel-interval="5000" aria-label="Lab robots image carousel">
   <div class="image-carousel__track">
     <figure class="image-carousel__slide is-active">
-      <img src="/images/wrs_robots2.jpg" alt="Simulation of dual-arm robots in the lab">
+      <img src="{{ base_path }}/images/wrs_robots2.jpg" alt="Simulation of dual-arm robots in the lab">
     </figure>
     <figure class="image-carousel__slide">
-      <img src="/images/wrs_robots2.jpg" alt="Robot workcell simulation scene">
+      <img src="{{ base_path }}/images/wrs_robots.jpg" alt="Robot workcell simulation scene">
     </figure>
     <figure class="image-carousel__slide">
-      <img src="/images/robotlist2.jpg" alt="Robots and manipulation systems developed in the lab">
+      <img src="{{ base_path }}/images/robotlist2.jpg" alt="Robots and manipulation systems developed in the lab">
     </figure>
   </div>
   <button class="image-carousel__control image-carousel__control--prev" type="button" aria-label="Previous image">&lsaquo;</button>
@@ -30,6 +135,77 @@ This webiste is in English. For Japanese information, goto my [Researchmap](http
     <button class="image-carousel__dot" type="button" aria-label="Show image 3"></button>
   </div>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var carousels = document.querySelectorAll(".js-image-carousel");
+
+    Array.prototype.forEach.call(carousels, function(carousel) {
+      var slides = carousel.querySelectorAll(".image-carousel__slide");
+      var dots = carousel.querySelectorAll(".image-carousel__dot");
+      var prevButton = carousel.querySelector(".image-carousel__control--prev");
+      var nextButton = carousel.querySelector(".image-carousel__control--next");
+      var interval = parseInt(carousel.getAttribute("data-carousel-interval"), 10) || 5000;
+      var currentIndex = 0;
+      var timerId = null;
+
+      if (slides.length < 2) {
+        return;
+      }
+
+      var showSlide = function(index) {
+        currentIndex = (index + slides.length) % slides.length;
+
+        Array.prototype.forEach.call(slides, function(slide, slideIndex) {
+          slide.className = slideIndex === currentIndex ? "image-carousel__slide is-active" : "image-carousel__slide";
+        });
+
+        Array.prototype.forEach.call(dots, function(dot, dotIndex) {
+          dot.className = dotIndex === currentIndex ? "image-carousel__dot is-active" : "image-carousel__dot";
+        });
+      };
+
+      var stopAutoPlay = function() {
+        if (timerId) {
+          window.clearInterval(timerId);
+          timerId = null;
+        }
+      };
+
+      var startAutoPlay = function() {
+        stopAutoPlay();
+        timerId = window.setInterval(function() {
+          showSlide(currentIndex + 1);
+        }, interval);
+      };
+
+      prevButton.addEventListener("click", function() {
+        showSlide(currentIndex - 1);
+        startAutoPlay();
+      });
+
+      nextButton.addEventListener("click", function() {
+        showSlide(currentIndex + 1);
+        startAutoPlay();
+      });
+
+      Array.prototype.forEach.call(dots, function(dot, dotIndex) {
+        dot.addEventListener("click", function() {
+          showSlide(dotIndex);
+          startAutoPlay();
+        });
+      });
+
+      carousel.addEventListener("mouseenter", stopAutoPlay);
+      carousel.addEventListener("mouseleave", startAutoPlay);
+      carousel.addEventListener("focusin", stopAutoPlay);
+      carousel.addEventListener("focusout", startAutoPlay);
+
+      showSlide(0);
+      startAutoPlay();
+    });
+  });
+</script>
 
 Short Bio
 ======
