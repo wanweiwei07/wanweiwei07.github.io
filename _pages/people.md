@@ -5,7 +5,6 @@ permalink: /people/
 author_profile: true
 ---
  * PhD candidates:
-    * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. Candidate 2021.4-) -> Interleaved modeling and manipulation
     * [Junbo Zhang](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Dynamic catching
     * [Bowen Yu](https://wanweiwei07.github.io/people/) (Master 2021.4-2023.3, Ph.D. Candidate 2023.4-) -> Soft hand
     * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/) (Master 2021.10-2023.09, Ph.D. Candidate 2023.10-) -> HRI
@@ -14,16 +13,13 @@ author_profile: true
     * [Yu Tang] (Master 2023.4-2025.3, Ph.D. Candidate 2025.4-) -> Visual-motor learning
     * [Xinyi Yuan](https://yuan-xinyi.github.io/) (Ph.D. Candidate 2025.04-) -> Learning for precise manipulation
  * Master candidates:
-    * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (2024.4-) -> Mobile manipulation
-    * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (2024.4-) -> Lab automation
-    * [Naoyuki Matsuyama]() (2024.4-) -> Soft robot
     * [Haruto Nagai](https://n-haru0524.github.io/web/) (2025.4-) -> Dual-arm assembly
-    * [Takahiro Yonemaru] (2025.4-) -> Imitation learning
+    * [Takahiro Yonemaru](https://yonemarutakahiro.github.io/yonemaru-webpage/) (2025.4-) -> Imitation learning
     * [Ryuuta Nagahama] (2025.4-) -> Regrasp
+    * [Doma Waki]() (2026.4-) -> Lab automation
+    * [Hinata Matsuuchi]() (2026.4-) -> Mining automation
  * Undergraduate students:
-    * [Kosei Yamashita]() (2025.4-) -> Picking from clutter
-    * [Doma Waki]() (2025.4-) -> Lab automation
-    * [Hinata Matsuuchi]() (2025.4-) -> Mining automation
+    * NA
  * Research students:
     * NA
  * Visiting professors:
@@ -34,26 +30,31 @@ author_profile: true
 Alumni
 =====
  * Past students
+    * [Yuan Gao](https://photon26.github.io/) (Master 2019.4-2021.3, Ph.D. 2021.4-2026.3, Tactile sensors) SAST
+    * [Tatsuki Nishimura](https://tatsukinishimura.github.io/angular-mypage/) (Master 2024.4-2026.3, Mobile manipulation) Tier-4
+    * [Ryousuke Nakagawa](https://nakagawa0717.github.io/homepage_1/index.html) (Master 2024.4-2026.3, Lab automation) KHI
+    * [Naoyuki Matsuyama]() (Master 2024.4-2026.3, Soft robot) Panasonic
+    * [Kosei Yamashita]() (Undergraduate 2025.4-2026.3, Picking from clutter)
     * [Kodai Masunaga]() (Master 2023.4-2025.3, Intuitive teaching) NTT DATA
     * [Takumi Kobayashi]() (Master 2023.4-2025.3, Cutting manipulation using RL) 
     * [Hao Chen](http://chenhao.info/) (Master 2019.4-2021.3, Ph.D.2021.4-2024.3, Reinforcement Learning for TAMP) -> Fujian Agricultural and Forest University
     * [Ruishuang Liu](https://rsliu-xx.github.io/) (Ph.D. 2019.10-2023.4, 3D Robotic painting planning) -> Honda
     * Mohamed Raessa (Ph.D. 2018.4-2021.3, Drooping manipulation planning) -> Avatar-in Inc.
-    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3, Mechanical tool design for a general robot) -> Reseach assistant professor, Osaka University -> Shanghai University
+    * [Zhengtao Hu](http://huzhengtao.work/) (Ph.D. 2018.10-2022.3, Mechanical tool design for a general robot) -> Research assistant professor, Osaka University -> Shanghai University
     * [Taiki Moriyama](https://tkmrym.github.io/) (Master 2022.4-2024.3) -> NTT WEST
     * [Yusuke Hirao](https://hrhryusuke.github.io/homepage2/) (Master 2022.4-2024.3) -> Yasukawa
     * [Kento Nakatsuru](https://kentonakatsuru.github.io/my-portfolio/) (Master 2021.4-2023.3, From human demonstration to robot motion) -> Daikin
     * [Yuuga Nakamura](https://yuuga744.github.io/homepage/) (Master 2021.4-2023.3, Gravitational manipulation)
-    * Shogo Hayakawa (Master 2020.4-2022.3, Manipulating heavy objects using humanoid robots) -> Pansasonic Corporation
-    * Sho Kobayashi (Master 2020.4-2022.3, Reconstruction from motion) -> FANUC Corporation
+    * Shogo Hayakawa (Master 2020.4-2022.3, Manipulating heavy objects using humanoid robots) -> Panasonic
+    * Sho Kobayashi (Master 2020.4-2022.3, Reconstruction from motion) -> FANUC
     * Shogo Matsuoka (Master 2020.4-2022.3, In-hand pose estimation) -> TOYOTA
     * Sanchez Aranguren Daniel Enrique (Master 2019.4-2021.3, Manipulation planning under stability constraints) -> Autonomous Control Systems Laboratory
     * Ryosuke Hiraki (Master 2019.4-2021.3, Deep learning to pushing) -> NTT WEST
     * Takehiro Fujimori (Master 2019.4-2021.3, Caging under gravity) -> Panasonic
     * Ryuta Moriyama (Master 2019.4-2021.3, Dual-arm assembly planning) -> NTT WEST
-    * [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2017.4-2019.3, Learning peg-in-hole) -> The Pokemon Company
+    * [Joshua C. Triyonoputro](http://www.hlab.sys.es.osaka-u.ac.jp/people/joshua/joshua.html) (Master 2017.4-2019.3, Learning peg-in-hole) -> Pokemon
     * Hitoe Ochi (Master 2017.4-2019.3, Learning human motion using RNN) -> Shimazu
-    * Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) -> Sony
+    * Kaidi Nie (Master 2017.4-2019.3, Hand design for precise manipulation) -> SONY
     * Zepei Wu (Research Student 2015.4-2016.3) -> Master student, Tokyo Metropolitan University
  * Past visiting professors
     * [Zeqing Zhang](https://benjizhang.github.io/) (2024.8-2024.10) (Postdoctoral Researcher, The University of Hong Kong)
@@ -63,6 +64,7 @@ Alumni
     * Jianhua Su (2017) (Associate Professor, China Academy of Sciences)
     * [Hisashi Igawa](http://www2.hro.or.jp/rschr/rschr.php?epy_id=ggAXPXWwXcrJAzR) (2016.6-8) (Government-employed Researcher, Hokkaido Research Organization) 
  * Past visiting students
+    * Lisa Herrmann (2025.9-2026.2) (Karlsruhe Institute of Technology)
     * Nasse Sinan (2025.12-2026.1) (The University of Manchester)
     * Mengxin Xu (2023.11-2024.11) (Shanghai Jiaotong University)
     * [Xiaofeng Huang] (2024.4-8) (Beijing Institute of Technology)
