@@ -210,18 +210,18 @@ This webiste is in English. For Japanese information, goto my [Researchmap](http
 Research Vision
 ======
 Some of my students worry that AI and robotics are advancing too fast, and that jobs will disappear in the future. I see it the other way around. Technology is not progressing fast enough. If it truly were, we would have already conquered disease, significantly extended human lifespan, and expanded into space. Faster progress does not eliminate jobs. Instead, it creates new possibilities and entirely new industries. Occupations like typists and telephone switchboard operators have vanished, yet countless new industries have emerged in their place. The same will continue to happen.
-With this conviction, I am actively pursuing the integration of AI and robotics. The arrival of AI has dramatically enhanced our ability to work with complex systems. Looking ahead, I believe the following directions are particularly important:
-System-level design and optimization that integrates multi-sensor information, robotic mechanism design, and application requirements — essentially exploring what data to use and how to use it<br>
-Adoption of large-scale predictive models (so-called world models)<br>
-Norms in robot learning (or robot ethics) and self-evolution<br>
-Constraining and refining AI outputs using conventional mathematical models
+With this conviction, I am actively pursuing the integration of AI and robotics. The arrival of AI has dramatically enhanced our ability to work with complex systems. Looking ahead, I believe the following directions are particularly important:<br>
+• System-level design and optimization that integrates multi-sensor information, robotic mechanism design, and application requirements — essentially exploring what data to use and how to use it<br>
+• Adoption of large-scale predictive models (world models)<br>
+• Norms in robot learning (or robot ethics) and self-evolution<br>
+• Constraining and refining AI outputs using conventional mathematical models<br>
 
-Guided by these directions, my research rests on five pillars:
-Learning- and planning-based generation of task motions for robots<br>
-Design of robot hands and task-specific tools<br>
-Robot sensing, including vision, force, and tactile perception<br>
-Mutual understanding between robots and humans<br>
-Design of simulation, UMI, and teleoperation systems, and the data collection they enable
+Guided by these directions, my research rests on five pillars:<br>
+• Learning- and planning-based generation of task motions for robots<br>
+• Design of robot hands and task-specific tools<br>
+• Robot sensing, including vision, force, and tactile perception<br>
+• Mutual understanding between robots and humans<br>
+• Design of simulation, UMI, and teleoperation systems, and the data collection they enable
 
 This research targets a wide range of application domains, including manufacturing, scientific research, healthcare, agriculture, and mining. Beyond these, the space industry — mentioned at the outset — also presents numerous scenarios where intelligent robots should take over tasks from humans. Although I have not yet worked directly in the space domain, I see tremendous potential there. If you are interested in intelligent robotics research or its applications in any field, please do not hesitate to reach out. Let us advance human society together.
 
