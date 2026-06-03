@@ -23,6 +23,8 @@ Guided by these directions, my research rests on five pillars:<br>
 
 This research targets a wide range of application domains, including manufacturing, scientific research, healthcare, agriculture, and mining. Beyond these, the space industry also presents numerous scenarios where intelligent robots should take over tasks from humans. Although I have not yet worked directly in the space domain, I see tremendous potential there. If you are interested in intelligent robotics research or its applications in any field, please do not hesitate to reach out. Let us advance human society together.
 
+Software
+======
 世界中はいろいろなロボットソフトが存在しています．万は2016年以来，従来のソフトの長所と短所を考え，WRSと呼ばれる新なソフトを開発始めました．現在，基礎プラットフォームとして[オーペン]((https://github.com/wanweiwei07){:target="_blank"})しています．共同研究或いは協力研究などご提案下されば，個別相談させますようお願いします．ご協力どうもありがとうございます．
 
 We develop a software system called "WRS" at Osaka University. Although the goal is to be opensource, we are not openning the one under development. You may find an open-source version of the system from [my github channel](https://github.com/wanweiwei07){:target="_blank"}. For companies and other collegues who are expecting to collaborate with us, please drop by my office and talk to me.
