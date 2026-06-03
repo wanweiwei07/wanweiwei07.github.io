@@ -126,6 +126,9 @@ This webiste is in English. For Japanese information, goto my [Researchmap](http
     <figure class="image-carousel__slide">
       <img src="{{ base_path }}/images/wrs_robots.jpg?v=20260323" alt="Robots and manipulation systems developed in the lab">
     </figure>
+    <figure class="image-carousel__slide">
+      <img src="{{ base_path }}/images/one_robots.jpg?v=20260323" alt="Single-arm robot system developed in the lab">
+    </figure>
   </div>
   <button class="image-carousel__control image-carousel__control--prev" type="button" aria-label="Previous image">&lsaquo;</button>
   <button class="image-carousel__control image-carousel__control--next" type="button" aria-label="Next image">&rsaquo;</button>
@@ -133,6 +136,7 @@ This webiste is in English. For Japanese information, goto my [Researchmap](http
     <button class="image-carousel__dot is-active" type="button" aria-label="Show image 1"></button>
     <button class="image-carousel__dot" type="button" aria-label="Show image 2"></button>
     <button class="image-carousel__dot" type="button" aria-label="Show image 3"></button>
+    <button class="image-carousel__dot" type="button" aria-label="Show image 4"></button>
   </div>
 </div>
 
