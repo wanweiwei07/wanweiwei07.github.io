@@ -10,16 +10,16 @@ author_profile: true
     * [Chi Yin (Jimmy) Chen](https://wanweiwei07.github.io/people/) (Master 2021.10-2023.09, Ph.D. Candidate 2023.10-) -> HRI
     * [Liang Qin]() (Ph.D. Candidate 2024.4-) -> Lab automation (Organoid)
     * [Jiarui Chang]() (Ph.D. Candidate 2024.10-) -> Lab automation (Agriculture)
-    * [Yu Tang] (Master 2023.4-2025.3, Ph.D. Candidate 2025.4-) -> Visual-motor learning
+    * [Yu Tang]() (Master 2023.4-2025.3, Ph.D. Candidate 2025.4-) -> Visual-motor learning
     * [Xinyi Yuan](https://yuan-xinyi.github.io/) (Ph.D. Candidate 2025.04-) -> Learning for precise manipulation
  * Master candidates:
     * [Haruto Nagai](https://n-haru0524.github.io/web/) (2025.4-) -> Dual-arm assembly
     * [Takahiro Yonemaru](https://yonemarutakahiro.github.io/yonemaru-webpage/) (2025.4-) -> Imitation learning
-    * [Ryuuta Nagahama] (2025.4-) -> Regrasp
+    * [Ryuuta Nagahama]() (2025.4-) -> Regrasp
     * [Doma Waki]() (2026.4-) -> Lab automation
     * [Hinata Matsuuchi]() (2026.4-) -> Mining automation
  * Undergraduate students:
-    * NA
+    * [Kazuto Endo]() (2026.9-)
  * Research students:
     * NA
  * Visiting professors:
