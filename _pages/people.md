@@ -25,7 +25,7 @@ author_profile: true
  * Visiting professors:
     * [Yidi Li](https://liyidi.github.io/) (Taiyuan University of Technology)
  * Visiting students:
-    * NA
+    * Pachmayr Josef (Technical University of Munich)
          
 Alumni
 =====
@@ -67,7 +67,8 @@ Alumni
     * Lisa Herrmann (2025.9-2026.2) (Karlsruhe Institute of Technology)
     * Nasse Sinan (2025.12-2026.1) (The University of Manchester)
     * Mengxin Xu (2023.11-2024.11) (Shanghai Jiaotong University)
-    * [Xiaofeng Huang] (2024.4-8) (Beijing Institute of Technology)
+    * Xiaofeng Huang (2024.4-8) (Beijing Institute of Technology)
+    * Yunping Li (2023.11-2024.1) (National Cheng Kung University)
     * Kai Alcayde (2023.7-9) (University of California, Los Angeles)
     * Peng Xu (2023.5-7) (The University of Hong Kong)
     * Zhuoyu Zhang (2022.8-2022.9) (University of California, Los Angeles)
